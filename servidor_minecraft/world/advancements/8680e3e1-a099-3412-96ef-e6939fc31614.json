@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "game:monument/ability3": {
+    "criteria": {
+      "requirement": "2025-02-27 05:15:59 +0000"
+    },
+    "done": true
+  },
   "game:monument/ability1": {
     "criteria": {
       "requirement": "2025-02-27 04:46:08 +0000"
