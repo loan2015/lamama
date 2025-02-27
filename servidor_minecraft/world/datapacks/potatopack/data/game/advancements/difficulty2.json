@@ -1,0 +1,17 @@
+{
+    "criteria": {
+      "a": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:interaction",
+            "nbt": "{Tags:[\"difficulty\"]}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "game:lobby/toggle_difficulty"
+    }
+  }
+  

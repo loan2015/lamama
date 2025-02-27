@@ -1,0 +1,20 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:dried_kelp",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'{\"translate\":\"custom_healing.name0\",\"italic\":false}',Lore:['{\"translate\":\"custom_healing.lore1\",\"italic\":false}','{\"translate\":\"custom_healing.lore2\",\"italic\":false}','[{\"translate\":\"custom_healing.lore3\",\"italic\":false},{\"text\":\" \"},{\"keybind\":\"key.use\",\"color\":\"gray\",\"italic\":false}]','{\"translate\":\"custom_healing.lore4\",\"italic\":false}','{\"translate\":\"custom_healing.lore5\",\"italic\":false}','{\"translate\":\"custom_healing.lore6\",\"italic\":false}','{\"translate\":\"custom_healing.lore7\",\"italic\":false}']},CustomModelData:1}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

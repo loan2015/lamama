@@ -1,0 +1,17 @@
+{
+    "criteria": {
+      "a": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:slime",
+            "nbt": "{Tags:[\"slime\"]}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "game:player/notify/slime"
+    }
+  }
+  

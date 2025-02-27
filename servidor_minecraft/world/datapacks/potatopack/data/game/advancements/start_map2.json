@@ -1,0 +1,17 @@
+{
+    "criteria": {
+      "a": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:interaction",
+            "nbt": "{Tags:[\"start_map\"]}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "game:lobby/begin_map"
+    }
+  }
+  

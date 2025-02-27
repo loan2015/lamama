@@ -1,0 +1,17 @@
+{
+    "criteria": {
+      "a": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:interaction",
+            "nbt": "{Tags:[\"loot_pedistal\"]}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "game:mobs/generic/loot_pedistal/interact"
+    }
+  }
+  

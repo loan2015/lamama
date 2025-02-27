@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:shield",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{shield_upgrade:5,BlockEntityTag:{Base:8,Patterns:[{Color:8,Pattern:\"sc\"},{Color:7,Pattern:\"gru\"},{Color:7,Pattern:\"tts\"},{Color:15,Pattern:\"bts\"},{Color:1,Pattern:\"flo\"}]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

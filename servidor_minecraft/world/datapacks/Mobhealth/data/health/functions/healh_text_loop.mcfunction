@@ -1,0 +1,4 @@
+#Loop to spawn health text display
+
+execute unless entity @s[dy=0] facing entity @p eyes run summon armor_stand ^ ^ ^0.1 {teleport_duration:2,NoGravity:1b,Silent:1b,Invulnerable:1b,ShowArms:0b,Small:1b,Marker:1b,Invisible:1b,NoBasePlate:1b,Motion:[0.0,0.2,0.0],Tags:["custom20hz","generic","hpnumber"],Passengers:[{id:"minecraft:text_display",billboard:"center",text_opacity:-1,shadow:0b,see_through:0b,Tags:["hpnumber"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[1f,1f,1f]},text:'[{"score":{"name":"temp","objective":"temp"},"color":"dark_red","bold":true,"italic":false},{"text":"%"}]',background:10223616}],CustomName:'{"text":"hpnumber"}'}
+execute if entity @s[dy=0] positioned ~ ~0.1 ~ run function health:healh_text_loop

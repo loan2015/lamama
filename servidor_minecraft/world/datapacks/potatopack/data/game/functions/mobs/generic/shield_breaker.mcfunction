@@ -1,0 +1,2 @@
+execute if entity @s[type=!spider,type=!cave_spider] positioned ~ ~0.5 ~ run particle minecraft:sculk_soul ~ ~ ~ 0.35 0.5 0.35 0 2 force
+execute if entity @s[type=cave_spider] positioned ~ ~0.2 ~ run particle minecraft:sculk_soul ~ ~ ~ 0.35 0.4 0.35 0 2 force

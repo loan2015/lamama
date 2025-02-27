@@ -1,0 +1,48 @@
+#Spawns all the lobby displays
+
+kill @e[tag=lobbydisplay]
+
+
+summon text_display 23.99 242.5 -55 {view_range:100f,line_width:185,width:100f,height:100f,Rotation:[90F,0F],Tags:["lobbydisplay","flash1"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[1.5f,1.5f,1.5f]},text:'{"translate":"⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠\\nResource Pack Required!\\nInstall and relog\\n⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠","color":"red","italic":false}',background:16711680}
+summon text_display 23.99 247.5 -55 {view_range:100f,line_width:200,width:100f,height:100f,Rotation:[90F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[2.3f,2.3f,2.3f]},text:'{"translate":"lobby.info.title","color":"green","italic":false}',background:16711680}
+
+summon text_display 24.99 242.5 -47.01 {view_range:100f,line_width:160,width:100f,height:100f,Rotation:[90F,0F],Tags:["lobbydisplay","flash2"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[1.5f,1.5f,1.5f]},text:'{"translate":"⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠\\nResource Pack Required!\\n Install and relog \\n⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠","color":"red","italic":false}',background:16711680}
+summon text_display 24.99 245.5 -47.01 {view_range:100f,line_width:200,width:100f,height:100f,Rotation:[90F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[2.3f,2.3f,2.3f]},text:'{"translate":"lobby.info.title2","color":"green","italic":false}',background:16711680}
+
+
+summon text_display 1 241.13 -35 {view_range:100f,line_width:200,width:100f,height:100f,Rotation:[-140F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[1.3f,1.3f,1.3f]},text:'{"translate":"lobby.credits.link","color":"green","italic":false}',background:16711680}
+summon text_display 7.1 241.13 -32 {view_range:100f,line_width:200,width:100f,height:100f,Rotation:[180F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[1.3f,1.3f,1.3f]},text:'{"translate":"lobby.credits.mowse","color":"green","italic":false}',background:16711680}
+
+summon text_display 12.4 240.8 -43.9 {view_range:100f,line_width:200,width:100f,height:100f,Rotation:[28F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[1.5f,1.5f,1.5f]},text:'{"translate":"lobby.credits.beta","color":"green","italic":false}',background:16711680}
+summon text_display 14.99 241.5 -36 {view_range:100f,line_width:200,width:100f,height:100f,Rotation:[90F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[1.8f,1.8f,1.8f]},text:'{"translate":"narrator.button.language","color":"yellow","italic":false}',background:16711680}
+summon text_display 12 241 -33.01 {text_opacity:130,view_range:100f,line_width:120,width:100f,height:100f,Rotation:[180F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[1.0f,1.0f,1.0f]},text:'{"translate":"options.languageAccuracyWarning","color":"gray","italic":false}',background:16711680}
+
+
+summon text_display 11 239.35 -43.99 {view_range:100f,line_width:55,width:100f,height:100f,Rotation:[0F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[0.7f,0.7f,0.7f]},text:'{"translate":"lobby.beta_tester.5","color":"white","italic":false}',background:16711680}
+summon text_display 10 239.35 -43.99 {view_range:100f,line_width:55,width:100f,height:100f,Rotation:[0F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[0.7f,0.7f,0.7f]},text:'{"translate":"lobby.beta_tester.7","color":"white","italic":false}',background:16711680}
+#summon text_display 11 239.35 -43.99 {view_range:100f,line_width:55,width:100f,height:100f,Rotation:[0F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[0.7f,0.7f,0.7f]},text:'{"translate":"lobby.beta_tester.3","color":"white","italic":false}',background:16711680}
+summon text_display 12 239.35 -43.99 {view_range:100f,line_width:55,width:100f,height:100f,Rotation:[0F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[0.7f,0.7f,0.7f]},text:'{"translate":"lobby.beta_tester.1","color":"white","italic":false}',background:16711680}
+summon text_display 12.99 239.35 -44 {view_range:100f,line_width:55,width:100f,height:100f,Rotation:[90F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[0.7f,0.7f,0.7f]},text:'{"translate":"lobby.beta_tester.2","color":"white","italic":false}',background:16711680}
+summon text_display 12.99 239.35 -43 {view_range:100f,line_width:55,width:100f,height:100f,Rotation:[90F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[0.7f,0.7f,0.7f]},text:'{"translate":"lobby.beta_tester.4","color":"white","italic":false}',background:16711680}
+summon text_display 12.99 239.35 -42 {view_range:100f,line_width:55,width:100f,height:100f,Rotation:[90F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[0.7f,0.7f,0.7f]},text:'{"translate":"lobby.beta_tester.6","color":"white","italic":false}',background:16711680}
+
+summon text_display 11 239.35 -34.01 {view_range:100f,line_width:55,width:100f,height:100f,Rotation:[180F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[0.7f,0.7f,0.7f]},text:'{"translate":"lobby.translator.6","color":"white","italic":false}',background:16711680}
+summon text_display 12 239.35 -34.01 {view_range:100f,line_width:55,width:100f,height:100f,Rotation:[180F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[0.7f,0.7f,0.7f]},text:'{"translate":"lobby.translator.5","color":"white","italic":false}',background:16711680}
+summon text_display 13 239.35 -34.01 {view_range:100f,line_width:55,width:100f,height:100f,Rotation:[180F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[0.7f,0.7f,0.7f]},text:'{"translate":"lobby.translator.4","color":"white","italic":false}',background:16711680}
+summon text_display 13.99 239.35 -37 {view_range:100f,line_width:55,width:100f,height:100f,Rotation:[90F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[0.7f,0.7f,0.7f]},text:'{"translate":"lobby.translator.1","color":"white","italic":false}',background:16711680}
+summon text_display 13.99 239.35 -36 {view_range:100f,line_width:55,width:100f,height:100f,Rotation:[90F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[0.7f,0.7f,0.7f]},text:'{"translate":"lobby.translator.2","color":"white","italic":false}',background:16711680}
+summon text_display 13.99 239.35 -35 {view_range:100f,line_width:55,width:100f,height:100f,Rotation:[90F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[0.7f,0.7f,0.7f]},text:'{"translate":"lobby.translator.3","color":"white","italic":false}',background:16711680}
+
+summon text_display 19.99 241.25 -38.01 {view_range:100f,line_width:200,width:100f,height:100f,Rotation:[90F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[1.5f,1.5f,1.5f]},text:'{"translate":"lobby.credits.click","color":"white","italic":false}',background:16711680}
+
+summon interaction 6 241 -58 {width:1f,height:2f,Tags:["lobbydisplay","start_map"],Passengers:[{id:"minecraft:text_display",view_range:100f,width:100f,height:100f,billboard:"vertical",line_width:200,Rotation:[-90F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,1.5f,0f],scale:[1f,1f,1f]},text:'{"translate":"ERROR!\\nMissing RP\\nInstall and relog","color":"red","italic":false}',background:16711680}]}
+
+
+summon text_display 17 243.3 -61.99 {view_range:100f,line_width:55,width:100f,height:100f,Rotation:[0F,0F],Tags:["lobbydisplay"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[2f,2f,2f]},text:'{"translate":"options.difficulty","color":"#FF6554","italic":false}',background:1678188295}
+summon interaction 17 241 -62 {width:2.2f,height:2f,Tags:["lobbydisplay","difficulty"]}
+
+kill a2f7e5f7-d403-4835-95a4-305ce13e19e2
+summon marker 17 241 -61 {UUID:[I;-1560812041,-737982411,-1784401828,-516023838]}
+kill b739ddc5-14d2-45f3-b58f-8397a6b3a50d
+summon marker 17 241 -61 {UUID:[I;-1220944443,349324787,-1248885865,-1498176243]}
+execute as b739ddc5-14d2-45f3-b58f-8397a6b3a50d at @s run tp @s ~ ~ ~ ~90 ~

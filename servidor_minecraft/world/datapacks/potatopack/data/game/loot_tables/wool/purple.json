@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:purple_stained_glass",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CanPlaceOn:[\"minecraft:light_gray_stained_glass\",\"minecraft:lime_stained_glass\"],CanDestroy:[\"minecraft:purple_stained_glass\"],display:{Lore:['{\"translate\":\"custom_monument_item.lore1\",\"italic\":false}','{\"translate\":\"custom_monument_item.lore2\",\"italic\":false}']},HideFlags:9}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

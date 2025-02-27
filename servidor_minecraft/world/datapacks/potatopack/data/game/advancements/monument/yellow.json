@@ -1,0 +1,41 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:yellow_stained_glass"
+    },
+    "title": {
+      "translate": "block.minecraft.yellow_stained_glass"
+    },
+    "description": "",
+"frame": "goal",
+    "announce_to_chat": false
+  },
+  "parent": "game:monument/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": {
+              "type": "minecraft:score",
+              "target": {
+                "type": "minecraft:fixed",
+                "name": "yellow"
+              },
+              "score": "wool",
+              "scale": 1
+            },
+            "range": {
+              "min": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "game:monument/yellow_is_placed"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": [],
+        "damage": {
+          "source_entity": {
+            "type": "minecraft:silverfish"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "game:mobs/a1/fish_hits_you"
+  }
+}

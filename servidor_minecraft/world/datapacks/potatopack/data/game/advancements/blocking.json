@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "interact": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:shield"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "game:player/shield/blocking_tick"
+  }
+}

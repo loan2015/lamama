@@ -1,0 +1,17 @@
+{
+    "criteria": {
+      "a": {
+        "trigger": "minecraft:player_interacted_with_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:interaction",
+            "nbt": "{Tags:[\"king_crown\"]}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "game:player/get_crown"
+    }
+  }
+  

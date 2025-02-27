@@ -1,0 +1,33 @@
+{
+  "delta:player_setup": {
+    "criteria": {
+      "requirement": "2025-02-27 04:41:27 +0000"
+    },
+    "done": true
+  },
+  "rat:attack": {
+    "criteria": {
+      "base": "2025-02-27 04:41:28 +0000"
+    },
+    "done": false
+  },
+  "rat:kill": {
+    "criteria": {
+      "base": "2025-02-27 04:41:28 +0000"
+    },
+    "done": false
+  },
+  "game:monument/ability1": {
+    "criteria": {
+      "requirement": "2025-02-27 04:46:08 +0000"
+    },
+    "done": true
+  },
+  "game:monument/root": {
+    "criteria": {
+      "requirement": "2025-02-27 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3578
+}

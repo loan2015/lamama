@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:shield",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"translate\":\"custom_shield.name\",\"italic\":false}',Lore:['{\"translate\":\"custom_shield.lore1\",\"italic\":false}','{\"translate\":\"custom_shield.lore2\",\"italic\":false}','{\"translate\":\"custom_shield.lore3\",\"italic\":false}','{\"translate\":\"custom_shield.lore4\",\"italic\":false}','{\"translate\":\"custom_shield.lore5\",\"italic\":false}','{\"translate\":\"custom_shield.lore6\",\"italic\":false}','{\"translate\":\"custom_shield.lore7\",\"italic\":false}','{\"translate\":\"custom_shield.lore8\",\"italic\":false}','{\"translate\":\"custom_shield.lore9\"}','{\"translate\":\"custom_shield.lore10\"}','{\"translate\":\"custom_shield.lore11\"}','{\"translate\":\"custom_shield.lore12\"}','{\"translate\":\"custom_shield.lore13\"}','{\"translate\":\"custom_shield.lore14\"}']},HideFlags:255,Unbreakable:1b,custom_shield:1,BlockEntityTag:{Base:8,Patterns:[{Color:7,Pattern:\"cs\"},{Color:15,Pattern:\"mr\"},{Color:8,Pattern:\"cr\"},{Color:4,Pattern:\"mc\"},{Color:7,Pattern:\"flo\"}]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

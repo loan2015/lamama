@@ -1,0 +1,41 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:shield",
+      "nbt": "{BlockEntityTag:{Base:8,Patterns:[{Color:7,Pattern:\"cs\"},{Color:3,Pattern:\"tt\"},{Color:8,Pattern:\"cr\"},{Color:3,Pattern:\"mc\"},{Color:7,Pattern:\"flo\"}]}}"
+    },
+    "title": {
+      "translate": "advancements.custom_shield.lore9_unlocked"
+    },
+    "description": {
+      "translate": "custom_shield.lore10_unlocked"
+    },
+    "frame": "goal",
+    "announce_to_chat": false
+  },
+  "parent": "game:monument/ability3",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": {
+              "type": "minecraft:score",
+              "target": {
+                "type": "minecraft:fixed",
+                "name": "ability4"
+              },
+              "score": "game",
+              "scale": 1
+            },
+            "range": {
+              "min": 1
+            }
+          }
+        ]
+      }
+    }
+  }
+}

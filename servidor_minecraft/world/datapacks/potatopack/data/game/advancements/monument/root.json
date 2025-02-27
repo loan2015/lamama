@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:shield",
+      "nbt": "{BlockEntityTag:{Base:8,Patterns:[{Color:7,Pattern:\"cs\"},{Color:15,Pattern:\"mr\"},{Color:8,Pattern:\"cr\"},{Color:4,Pattern:\"mc\"},{Color:7,Pattern:\"flo\"}]}}"
+    },
+    "title": {
+      "translate": "advancements.root.title"
+    },
+    "description": {
+      "translate": "advancements.root.desc"
+    },
+    "background": "minecraft:textures/block/copper_block.png",
+    "frame": "task",
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  }
+}

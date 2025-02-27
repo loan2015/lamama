@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"translate\":\"sword.sculk\",\"italic\":false}',Lore:['{\"translate\":\"sword.generic.lore1\",\"italic\":false}','{\"translate\":\"sword.generic.lore2\",\"italic\":false}','{\"translate\":\"sword.sculk.lore3\",\"italic\":false}','{\"translate\":\"sword.sculk.lore4\",\"italic\":false}']},HideFlags:6,Unbreakable:1b,Damage:0,CustomModelData:1,AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Name:\"generic.attack_damage\",Amount:14,Operation:0,UUID:[I;1750596305,-913421069,-1753828304,-780586416],Slot:\"mainhand\"},{AttributeName:\"generic.attack_speed\",Name:\"generic.attack_speed\",Amount:-3.1d,Operation:0,UUID:[I;-1148293200,1082805597,-1992130981,-1407581159],Slot:\"mainhand\"},{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:3,Operation:0,UUID:[I;-1006171127,1853834102,-1469336136,-965639476],Slot:\"mainhand\"}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

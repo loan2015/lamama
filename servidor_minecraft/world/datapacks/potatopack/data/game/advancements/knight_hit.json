@@ -1,0 +1,17 @@
+{
+    "criteria": {
+      "a": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:wither_skeleton",
+            "nbt": "{Tags:[\"knight_ini\"]}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "game:player/notify/knight"
+    }
+  }
+  

@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:entity_hurt_player",
+        "conditions": {
+          "damage": {
+            "source_entity": {
+              "nbt": "{Tags:[\"disable_shield_70\"]}"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "game:player/get_hit/shield_disable_70"
+    }
+  }
+  

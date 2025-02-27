@@ -1,0 +1,11 @@
+{
+  "parent": "game:monument/ability5",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:entity_hurt_player"
+    }
+  },
+  "rewards": {
+    "function": "game:player/is_damaged"
+  }
+}

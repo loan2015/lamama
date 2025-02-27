@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:soul_torch",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CanPlaceOn:[\"#minecraft:torch_place_on\"],CanDestroy:[\"minecraft:soul_wall_torch\",\"minecraft:purple_stained_glass\",\"minecraft:red_stained_glass\",\"minecraft:blue_stained_glass\",\"minecraft:orange_stained_glass\",\"minecraft:soul_torch\",\"minecraft:yellow_stained_glass\",\"minecraft:green_stained_glass\"],HideFlags:24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
