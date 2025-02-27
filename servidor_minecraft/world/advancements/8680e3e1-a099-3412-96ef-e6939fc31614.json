@@ -47,12 +47,6 @@
     },
     "done": false
   },
-  "game:blocking": {
-    "criteria": {
-      "interact": "2025-02-27 06:03:18 +0000"
-    },
-    "done": true
-  },
   "game:monument/root": {
     "criteria": {
       "requirement": "2025-02-27 04:45:56 +0000"
