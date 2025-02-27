@@ -1,4 +1,10 @@
 {
+  "game:monument/ability2": {
+    "criteria": {
+      "requirement": "2025-02-27 04:55:02 +0000"
+    },
+    "done": true
+  },
   "game:monument/ability1": {
     "criteria": {
       "requirement": "2025-02-27 04:46:08 +0000"
