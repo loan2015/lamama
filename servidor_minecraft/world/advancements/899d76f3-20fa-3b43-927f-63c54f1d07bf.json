@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "game:slime_hit": {
+    "criteria": {
+      "a": "2025-02-27 05:27:39 +0000"
+    },
+    "done": true
+  },
   "game:monument/root": {
     "criteria": {
       "requirement": "2025-02-27 04:45:55 +0000"

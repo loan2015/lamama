@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "game:slime_hit": {
+    "criteria": {
+      "a": "2025-02-27 05:25:41 +0000"
+    },
+    "done": true
+  },
   "rat:kill": {
     "criteria": {
       "base": "2025-02-27 04:43:33 +0000"
