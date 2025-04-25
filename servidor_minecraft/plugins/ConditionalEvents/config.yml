@@ -58,9 +58,7 @@ Events:
   tercera_muerte:
     type: player_death
     conditions:
-    - "%statistic_deaths% == 2"
+    - "%statistic_deaths% == 3"
     actions:
       default:
       - "console_command: ban %player% &c¡sos re malo puto!"
-  
-
