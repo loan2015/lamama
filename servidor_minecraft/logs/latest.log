@@ -86,3 +86,8 @@
 [11:24:03] [Server thread/INFO]: Incorrect argument for command
 ...quitomole juancho pepito<--[HERE]
 [11:24:09] [Server thread/INFO]: Teleported mosquitomole to juanchopepito
+[11:36:18] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[11:36:18] [Server thread/INFO]: mosquitomole left the game
+[11:36:27] [User Authenticator #2/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[11:36:28] [Server thread/INFO]: mosquitomole joined the game
+[11:36:28] [Server thread/INFO]: mosquitomole[/127.109.151.165:50869] logged in with entity id 27440 at ([world]-1794.1567716282427, 70.0, -1701.3204757461597)
