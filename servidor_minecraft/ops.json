@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "cc5d21d9-07d4-351a-8fa2-8533d8c673b2",
+    "name": "mosquitomole",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

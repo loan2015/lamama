@@ -1,1 +1,0 @@
-execute as @e[type=#s:arrows,tag=!arrow_init] at @s run function s:a_init

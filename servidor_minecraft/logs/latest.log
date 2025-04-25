@@ -1,794 +1,99 @@
-[04:43:09] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:43:11] [ServerMain/INFO]: Loaded 7 recipes
-[04:43:11] [ServerMain/INFO]: Loaded 61 advancements
-[04:43:12] [Server thread/INFO]: Starting minecraft server version 1.20.2
-[04:43:12] [Server thread/INFO]: Loading properties
-[04:43:12] [Server thread/INFO]: Default game type: SURVIVAL
-[04:43:12] [Server thread/INFO]: Generating keypair
-[04:43:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:43:12] [Server thread/INFO]: Using epoll channel type
-[04:43:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:43:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:43:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:43:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:43:12] [Server thread/INFO]: Preparing level "world"
-[04:43:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:43:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:43:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:43:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:43:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:43:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:43:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:43:15] [Worker-Main-3/INFO]: Preparing spawn area: 34%
-[04:43:16] [Server thread/INFO]: Time elapsed: 3694 ms
-[04:43:16] [Server thread/INFO]: Done (3.865s)! For help, type "help"
-[04:43:16] [Server thread/INFO]: [Not Secure] [Server] Link's datapack loaded
-[04:43:18] [Server thread/WARN]: UUID of added entity already exists: bjh['Marker'/1, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=8.00, y=254.00, z=8.00]
-[04:43:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
-[04:43:21] [Server thread/INFO]: mosquitomole[/127.109.151.165:51463] logged in with entity id 690 at (9.5, 255.0, 8.5)
-[04:43:21] [Server thread/INFO]: mosquitomole joined the game
-[04:43:25] [Server thread/INFO]: LOAN[/127.109.151.165:38389] logged in with entity id 691 at (8.919383317671793, 255.0, 9.008571642069683)
-[04:43:25] [Server thread/INFO]: LOAN joined the game
-[04:43:32] [Server thread/INFO]: juanchopepito[/127.167.192.149:57901] logged in with entity id 692 at (8.5, 255.0, 9.5)
-[04:43:32] [Server thread/INFO]: juanchopepito joined the game
-[04:47:54] [Server thread/ERROR]: Display entityNot a string
-[04:48:25] [Server thread/ERROR]: Display entityNot a string
-[04:48:26] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/2749, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1109.76, y=-45.32, z=1157.82] died: |||||||||||||||||||| was slain by Wolf
-[04:48:28] [Server thread/ERROR]: Display entityNot a string
-[04:48:28] [Server thread/ERROR]: Display entityNot a string
-[04:48:29] [Server thread/ERROR]: Display entityNot a string
-[04:48:29] [Server thread/ERROR]: Display entityNot a string
-[04:48:30] [Server thread/ERROR]: Display entityNot a string
-[04:48:30] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/3042, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1111.25, y=-45.23, z=1158.22] died: |||||||||||||||||||| was slain by juanchopepito
-[04:48:35] [Server thread/ERROR]: Display entityNot a string
-[04:48:35] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/2750, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1116.64, y=-156.42, z=1159.61] died: |||||||||||||||||||| fell out of the world
-[04:48:48] [Server thread/ERROR]: Display entityNot a string
-[04:48:49] [Server thread/WARN]: LOAN moved wrongly!
-[04:48:49] [Server thread/ERROR]: Display entityNot a string
-[04:48:49] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/3348, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1105.08, y=-44.00, z=1159.27] died: |||||||||||||||||||| died because of LOAN
-[04:48:53] [Server thread/ERROR]: Display entityNot a string
-[04:48:53] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/3044, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1114.80, y=-157.90, z=1160.60] died: |||||||||||||||||||| fell out of the world
-[04:48:56] [Server thread/ERROR]: Display entityNot a string
-[04:48:56] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/3043, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1115.02, y=-158.01, z=1159.21] died: |||||||||||||||||||| fell out of the world
-[04:48:59] [Server thread/ERROR]: Display entityNot a string
-[04:49:05] [Server thread/ERROR]: Display entityNot a string
-[04:49:06] [Server thread/ERROR]: Display entityNot a string
-[04:49:06] [Server thread/ERROR]: Display entityNot a string
-[04:49:08] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/3730, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1113.90, y=-44.00, z=1153.46] died: |||||||||||||||||||| was slain by LOAN
-[04:49:26] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/3930, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1116.25, y=-128.01, z=1159.08] died: |||||||||||||||||||| fell out of the world
-[04:49:32] [Server thread/ERROR]: Display entityNot a string
-[04:49:32] [Server thread/ERROR]: Display entityNot a string
-[04:49:32] [Server thread/ERROR]: Display entityNot a string
-[04:49:33] [Server thread/ERROR]: Display entityNot a string
-[04:49:34] [Server thread/ERROR]: Display entityNot a string
-[04:49:35] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/4187, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1093.67, y=-33.00, z=1175.71] died: |||||||||||||||||||| was slain by mosquitomole
-[04:49:40] [Server thread/ERROR]: Display entityNot a string
-[04:49:41] [Server thread/ERROR]: Display entityNot a string
-[04:49:42] [Server thread/ERROR]: Display entityNot a string
-[04:49:42] [Server thread/ERROR]: Display entityNot a string
-[04:49:42] [Server thread/ERROR]: Display entityNot a string
-[04:49:42] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/4421, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1101.44, y=-29.23, z=1171.50] died: |||||||||||||||||||| was slain by juanchopepito
-[04:49:50] [Server thread/ERROR]: Display entityNot a string
-[04:49:52] [Server thread/ERROR]: Display entityNot a string
-[04:49:52] [Server thread/ERROR]: Display entityNot a string
-[04:49:52] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/3931, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1118.26, y=-155.74, z=1158.33] died: |||||||||||||||||||| fell out of the world
-[04:50:04] [Server thread/ERROR]: Display entityNot a string
-[04:50:04] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/4591, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1088.70, y=-35.00, z=1171.79] died: |||||||||||||||||||| was slain by juanchopepito
-[04:50:18] [Server thread/ERROR]: Display entityNot a string
-[04:50:18] [Server thread/ERROR]: Display entityNot a string
-[04:50:19] [Server thread/ERROR]: Display entityNot a string
-[04:50:19] [Server thread/ERROR]: Display entityNot a string
-[04:50:19] [Server thread/ERROR]: Display entityNot a string
-[04:50:20] [Server thread/ERROR]: Display entityNot a string
-[04:50:20] [Server thread/ERROR]: Display entityNot a string
-[04:50:20] [Server thread/ERROR]: Display entityNot a string
-[04:50:20] [Server thread/ERROR]: Display entityNot a string
-[04:50:21] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/788, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1106.11, y=-44.00, z=1194.55] died: |||||||||||||||||||| died because of ||||||||||||||||||||
-[04:50:23] [Server thread/ERROR]: Display entityNot a string
-[04:50:24] [Server thread/ERROR]: Display entityNot a string
-[04:50:24] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/4741, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1103.51, y=-43.00, z=1193.46] died: |||||||||||||||||||| was slain by juanchopepito
-[04:50:25] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/4809, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1107.37, y=-45.00, z=1190.48] died: |||||||||||||||||||| was slain by mosquitomole
-[04:50:44] [Server thread/ERROR]: Display entityNot a string
-[04:50:45] [Server thread/ERROR]: Display entityNot a string
-[04:50:45] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/5330, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1126.52, y=-157.67, z=1172.06] died: |||||||||||||||||||| fell out of the world
-[04:50:46] [Server thread/ERROR]: Display entityNot a string
-[04:50:48] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/5304, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1131.65, y=-46.00, z=1177.49] died: |||||||||||||||||||| was slain by juanchopepito
-[04:51:12] [Server thread/ERROR]: Display entityNot a string
-[04:51:13] [Server thread/ERROR]: Display entityNot a string
-[04:51:15] [Server thread/ERROR]: Display entityNot a string
-[04:51:15] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/5977, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1137.70, y=-49.00, z=1156.61] died: |||||||||||||||||||| was slain by mosquitomole
-[04:51:21] [Server thread/ERROR]: Display entityNot a string
-[04:51:23] [Server thread/ERROR]: Display entityNot a string
-[04:51:24] [Server thread/ERROR]: Display entityNot a string
-[04:51:25] [Server thread/ERROR]: Display entityNot a string
-[04:51:25] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/6054, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1151.93, y=-46.20, z=1156.69] died: |||||||||||||||||||| was slain by mosquitomole
-[04:51:28] [Server thread/ERROR]: Display entityNot a string
-[04:51:28] [Server thread/ERROR]: Display entityNot a string
-[04:51:28] [Server thread/ERROR]: Display entityNot a string
-[04:51:28] [Server thread/ERROR]: Display entityNot a string
-[04:51:29] [Server thread/ERROR]: Display entityNot a string
-[04:51:29] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/6000, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1160.84, y=-51.00, z=1150.80] died: |||||||||||||||||||| died because of LOAN
-[04:52:00] [Server thread/ERROR]: Display entityNot a string
-[04:52:00] [Server thread/ERROR]: Display entityNot a string
-[04:52:00] [Server thread/ERROR]: Display entityNot a string
-[04:52:00] [Server thread/ERROR]: Display entityNot a string
-[04:52:01] [Server thread/ERROR]: Display entityNot a string
-[04:52:01] [Server thread/ERROR]: Display entityNot a string
-[04:52:02] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/6860, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1179.65, y=-58.00, z=1163.65] died: |||||||||||||||||||| was slain by mosquitomole
-[04:52:02] [Server thread/ERROR]: Display entityNot a string
-[04:52:03] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/6908, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1187.34, y=-57.00, z=1170.77] died: |||||||||||||||||||| burned to death
-[04:52:41] [Server thread/ERROR]: Display entityNot a string
-[04:52:42] [Server thread/ERROR]: Display entityNot a string
-[04:52:42] [Server thread/ERROR]: Display entityNot a string
-[04:52:42] [Server thread/ERROR]: Display entityNot a string
-[04:52:42] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/7798, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1180.54, y=-40.00, z=1178.17] died: |||||||||||||||||||| was slain by mosquitomole
-[04:52:43] [Server thread/ERROR]: Display entityNot a string
-[04:52:44] [Server thread/ERROR]: Display entityNot a string
-[04:52:46] [Server thread/ERROR]: Display entityNot a string
-[04:52:46] [Server thread/ERROR]: Display entityNot a string
-[04:52:46] [Server thread/ERROR]: Display entityNot a string
-[04:52:46] [Server thread/ERROR]: Display entityNot a string
-[04:52:46] [Server thread/ERROR]: Display entityNot a string
-[04:52:46] [Server thread/ERROR]: Display entityNot a string
-[04:52:47] [Server thread/ERROR]: Display entityNot a string
-[04:52:47] [Server thread/ERROR]: Display entityNot a string
-[04:52:47] [Server thread/ERROR]: Display entityNot a string
-[04:52:47] [Server thread/ERROR]: Display entityNot a string
-[04:52:48] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/7955, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1178.50, y=-40.00, z=1176.53] died: |||||||||||||||||||| died
-[04:52:48] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/7954, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1172.30, y=-39.58, z=1178.51] died: |||||||||||||||||||| burned to death
-[04:52:50] [Server thread/ERROR]: Display entityNot a string
-[04:52:50] [Server thread/ERROR]: Display entityNot a string
-[04:52:51] [Server thread/ERROR]: Display entityNot a string
-[04:52:51] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/7799, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1169.62, y=-38.50, z=1177.57] died: |||||||||||||||||||| died
-[04:53:01] [Server thread/ERROR]: Display entityNot a string
-[04:53:01] [Server thread/ERROR]: Display entityNot a string
-[04:53:01] [Server thread/ERROR]: Display entityNot a string
-[04:53:01] [Server thread/ERROR]: Display entityNot a string
-[04:53:01] [Server thread/ERROR]: Display entityNot a string
-[04:53:01] [Server thread/ERROR]: Display entityNot a string
-[04:53:01] [Server thread/ERROR]: Display entityNot a string
-[04:53:01] [Server thread/ERROR]: Display entityNot a string
-[04:53:01] [Server thread/ERROR]: Display entityNot a string
-[04:53:01] [Server thread/ERROR]: Display entityNot a string
-[04:53:01] [Server thread/ERROR]: Display entityNot a string
-[04:53:01] [Server thread/ERROR]: Display entityNot a string
-[04:53:02] [Server thread/ERROR]: Display entityNot a string
-[04:53:02] [Server thread/ERROR]: Display entityNot a string
-[04:53:02] [Server thread/ERROR]: Display entityNot a string
-[04:53:02] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/8456, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1177.32, y=-40.00, z=1186.73] died: |||||||||||||||||||| died
-[04:53:02] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/8457, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1177.66, y=-39.50, z=1186.95] died: |||||||||||||||||||| died
-[04:53:02] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/8458, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1177.79, y=-40.00, z=1186.38] died: |||||||||||||||||||| died
-[04:53:25] [Server thread/ERROR]: Display entityNot a string
-[04:53:25] [Server thread/ERROR]: Display entityNot a string
-[04:53:26] [Server thread/ERROR]: Display entityNot a string
-[04:53:26] [Server thread/ERROR]: Display entityNot a string
-[04:53:27] [Server thread/ERROR]: Display entityNot a string
-[04:53:28] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/8923, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1152.44, y=-36.00, z=1178.03] died: |||||||||||||||||||| was slain by juanchopepito
-[04:54:21] [Server thread/ERROR]: Display entityNot a string
-[04:54:21] [Server thread/ERROR]: Display entityNot a string
-[04:54:22] [Server thread/ERROR]: Display entityNot a string
-[04:54:23] [Server thread/ERROR]: Display entityNot a string
-[04:54:24] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/9483, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1124.12, y=-30.00, z=1195.20] died: |||||||||||||||||||| was slain by juanchopepito
-[04:54:24] [Server thread/ERROR]: Display entityNot a string
-[04:54:25] [Server thread/ERROR]: Display entityNot a string
-[04:54:25] [Server thread/ERROR]: Display entityNot a string
-[04:54:25] [Server thread/ERROR]: Display entityNot a string
-[04:54:26] [Server thread/ERROR]: Display entityNot a string
-[04:54:33] [Server thread/ERROR]: Display entityNot a string
-[04:54:50] [Server thread/ERROR]: Display entityNot a string
-[04:54:50] [Server thread/ERROR]: Display entityNot a string
-[04:54:51] [Server thread/ERROR]: Display entityNot a string
-[04:54:52] [Server thread/ERROR]: Display entityNot a string
-[04:54:53] [Server thread/ERROR]: Display entityNot a string
-[04:54:54] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/9651, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1128.72, y=-28.00, z=1206.40] died: |||||||||||||||||||| was slain by mosquitomole
-[04:54:55] [Server thread/ERROR]: Display entityNot a string
-[04:54:55] [Server thread/ERROR]: Display entityNot a string
-[04:54:57] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/9650, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1130.13, y=-28.00, z=1207.61] died: |||||||||||||||||||| was slain by mosquitomole
-[04:55:06] [Server thread/ERROR]: Display entityNot a string
-[04:55:06] [Server thread/ERROR]: Display entityNot a string
-[04:55:06] [Server thread/ERROR]: Display entityNot a string
-[04:55:06] [Server thread/ERROR]: Display entityNot a string
-[04:55:06] [Server thread/ERROR]: Display entityNot a string
-[04:55:07] [Server thread/ERROR]: Display entityNot a string
-[04:55:07] [Server thread/ERROR]: Display entityNot a string
-[04:55:07] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/10185, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1155.85, y=-37.00, z=1195.92] died: |||||||||||||||||||| died
-[04:55:07] [Server thread/ERROR]: Display entityNot a string
-[04:55:07] [Server thread/ERROR]: Display entityNot a string
-[04:55:07] [Server thread/ERROR]: Display entityNot a string
-[04:55:08] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/10184, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1155.62, y=-37.00, z=1194.83] died: |||||||||||||||||||| died
-[04:55:14] [Server thread/ERROR]: Display entityNot a string
-[04:55:14] [Server thread/ERROR]: Display entityNot a string
-[04:55:15] [Server thread/ERROR]: Display entityNot a string
-[04:55:15] [Server thread/ERROR]: Display entityNot a string
-[04:55:16] [Server thread/ERROR]: Display entityNot a string
-[04:55:17] [Server thread/ERROR]: Display entityNot a string
-[04:55:17] [Server thread/ERROR]: Display entityNot a string
-[04:55:17] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/10568, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1142.43, y=-18.00, z=1186.42] died: |||||||||||||||||||| was slain by juanchopepito
-[04:55:18] [Server thread/ERROR]: Display entityNot a string
-[04:55:19] [Server thread/ERROR]: Display entityNot a string
-[04:55:21] [Server thread/ERROR]: Display entityNot a string
-[04:55:22] [Server thread/ERROR]: Display entityNot a string
-[04:55:22] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/10360, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1138.79, y=-16.00, z=1187.05] died: |||||||||||||||||||| was slain by mosquitomole
-[04:55:23] [Server thread/ERROR]: Display entityNot a string
-[04:55:24] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/10361, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1139.47, y=-16.00, z=1187.70] died: |||||||||||||||||||| was slain by mosquitomole
-[04:55:40] [Server thread/ERROR]: Display entityNot a string
-[04:55:40] [Server thread/ERROR]: Display entityNot a string
-[04:55:41] [Server thread/ERROR]: Display entityNot a string
-[04:55:41] [Server thread/ERROR]: Display entityNot a string
-[04:55:41] [Server thread/ERROR]: Display entityNot a string
-[04:55:41] [Server thread/ERROR]: Display entityNot a string
-[04:55:42] [Server thread/ERROR]: Display entityNot a string
-[04:55:43] [Server thread/ERROR]: Display entityNot a string
-[04:55:44] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/10949, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1116.30, y=-20.00, z=1187.70] died: |||||||||||||||||||| was slain by mosquitomole
-[04:55:50] [Server thread/ERROR]: Display entityNot a string
-[04:55:51] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/10948, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1113.78, y=-20.00, z=1182.10] died: |||||||||||||||||||| burned to death
-[04:55:51] [Server thread/ERROR]: Display entityNot a string
-[04:55:51] [Server thread/ERROR]: Display entityNot a string
-[04:55:52] [Server thread/ERROR]: Display entityNot a string
-[04:55:52] [Server thread/ERROR]: Display entityNot a string
-[04:55:52] [Server thread/ERROR]: Display entityNot a string
-[04:55:52] [Server thread/ERROR]: Display entityNot a string
-[04:55:52] [Server thread/ERROR]: Display entityNot a string
-[04:55:52] [Server thread/ERROR]: Display entityNot a string
-[04:55:52] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/10981, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1126.50, y=-20.00, z=1182.76] died: |||||||||||||||||||| died
-[04:55:52] [Server thread/ERROR]: Display entityNot a string
-[04:55:52] [Server thread/ERROR]: Display entityNot a string
-[04:55:53] [Server thread/ERROR]: Display entityNot a string
-[04:55:53] [Server thread/ERROR]: Display entityNot a string
-[04:55:53] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/10980, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1120.43, y=-20.00, z=1188.20] died: |||||||||||||||||||| died
-[04:55:54] [Server thread/ERROR]: Display entityNot a string
-[04:55:54] [Server thread/ERROR]: Display entityNot a string
-[04:55:54] [Server thread/ERROR]: Display entityNot a string
-[04:55:56] [Server thread/ERROR]: Display entityNot a string
-[04:55:56] [Server thread/ERROR]: Display entityNot a string
-[04:55:56] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/10927, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1115.69, y=-19.61, z=1182.19] died: |||||||||||||||||||| was slain by juanchopepito
-[04:55:57] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/10926, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1113.17, y=-19.97, z=1180.95] died: |||||||||||||||||||| was slain by juanchopepito
-[04:56:02] [Server thread/ERROR]: Display entityNot a string
-[04:56:02] [Server thread/ERROR]: Display entityNot a string
-[04:56:02] [Server thread/ERROR]: Display entityNot a string
-[04:56:02] [Server thread/ERROR]: Display entityNot a string
-[04:56:03] [Server thread/ERROR]: Display entityNot a string
-[04:56:03] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/11260, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1113.43, y=-20.00, z=1184.13] died: |||||||||||||||||||| died
-[04:58:03] [Server thread/ERROR]: Display entityNot a string
-[04:58:03] [Server thread/ERROR]: Display entityNot a string
-[04:58:04] [Server thread/ERROR]: Display entityNot a string
-[04:58:04] [Server thread/ERROR]: Display entityNot a string
-[04:58:04] [Server thread/ERROR]: Display entityNot a string
-[04:58:04] [Server thread/ERROR]: Display entityNot a string
-[04:58:04] [Server thread/ERROR]: Display entityNot a string
-[04:58:04] [Server thread/ERROR]: Display entityNot a string
-[04:58:04] [Server thread/ERROR]: Display entityNot a string
-[04:58:04] [Server thread/ERROR]: Display entityNot a string
-[04:58:04] [Server thread/ERROR]: Display entityNot a string
-[04:58:04] [Server thread/ERROR]: Display entityNot a string
-[04:58:04] [Server thread/ERROR]: Display entityNot a string
-[04:58:05] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/12356, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1150.98, y=-34.00, z=1195.86] died: |||||||||||||||||||| died
-[04:58:05] [Server thread/ERROR]: Display entityNot a string
-[04:58:05] [Server thread/ERROR]: Display entityNot a string
-[04:58:05] [Server thread/ERROR]: Display entityNot a string
-[04:58:05] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/12357, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1151.12, y=-34.00, z=1195.63] died: |||||||||||||||||||| died
-[04:58:05] [Server thread/ERROR]: Display entityNot a string
-[04:58:05] [Server thread/ERROR]: Display entityNot a string
-[04:58:05] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/12358, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1149.93, y=-34.00, z=1195.56] died: |||||||||||||||||||| died
-[04:58:05] [Server thread/ERROR]: Display entityNot a string
-[04:58:05] [Server thread/ERROR]: Display entityNot a string
-[04:58:06] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/12359, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1150.36, y=-34.00, z=1196.25] died: |||||||||||||||||||| burned to death
-[04:58:28] [Server thread/ERROR]: Display entityNot a string
-[04:59:29] [Server thread/ERROR]: Display entityNot a string
-[04:59:30] [Server thread/ERROR]: Display entityNot a string
-[04:59:30] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/13463, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1105.80, y=-45.36, z=1160.70] died: |||||||||||||||||||| was slain by juanchopepito
-[04:59:46] [Server thread/ERROR]: Display entityNot a string
-[04:59:48] [Server thread/ERROR]: Display entityNot a string
-[04:59:49] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/13462, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1096.25, y=-45.00, z=1157.20] died: |||||||||||||||||||| was slain by LOAN
-[05:01:03] [Server thread/ERROR]: Display entityNot a string
-[05:01:03] [Server thread/ERROR]: Display entityNot a string
-[05:01:03] [Server thread/ERROR]: Display entityNot a string
-[05:01:03] [Server thread/ERROR]: Display entityNot a string
-[05:01:03] [Server thread/ERROR]: Display entityNot a string
-[05:01:04] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/15289, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1079.68, y=-51.00, z=1150.45] died: |||||||||||||||||||| died
-[05:01:35] [Server thread/ERROR]: Display entityNot a string
-[05:01:36] [Server thread/ERROR]: Display entityNot a string
-[05:01:36] [Server thread/ERROR]: Display entityNot a string
-[05:01:36] [Server thread/ERROR]: Display entityNot a string
-[05:01:36] [Server thread/ERROR]: Display entityNot a string
-[05:01:36] [Server thread/INFO]: Named entity bzp['||||||||||||||||||||'/16001, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1077.78, y=-51.00, z=1148.56] died: |||||||||||||||||||| died
-[05:08:47] [Server thread/ERROR]: Display entityNot a string
-[05:08:48] [Server thread/ERROR]: Display entityNot a string
-[05:08:48] [Server thread/ERROR]: Display entityNot a string
-[05:08:49] [Server thread/ERROR]: Display entityNot a string
-[05:08:49] [Server thread/INFO]: Named entity bzf['||||||||||||||||||||'/20492, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1155.11, y=-51.00, z=1114.35] died: |||||||||||||||||||| was slain by juanchopepito
-[05:08:49] [Server thread/ERROR]: Display entityNot a string
-[05:08:50] [Server thread/ERROR]: Display entityNot a string
-[05:08:51] [Server thread/ERROR]: Display entityNot a string
-[05:08:51] [Server thread/INFO]: Named entity bzf['||||||||||||||||||||'/20493, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1156.53, y=-51.00, z=1115.35] died: |||||||||||||||||||| was slain by LOAN
-[05:08:52] [Server thread/ERROR]: Display entityNot a string
-[05:08:52] [Server thread/ERROR]: Display entityNot a string
-[05:08:53] [Server thread/ERROR]: Display entityNot a string
-[05:08:53] [Server thread/ERROR]: Display entityNot a string
-[05:08:54] [Server thread/ERROR]: Display entityNot a string
-[05:08:55] [Server thread/INFO]: Named entity bzf['||||||||||||||||||||'/20494, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1156.64, y=-51.00, z=1115.29] died: |||||||||||||||||||| was slain by Wolf
-[05:08:56] [Server thread/ERROR]: Display entityNot a string
-[05:08:57] [Server thread/ERROR]: Display entityNot a string
-[05:08:58] [Server thread/ERROR]: Display entityNot a string
-[05:08:59] [Server thread/INFO]: Named entity bzf['||||||||||||||||||||'/20495, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1155.52, y=-51.00, z=1116.87] died: |||||||||||||||||||| was slain by Wolf
-[05:09:09] [Server thread/ERROR]: Display entityNot a string
-[05:09:09] [Server thread/ERROR]: Display entityNot a string
-[05:09:10] [Server thread/ERROR]: Display entityNot a string
-[05:09:10] [Server thread/ERROR]: Display entityNot a string
-[05:09:11] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/20497, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1155.95, y=-51.00, z=1102.12] died: |||||||||||||||||||| was slain by juanchopepito
-[05:09:18] [Server thread/ERROR]: Display entityNot a string
-[05:09:18] [Server thread/ERROR]: Display entityNot a string
-[05:09:18] [Server thread/ERROR]: Display entityNot a string
-[05:09:18] [Server thread/ERROR]: Display entityNot a string
-[05:09:20] [Server thread/ERROR]: Display entityNot a string
-[05:09:32] [Server thread/ERROR]: Display entityNot a string
-[05:09:37] [Server thread/ERROR]: Display entityNot a string
-[05:09:38] [Server thread/ERROR]: Display entityNot a string
-[05:10:11] [Server thread/ERROR]: Display entityNot a string
-[05:10:13] [Server thread/ERROR]: Display entityNot a string
-[05:10:13] [Server thread/ERROR]: Display entityNot a string
-[05:10:13] [Server thread/ERROR]: Display entityNot a string
-[05:10:13] [Server thread/ERROR]: Display entityNot a string
-[05:10:14] [Server thread/ERROR]: Display entityNot a string
-[05:10:14] [Server thread/ERROR]: Display entityNot a string
-[05:10:17] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/21105, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1155.47, y=-62.00, z=1125.53] died: |||||||||||||||||||| was slain by mosquitomole
-[05:10:18] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/21104, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1148.63, y=-61.00, z=1125.39] died: |||||||||||||||||||| was slain by LOAN
-[05:10:18] [Server thread/ERROR]: Display entityNot a string
-[05:10:20] [Server thread/ERROR]: Display entityNot a string
-[05:10:20] [Server thread/ERROR]: Display entityNot a string
-[05:10:21] [Server thread/ERROR]: Display entityNot a string
-[05:10:21] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/21102, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1151.63, y=-61.00, z=1124.67] died: |||||||||||||||||||| was slain by mosquitomole
-[05:10:24] [Server thread/ERROR]: Display entityNot a string
-[05:10:25] [Server thread/ERROR]: Display entityNot a string
-[05:10:28] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/21103, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1146.66, y=-62.00, z=1126.50] died: |||||||||||||||||||| was slain by juanchopepito
-[05:11:02] [Server thread/ERROR]: Display entityNot a string
-[05:11:15] [Server thread/ERROR]: Display entityNot a string
-[05:11:15] [Server thread/ERROR]: Display entityNot a string
-[05:11:16] [Server thread/ERROR]: Display entityNot a string
-[05:11:19] [Server thread/INFO]: Named entity byt['||||||||||||||||||||'/22326, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1132.25, y=-48.62, z=1117.02] died: |||||||||||||||||||| was slain by juanchopepito
-[05:11:22] [Server thread/ERROR]: Display entityNot a string
-[05:11:22] [Server thread/ERROR]: Display entityNot a string
-[05:11:39] [Server thread/ERROR]: Display entityNot a string
-[05:11:45] [Server thread/ERROR]: Display entityNot a string
-[05:12:00] [Server thread/ERROR]: Display entityNot a string
-[05:12:01] [Server thread/ERROR]: Display entityNot a string
-[05:12:02] [Server thread/INFO]: Named entity byt['||||||||||||||||||||'/22420, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1133.11, y=-49.77, z=1118.71] died: |||||||||||||||||||| was slain by mosquitomole
-[05:13:24] [Server thread/ERROR]: Display entityNot a string
-[05:13:25] [Server thread/ERROR]: Display entityNot a string
-[05:13:26] [Server thread/INFO]: Named entity bzf['||||||||||||||||||||'/22607, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1133.58, y=-61.00, z=1108.64] died: |||||||||||||||||||| was slain by LOAN
-[05:14:23] [Server thread/ERROR]: Display entityNot a string
-[05:14:32] [Server thread/ERROR]: Display entityNot a string
-[05:14:33] [Server thread/ERROR]: Display entityNot a string
-[05:14:34] [Server thread/ERROR]: Display entityNot a string
-[05:14:34] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/22598, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1127.02, y=-46.00, z=1104.97] died: |||||||||||||||||||| was slain by juanchopepito
-[05:14:54] [Server thread/ERROR]: Display entityNot a string
-[05:14:54] [Server thread/ERROR]: Display entityNot a string
-[05:14:55] [Server thread/ERROR]: Display entityNot a string
-[05:14:56] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/22599, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1112.29, y=-50.00, z=1091.16] died: |||||||||||||||||||| was slain by mosquitomole
-[05:15:01] [Server thread/ERROR]: Display entityNot a string
-[05:15:02] [Server thread/ERROR]: Display entityNot a string
-[05:15:06] [Server thread/INFO]: Named entity byt['||||||||||||||||||||'/26573, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1097.35, y=-47.50, z=1090.35] died: |||||||||||||||||||| was slain by juanchopepito
-[05:15:07] [Server thread/ERROR]: Display entityNot a string
-[05:15:07] [Server thread/ERROR]: Display entityNot a string
-[05:15:08] [Server thread/ERROR]: Display entityNot a string
-[05:15:08] [Server thread/ERROR]: Display entityNot a string
-[05:15:08] [Server thread/ERROR]: Display entityNot a string
-[05:15:08] [Server thread/ERROR]: Display entityNot a string
-[05:15:09] [Server thread/ERROR]: Display entityNot a string
-[05:15:09] [Server thread/INFO]: Named entity byt['||||||||||||||||||||'/26571, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1096.35, y=-48.50, z=1091.35] died: |||||||||||||||||||| was slain by juanchopepito
-[05:15:32] [Server thread/ERROR]: Display entityNot a string
-[05:15:32] [Server thread/ERROR]: Display entityNot a string
-[05:15:33] [Server thread/ERROR]: Display entityNot a string
-[05:15:33] [Server thread/ERROR]: Display entityNot a string
-[05:15:33] [Server thread/ERROR]: Display entityNot a string
-[05:15:35] [Server thread/ERROR]: Display entityNot a string
-[05:15:35] [Server thread/ERROR]: Display entityNot a string
-[05:15:35] [Server thread/ERROR]: Display entityNot a string
-[05:15:38] [Server thread/ERROR]: Display entityNot a string
-[05:15:40] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/28237, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1099.52, y=-51.00, z=1097.57] died: |||||||||||||||||||| was slain by Wolf
-[05:15:42] [Server thread/ERROR]: Display entityNot a string
-[05:15:42] [Server thread/ERROR]: Display entityNot a string
-[05:15:42] [Server thread/ERROR]: Display entityNot a string
-[05:15:43] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/28238, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1107.86, y=-51.00, z=1097.09] died: |||||||||||||||||||| was slain by mosquitomole
-[05:15:43] [Server thread/ERROR]: Display entityNot a string
-[05:15:45] [Server thread/ERROR]: Display entityNot a string
-[05:15:45] [Server thread/ERROR]: Display entityNot a string
-[05:15:46] [Server thread/ERROR]: Display entityNot a string
-[05:15:46] [Server thread/ERROR]: Display entityNot a string
-[05:15:47] [Server thread/INFO]: Named entity byt['||||||||||||||||||||'/28443, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1087.56, y=-55.00, z=1093.35] died: |||||||||||||||||||| was slain by juanchopepito
-[05:16:00] [Server thread/ERROR]: Display entityNot a string
-[05:16:04] [Server thread/ERROR]: Display entityNot a string
-[05:16:08] [Server thread/ERROR]: Display entityNot a string
-[05:16:09] [Server thread/INFO]: Named entity byt['||||||||||||||||||||'/28829, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1081.98, y=-44.00, z=1094.51] died: |||||||||||||||||||| was slain by Wolf
-[05:16:18] [Server thread/ERROR]: Display entityNot a string
-[05:16:18] [Server thread/ERROR]: Display entityNot a string
-[05:16:19] [Server thread/INFO]: Named entity byt['||||||||||||||||||||'/28444, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1062.10, y=-145.52, z=1177.16] died: |||||||||||||||||||| fell out of the world
-[05:16:46] [Server thread/ERROR]: Display entityNot a string
-[05:16:47] [Server thread/ERROR]: Display entityNot a string
-[05:16:48] [Server thread/ERROR]: Display entityNot a string
-[05:16:48] [Server thread/ERROR]: Display entityNot a string
-[05:16:49] [Server thread/INFO]: Named entity bzf['||||||||||||||||||||'/27354, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1105.29, y=-40.00, z=1090.97] died: |||||||||||||||||||| was slain by Wolf
-[05:16:52] [Server thread/ERROR]: Display entityNot a string
-[05:16:55] [Server thread/ERROR]: Display entityNot a string
-[05:16:56] [Server thread/ERROR]: Display entityNot a string
-[05:16:57] [Server thread/ERROR]: Display entityNot a string
-[05:16:57] [Server thread/ERROR]: Display entityNot a string
-[05:16:57] [Server thread/INFO]: Named entity bzf['||||||||||||||||||||'/27353, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1099.29, y=-40.00, z=1092.19] died: |||||||||||||||||||| was slain by mosquitomole
-[05:16:58] [Server thread/ERROR]: Display entityNot a string
-[05:17:00] [Server thread/ERROR]: Display entityNot a string
-[05:17:04] [Server thread/ERROR]: Display entityNot a string
-[05:17:05] [Server thread/ERROR]: Display entityNot a string
-[05:17:06] [Server thread/ERROR]: Display entityNot a string
-[05:17:06] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/27265, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1103.31, y=-42.00, z=1083.70] died: |||||||||||||||||||| was shot by ||||||||||||||||||||
-[05:17:10] [Server thread/ERROR]: Display entityNot a string
-[05:17:11] [Server thread/ERROR]: Display entityNot a string
-[05:17:12] [Server thread/ERROR]: Display entityNot a string
-[05:17:14] [Server thread/ERROR]: Display entityNot a string
-[05:17:18] [Server thread/ERROR]: Display entityNot a string
-[05:17:19] [Server thread/ERROR]: Display entityNot a string
-[05:17:19] [Server thread/ERROR]: Display entityNot a string
-[05:17:20] [Server thread/ERROR]: Display entityNot a string
-[05:17:20] [Server thread/INFO]: Named entity byt['||||||||||||||||||||'/31767, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1098.94, y=-41.00, z=1070.42] died: |||||||||||||||||||| was slain by Wolf
-[05:17:23] [Server thread/ERROR]: Display entityNot a string
-[05:17:23] [Server thread/INFO]: Named entity bzf['||||||||||||||||||||'/27321, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1102.33, y=-41.00, z=1071.45] died: |||||||||||||||||||| was slain by LOAN
-[05:17:26] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/27266, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1102.70, y=-42.00, z=1084.25] died: |||||||||||||||||||| was slain by Wolf
-[05:17:28] [Server thread/ERROR]: Display entityNot a string
-[05:17:31] [Server thread/ERROR]: Display entityNot a string
-[05:17:32] [Server thread/ERROR]: Display entityNot a string
-[05:17:33] [Server thread/ERROR]: Display entityNot a string
-[05:17:34] [Server thread/INFO]: Named entity bzf['||||||||||||||||||||'/27320, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1103.88, y=-49.00, z=1076.43] died: |||||||||||||||||||| was slain by LOAN
-[05:17:35] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/31077, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1104.99, y=-50.00, z=1080.70] died: |||||||||||||||||||| was slain by LOAN
-[05:17:41] [Server thread/ERROR]: Display entityNot a string
-[05:17:41] [Server thread/ERROR]: Display entityNot a string
-[05:17:43] [Server thread/ERROR]: Display entityNot a string
-[05:17:44] [Server thread/ERROR]: Display entityNot a string
-[05:17:44] [Server thread/ERROR]: Display entityNot a string
-[05:17:45] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/32811, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1121.52, y=-47.00, z=1078.24] died: |||||||||||||||||||| was slain by ||||||||||||||||||||
-[05:17:47] [Server thread/ERROR]: Display entityNot a string
-[05:17:48] [Server thread/ERROR]: Display entityNot a string
-[05:17:49] [Server thread/ERROR]: Display entityNot a string
-[05:17:49] [Server thread/INFO]: Named entity bzf['||||||||||||||||||||'/32813, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1118.15, y=-50.00, z=1076.94] died: |||||||||||||||||||| was slain by juanchopepito
-[05:17:50] [Server thread/ERROR]: Display entityNot a string
-[05:17:51] [Server thread/INFO]: Named entity bzf['||||||||||||||||||||'/32814, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1118.70, y=-49.20, z=1077.69] died: |||||||||||||||||||| was slain by LOAN
-[05:18:26] [Server thread/ERROR]: Display entityNot a string
-[05:18:27] [Server thread/ERROR]: Display entityNot a string
-[05:18:28] [Server thread/ERROR]: Display entityNot a string
-[05:18:29] [Server thread/ERROR]: Display entityNot a string
-[05:18:29] [Server thread/ERROR]: Display entityNot a string
-[05:18:29] [Server thread/ERROR]: Display entityNot a string
-[05:18:30] [Server thread/ERROR]: Display entityNot a string
-[05:18:30] [Server thread/ERROR]: Display entityNot a string
-[05:18:30] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/33931, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1093.57, y=-25.00, z=1053.87] died: |||||||||||||||||||| was blown up by Creeper
-[05:18:30] [Server thread/INFO]: Named entity bzf['||||||||||||||||||||'/34003, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1094.53, y=-26.76, z=1055.19] died: |||||||||||||||||||| was blown up by Creeper
-[05:18:30] [Server thread/INFO]: Named entity bzf['||||||||||||||||||||'/34002, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1095.61, y=-27.00, z=1053.41] died: |||||||||||||||||||| was blown up by Creeper
-[05:18:30] [Server thread/ERROR]: Display entityNot a string
-[05:18:32] [Server thread/ERROR]: Display entityNot a string
-[05:18:33] [Server thread/ERROR]: Display entityNot a string
-[05:18:33] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/33932, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1095.35, y=-29.00, z=1056.30] died: |||||||||||||||||||| was slain by juanchopepito
-[05:19:05] [Server thread/ERROR]: Display entityNot a string
-[05:19:07] [Server thread/ERROR]: Display entityNot a string
-[05:19:25] [Server thread/ERROR]: Display entityNot a string
-[05:19:25] [Server thread/ERROR]: Display entityNot a string
-[05:19:27] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/34834, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1106.84, y=-11.00, z=1052.55] died: |||||||||||||||||||| was slain by juanchopepito
-[05:20:04] [Server thread/ERROR]: Display entityNot a string
-[05:24:20] [Server thread/ERROR]: Display entityNot a string
-[05:24:22] [Server thread/ERROR]: Display entityNot a string
-[05:24:24] [Server thread/ERROR]: Display entityNot a string
-[05:24:49] [Server thread/ERROR]: Display entityNot a string
-[05:24:52] [Server thread/ERROR]: Display entityNot a string
-[05:24:52] [Server thread/ERROR]: Display entityNot a string
-[05:24:53] [Server thread/ERROR]: Display entityNot a string
-[05:24:53] [Server thread/ERROR]: Display entityNot a string
-[05:24:54] [Server thread/ERROR]: Display entityNot a string
-[05:24:55] [Server thread/INFO]: Named entity cab['||||||||||||||||||||'/42431, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1172.38, y=-30.00, z=1075.81] died: |||||||||||||||||||| was slain by mosquitomole
-[05:24:56] [Server thread/ERROR]: Display entityNot a string
-[05:24:57] [Server thread/ERROR]: Display entityNot a string
-[05:24:58] [Server thread/ERROR]: Display entityNot a string
-[05:24:58] [Server thread/ERROR]: Display entityNot a string
-[05:24:59] [Server thread/INFO]: Named entity cab['||||||||||||||||||||'/42430, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1174.30, y=-30.00, z=1072.90] died: |||||||||||||||||||| was slain by mosquitomole
-[05:25:01] [Server thread/ERROR]: Display entityNot a string
-[05:25:01] [Server thread/ERROR]: Display entityNot a string
-[05:25:02] [Server thread/INFO]: Named entity cab['||||||||||||||||||||'/42432, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1176.74, y=-30.00, z=1074.99] died: |||||||||||||||||||| was slain by juanchopepito
-[05:25:41] [Server thread/ERROR]: Display entityNot a string
-[05:25:42] [Server thread/ERROR]: Display entityNot a string
-[05:25:42] [Server thread/INFO]: Named entity bzr['||||||||||||||||||||'/43276, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1193.22, y=-13.00, z=1082.85] died: |||||||||||||||||||| was slain by juanchopepito
-[05:25:44] [Server thread/ERROR]: Display entityNot a string
-[05:25:49] [Server thread/ERROR]: Display entityNot a string
-[05:25:49] [Server thread/ERROR]: Display entityNot a string
-[05:25:49] [Server thread/ERROR]: Display entityNot a string
-[05:25:55] [Server thread/ERROR]: Display entityNot a string
-[05:25:55] [Server thread/ERROR]: Display entityNot a string
-[05:25:55] [Server thread/ERROR]: Display entityNot a string
-[05:25:56] [Server thread/INFO]: Named entity byu['||||||||||||||||||||'/43405, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1173.90, y=-22.00, z=1098.40] died: |||||||||||||||||||| was doomed to fall by juanchopepito
-[05:25:57] [Server thread/ERROR]: Display entityNot a string
-[05:26:11] [Server thread/ERROR]: Display entityNot a string
-[05:26:12] [Server thread/ERROR]: Display entityNot a string
-[05:26:12] [Server thread/ERROR]: Display entityNot a string
-[05:26:12] [Server thread/ERROR]: Display entityNot a string
-[05:26:19] [Server thread/ERROR]: Display entityNot a string
-[05:26:20] [Server thread/ERROR]: Display entityNot a string
-[05:26:22] [Server thread/ERROR]: Display entityNot a string
-[05:26:22] [Server thread/ERROR]: Display entityNot a string
-[05:26:24] [Server thread/INFO]: Named entity byu['||||||||||||||||||||'/43406, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1183.11, y=-16.00, z=1085.18] died: |||||||||||||||||||| was slain by juanchopepito
-[05:27:02] [Server thread/ERROR]: Display entityNot a string
-[05:27:03] [Server thread/ERROR]: Display entityNot a string
-[05:27:03] [Server thread/INFO]: Named entity bzu['||||||||||||||||||||'/44516, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1188.79, y=-47.00, z=1111.66] died: |||||||||||||||||||| was doomed to fall by juanchopepito
-[05:27:05] [Server thread/ERROR]: Display entityNot a string
-[05:27:26] [Server thread/ERROR]: Display entityNot a string
-[05:27:27] [Server thread/ERROR]: Display entityNot a string
-[05:27:29] [Server thread/INFO]: Named entity bzu['||||||||||||||||||||'/44515, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1189.94, y=-30.00, z=1117.38] died: |||||||||||||||||||| was slain by LOAN
-[05:28:21] [Server thread/ERROR]: Display entityNot a string
-[05:28:22] [Server thread/ERROR]: Display entityNot a string
-[05:28:23] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/45792, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1166.54, y=-27.00, z=1123.58] died: |||||||||||||||||||| was slain by juanchopepito
-[05:28:25] [Server thread/ERROR]: Display entityNot a string
-[05:28:25] [Server thread/ERROR]: Display entityNot a string
-[05:28:26] [Server thread/INFO]: Named entity bzu['||||||||||||||||||||'/45793, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1163.93, y=-28.00, z=1126.30] died: |||||||||||||||||||| was slain by juanchopepito
-[05:28:33] [Server thread/ERROR]: Display entityNot a string
-[05:30:10] [Server thread/ERROR]: Display entityNot a string
-[05:30:11] [Server thread/ERROR]: Display entityNot a string
-[05:30:12] [Server thread/ERROR]: Display entityNot a string
-[05:30:13] [Server thread/ERROR]: Display entityNot a string
-[05:30:14] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/47635, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1168.03, y=-41.00, z=1230.35] died: |||||||||||||||||||| was slain by LOAN
-[05:30:16] [Server thread/ERROR]: Display entityNot a string
-[05:30:17] [Server thread/ERROR]: Display entityNot a string
-[05:30:18] [Server thread/ERROR]: Display entityNot a string
-[05:30:19] [Server thread/ERROR]: Display entityNot a string
-[05:30:19] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/47571, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1172.30, y=-49.00, z=1214.48] died: |||||||||||||||||||| was slain by mosquitomole
-[05:30:20] [Server thread/ERROR]: Display entityNot a string
-[05:30:21] [Server thread/ERROR]: Display entityNot a string
-[05:30:21] [Server thread/ERROR]: Display entityNot a string
-[05:30:21] [Server thread/ERROR]: Display entityNot a string
-[05:30:28] [Server thread/ERROR]: Display entityNot a string
-[05:30:28] [Server thread/ERROR]: Display entityNot a string
-[05:30:28] [Server thread/ERROR]: Display entityNot a string
-[05:30:29] [Server thread/ERROR]: Display entityNot a string
-[05:30:31] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/48093, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1194.30, y=-41.00, z=1236.37] died: |||||||||||||||||||| was slain by LOAN
-[05:30:32] [Server thread/ERROR]: Display entityNot a string
-[05:30:33] [Server thread/ERROR]: Display entityNot a string
-[05:30:35] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/48094, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1197.34, y=-41.00, z=1240.72] died: |||||||||||||||||||| was slain by LOAN
-[05:30:46] [Server thread/ERROR]: Display entityNot a string
-[05:31:16] [Server thread/ERROR]: Display entityNot a string
-[05:31:18] [Server thread/ERROR]: Display entityNot a string
-[05:31:19] [Server thread/INFO]: Named entity bzu['||||||||||||||||||||'/48578, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1196.02, y=-50.00, z=1276.83] died: |||||||||||||||||||| was slain by ||||||||||||||||||||
-[05:31:21] [Server thread/ERROR]: Display entityNot a string
-[05:31:25] [Server thread/ERROR]: Display entityNot a string
-[05:31:29] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/48092, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1199.64, y=-49.00, z=1293.25] died: |||||||||||||||||||| was slain by LOAN
-[05:31:32] [Server thread/ERROR]: Display entityNot a string
-[05:31:33] [Server thread/ERROR]: Display entityNot a string
-[05:31:34] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/48558, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1200.77, y=-49.00, z=1286.00] died: |||||||||||||||||||| was slain by mosquitomole
-[05:31:36] [Server thread/ERROR]: Display entityNot a string
-[05:31:41] [Server thread/ERROR]: Display entityNot a string
-[05:31:41] [Server thread/ERROR]: Display entityNot a string
-[05:31:42] [Server thread/ERROR]: Display entityNot a string
-[05:31:42] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/48557, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1189.92, y=-49.00, z=1291.62] died: |||||||||||||||||||| was slain by mosquitomole
-[05:32:29] [Server thread/ERROR]: Display entityNot a string
-[05:32:30] [Server thread/ERROR]: Display entityNot a string
-[05:32:31] [Server thread/ERROR]: Display entityNot a string
-[05:32:38] [Server thread/ERROR]: Display entityNot a string
-[05:32:38] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/51669, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1182.07, y=-36.82, z=1282.30] died: |||||||||||||||||||| was slain by mosquitomole
-[05:41:02] [Server thread/ERROR]: Display entityNot a string
-[05:41:04] [Server thread/ERROR]: Display entityNot a string
-[05:41:06] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/59078, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1178.47, y=-51.08, z=1071.53] died: |||||||||||||||||||| was slain by juanchopepito
-[05:41:07] [Server thread/ERROR]: Display entityNot a string
-[05:41:26] [Server thread/ERROR]: Display entityNot a string
-[05:41:26] [Server thread/ERROR]: Display entityNot a string
-[05:41:27] [Server thread/ERROR]: Display entityNot a string
-[05:41:29] [Server thread/ERROR]: Display entityNot a string
-[05:41:30] [Server thread/ERROR]: Display entityNot a string
-[05:41:30] [Server thread/ERROR]: Display entityNot a string
-[05:41:31] [Server thread/ERROR]: Display entityNot a string
-[05:41:32] [Server thread/ERROR]: Display entityNot a string
-[05:41:32] [Server thread/ERROR]: Display entityNot a string
-[05:41:34] [Server thread/ERROR]: Display entityNot a string
-[05:41:34] [Server thread/ERROR]: Display entityNot a string
-[05:41:35] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/59330, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1181.08, y=-46.00, z=1080.45] died: |||||||||||||||||||| was slain by mosquitomole
-[05:41:38] [Server thread/ERROR]: Display entityNot a string
-[05:41:38] [Server thread/ERROR]: Display entityNot a string
-[05:41:40] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/59328, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1183.02, y=-49.00, z=1077.03] died: |||||||||||||||||||| was slain by mosquitomole
-[05:41:41] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/59329, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1183.43, y=-50.00, z=1077.59] died: |||||||||||||||||||| was slain by mosquitomole
-[05:42:52] [Server thread/ERROR]: Display entityNot a string
-[05:42:55] [Server thread/ERROR]: Display entityNot a string
-[05:42:56] [Server thread/ERROR]: Display entityNot a string
-[05:42:56] [Server thread/ERROR]: Display entityNot a string
-[05:42:57] [Server thread/ERROR]: Display entityNot a string
-[05:42:57] [Server thread/ERROR]: Display entityNot a string
-[05:42:58] [Server thread/INFO]: Named entity bzu['||||||||||||||||||||'/60703, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1119.68, y=-60.00, z=1077.21] died: |||||||||||||||||||| was slain by mosquitomole
-[05:42:58] [Server thread/ERROR]: Display entityNot a string
-[05:42:59] [Server thread/ERROR]: Display entityNot a string
-[05:42:59] [Server thread/INFO]: Named entity bzu['||||||||||||||||||||'/60704, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1123.27, y=-61.00, z=1076.23] died: |||||||||||||||||||| was slain by mosquitomole
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:02] [Server thread/ERROR]: Display entityNot a string
-[05:43:03] [Server thread/ERROR]: Display entityNot a string
-[05:43:03] [Server thread/ERROR]: Display entityNot a string
-[05:43:03] [Server thread/ERROR]: Display entityNot a string
-[05:43:04] [Server thread/ERROR]: Display entityNot a string
-[05:43:04] [Server thread/ERROR]: Display entityNot a string
-[05:43:04] [Server thread/ERROR]: Display entityNot a string
-[05:43:10] [Server thread/ERROR]: Display entityNot a string
-[05:43:11] [Server thread/ERROR]: Display entityNot a string
-[05:43:11] [Server thread/ERROR]: Display entityNot a string
-[05:43:14] [Server thread/ERROR]: Display entityNot a string
-[05:43:14] [Server thread/ERROR]: Display entityNot a string
-[05:43:14] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60770, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1127.82, y=-54.00, z=1013.76] died: |||||||||||||||||||| was slain by juanchopepito
-[05:43:14] [Server thread/ERROR]: Display entityNot a string
-[05:43:15] [Server thread/ERROR]: Display entityNot a string
-[05:43:15] [Server thread/ERROR]: Display entityNot a string
-[05:43:15] [Server thread/ERROR]: Display entityNot a string
-[05:43:19] [Server thread/ERROR]: Display entityNot a string
-[05:43:20] [Server thread/ERROR]: Display entityNot a string
-[05:43:20] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60773, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1130.58, y=-54.00, z=1018.27] died: |||||||||||||||||||| was slain by LOAN
-[05:43:21] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60754, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1129.51, y=-54.00, z=1016.71] died: |||||||||||||||||||| was slain by LOAN
-[05:43:23] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60756, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1129.96, y=-54.00, z=1013.30] died: |||||||||||||||||||| was slain by LOAN
-[05:43:23] [Server thread/ERROR]: Display entityNot a string
-[05:43:23] [Server thread/ERROR]: Display entityNot a string
-[05:43:23] [Server thread/ERROR]: Display entityNot a string
-[05:43:24] [Server thread/ERROR]: Display entityNot a string
-[05:43:25] [Server thread/ERROR]: Display entityNot a string
-[05:43:27] [Server thread/ERROR]: Display entityNot a string
-[05:43:27] [Server thread/ERROR]: Display entityNot a string
-[05:43:27] [Server thread/ERROR]: Display entityNot a string
-[05:43:28] [Server thread/ERROR]: Display entityNot a string
-[05:43:29] [Server thread/ERROR]: Display entityNot a string
-[05:43:34] [Server thread/ERROR]: Display entityNot a string
-[05:43:37] [Server thread/ERROR]: Display entityNot a string
-[05:43:39] [Server thread/ERROR]: Display entityNot a string
-[05:43:40] [Server thread/ERROR]: Display entityNot a string
-[05:43:41] [Server thread/INFO]: Named entity bzr['||||||||||||||||||||'/61246, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1105.51, y=-59.20, z=1072.62] died: |||||||||||||||||||| was slain by ||||||||||||||||||||
-[05:43:41] [Server thread/ERROR]: Display entityNot a string
-[05:43:41] [Server thread/ERROR]: Display entityNot a string
-[05:43:42] [Server thread/ERROR]: Display entityNot a string
-[05:43:42] [Server thread/ERROR]: Display entityNot a string
-[05:43:42] [Server thread/INFO]: Named entity bzr['||||||||||||||||||||'/61245, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1103.58, y=-58.75, z=1071.76] died: |||||||||||||||||||| was slain by ||||||||||||||||||||
-[05:43:42] [Server thread/ERROR]: Display entityNot a string
-[05:43:43] [Server thread/ERROR]: Display entityNot a string
-[05:43:43] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/61137, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1107.56, y=-62.00, z=1073.81] died: |||||||||||||||||||| was slain by mosquitomole
-[05:43:43] [Server thread/ERROR]: Display entityNot a string
-[05:43:44] [Server thread/ERROR]: Display entityNot a string
-[05:43:46] [Server thread/ERROR]: Display entityNot a string
-[05:43:46] [Server thread/ERROR]: Display entityNot a string
-[05:43:48] [Server thread/INFO]: Named entity bzr['||||||||||||||||||||'/61353, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1107.48, y=-62.00, z=1073.06] died: |||||||||||||||||||| was slain by ||||||||||||||||||||
-[05:43:48] [Server thread/ERROR]: Display entityNot a string
-[05:43:53] [Server thread/ERROR]: Display entityNot a string
-[05:43:54] [Server thread/ERROR]: Display entityNot a string
-[05:43:56] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60763, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1169.44, y=-52.00, z=1064.36] died: |||||||||||||||||||| was slain by juanchopepito
-[05:43:58] [Server thread/ERROR]: Display entityNot a string
-[05:43:58] [Server thread/ERROR]: Display entityNot a string
-[05:43:59] [Server thread/ERROR]: Display entityNot a string
-[05:44:00] [Server thread/ERROR]: Display entityNot a string
-[05:44:00] [Server thread/ERROR]: Display entityNot a string
-[05:44:00] [Server thread/ERROR]: Display entityNot a string
-[05:44:00] [Server thread/ERROR]: Display entityNot a string
-[05:44:01] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60757, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1169.19, y=-159.41, z=1066.70] died: |||||||||||||||||||| didn't want to live in the same world as LOAN
-[05:44:01] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60765, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1167.30, y=-157.25, z=1065.80] died: |||||||||||||||||||| didn't want to live in the same world as LOAN
-[05:44:01] [Server thread/ERROR]: Display entityNot a string
-[05:44:01] [Server thread/ERROR]: Display entityNot a string
-[05:44:01] [Server thread/ERROR]: Display entityNot a string
-[05:44:02] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60766, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1170.87, y=-128.55, z=1065.70] died: |||||||||||||||||||| didn't want to live in the same world as LOAN
-[05:44:02] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/61472, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1097.40, y=-58.00, z=1055.48] died: |||||||||||||||||||| was slain by mosquitomole
-[05:44:03] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/61473, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1097.06, y=-58.00, z=1055.14] died: |||||||||||||||||||| was slain by mosquitomole
-[05:44:07] [Server thread/ERROR]: Display entityNot a string
-[05:44:10] [Server thread/ERROR]: Display entityNot a string
-[05:44:10] [Server thread/ERROR]: Display entityNot a string
-[05:44:10] [Server thread/ERROR]: Display entityNot a string
-[05:44:12] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60774, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1162.51, y=-54.00, z=1047.42] died: |||||||||||||||||||| was slain by LOAN
-[05:44:19] [Server thread/ERROR]: Display entityNot a string
-[05:44:20] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60759, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1134.39, y=-55.00, z=1033.35] died: |||||||||||||||||||| was slain by juanchopepito
-[05:44:21] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60771, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1134.47, y=-54.00, z=1031.23] died: |||||||||||||||||||| was slain by juanchopepito
-[05:44:23] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60758, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1134.28, y=-54.00, z=1029.65] died: |||||||||||||||||||| was slain by juanchopepito
-[05:44:32] [Server thread/ERROR]: Display entityNot a string
-[05:44:32] [Server thread/ERROR]: Display entityNot a string
-[05:44:33] [Server thread/ERROR]: Display entityNot a string
-[05:44:33] [Server thread/ERROR]: Display entityNot a string
-[05:44:35] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60767, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1134.29, y=-54.00, z=1017.68] died: |||||||||||||||||||| was slain by juanchopepito
-[05:44:35] [Server thread/ERROR]: Display entityNot a string
-[05:44:35] [Server thread/ERROR]: Display entityNot a string
-[05:44:35] [Server thread/ERROR]: Display entityNot a string
-[05:44:36] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60776, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1133.51, y=-54.00, z=1021.44] died: |||||||||||||||||||| was slain by juanchopepito
-[05:44:38] [Server thread/ERROR]: Display entityNot a string
-[05:44:38] [Server thread/ERROR]: Display entityNot a string
-[05:44:38] [Server thread/ERROR]: Display entityNot a string
-[05:44:39] [Server thread/ERROR]: Display entityNot a string
-[05:44:39] [Server thread/ERROR]: Display entityNot a string
-[05:44:40] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60755, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1134.46, y=-54.00, z=1020.83] died: |||||||||||||||||||| was slain by juanchopepito
-[05:44:41] [Server thread/ERROR]: Display entityNot a string
-[05:44:41] [Server thread/ERROR]: Display entityNot a string
-[05:44:42] [Server thread/ERROR]: Display entityNot a string
-[05:44:42] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60760, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1133.30, y=-54.00, z=1022.11] died: |||||||||||||||||||| was slain by juanchopepito
-[05:44:43] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/60753, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1134.53, y=-54.00, z=1020.09] died: |||||||||||||||||||| was slain by juanchopepito
-[05:44:47] [Server thread/ERROR]: Display entityNot a string
-[05:44:49] [Server thread/ERROR]: Display entityNot a string
-[05:44:50] [Server thread/ERROR]: Display entityNot a string
-[05:44:50] [Server thread/ERROR]: Display entityNot a string
-[05:44:51] [Server thread/ERROR]: Display entityNot a string
-[05:44:52] [Server thread/INFO]: Named entity bzr['||||||||||||||||||||'/62060, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1070.81, y=-56.00, z=1046.46] died: |||||||||||||||||||| was slain by mosquitomole
-[05:44:52] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/62022, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1069.96, y=-56.00, z=1045.88] died: |||||||||||||||||||| was slain by mosquitomole
-[05:44:53] [Server thread/ERROR]: Display entityNot a string
-[05:44:55] [Server thread/ERROR]: Display entityNot a string
-[05:44:56] [Server thread/ERROR]: Display entityNot a string
-[05:44:56] [Server thread/ERROR]: Display entityNot a string
-[05:44:58] [Server thread/ERROR]: Display entityNot a string
-[05:44:58] [Server thread/ERROR]: Display entityNot a string
-[05:44:59] [Server thread/INFO]: Named entity bzr['||||||||||||||||||||'/62059, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1069.33, y=-54.75, z=1046.25] died: |||||||||||||||||||| was slain by mosquitomole
-[05:45:00] [Server thread/INFO]: Named entity bzr['||||||||||||||||||||'/62024, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1070.22, y=-56.00, z=1045.29] died: |||||||||||||||||||| was slain by mosquitomole
-[05:45:05] [Server thread/WARN]: juanchopepito moved wrongly!
-[05:45:10] [Server thread/ERROR]: Display entityNot a string
-[05:45:10] [Server thread/ERROR]: Display entityNot a string
-[05:45:14] [Server thread/ERROR]: Display entityNot a string
-[05:45:17] [Server thread/ERROR]: Display entityNot a string
-[05:45:18] [Server thread/ERROR]: Display entityNot a string
-[05:45:20] [Server thread/ERROR]: Display entityNot a string
-[05:45:20] [Server thread/ERROR]: Display entityNot a string
-[05:45:21] [Server thread/ERROR]: Display entityNot a string
-[05:45:21] [Server thread/ERROR]: Display entityNot a string
-[05:45:25] [Server thread/ERROR]: Display entityNot a string
-[05:45:28] [Server thread/ERROR]: Display entityNot a string
-[05:45:30] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/62543, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1077.41, y=-57.00, z=1048.60] died: |||||||||||||||||||| was blown up by ||||||||||||||||||||
-[05:45:30] [Server thread/ERROR]: Display entityNot a string
-[05:46:23] [Server thread/ERROR]: Display entityNot a string
-[05:46:24] [Server thread/ERROR]: Display entityNot a string
-[05:46:24] [Server thread/ERROR]: Display entityNot a string
-[05:46:25] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/61138, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1091.33, y=-58.00, z=1061.42] died: |||||||||||||||||||| was slain by mosquitomole
-[05:46:50] [Server thread/ERROR]: Display entityNot a string
-[05:46:51] [Server thread/ERROR]: Display entityNot a string
-[05:46:52] [Server thread/ERROR]: Display entityNot a string
-[05:46:53] [Server thread/INFO]: Named entity bzu['||||||||||||||||||||'/62545, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1074.59, y=-56.23, z=1051.53] died: |||||||||||||||||||| was slain by mosquitomole
-[05:48:08] [Server thread/WARN]: juanchopepito moved wrongly!
-[05:50:52] [Server thread/WARN]: LOAN moved wrongly!
-[05:51:21] [Server thread/INFO]: LOAN lost connection: Disconnected
-[05:51:21] [Server thread/INFO]: LOAN left the game
-[05:55:24] [Server thread/ERROR]: Display entityNot a string
-[05:55:24] [Server thread/ERROR]: Display entityNot a string
-[05:55:25] [Server thread/ERROR]: Display entityNot a string
-[05:55:25] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/68974, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1120.43, y=-49.00, z=1140.49] died: |||||||||||||||||||| was slain by mosquitomole
-[05:55:33] [Server thread/ERROR]: Display entityNot a string
-[05:55:34] [Server thread/ERROR]: Display entityNot a string
-[05:55:34] [Server thread/ERROR]: Display entityNot a string
-[05:55:34] [Server thread/INFO]: Named entity bzu['||||||||||||||||||||'/69025, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1138.70, y=-47.91, z=1141.06] died: |||||||||||||||||||| was slain by juanchopepito
-[05:59:34] [Server thread/WARN]: juanchopepito moved wrongly!
-[06:02:01] [Server thread/WARN]: mosquitomole moved too quickly! 2.6367003129194018,-10.0515277876015,1.203869412830045
-[06:05:32] [Server thread/ERROR]: Display entityNot a string
-[06:05:33] [Server thread/ERROR]: Display entityNot a string
-[06:05:39] [Server thread/ERROR]: Display entityNot a string
-[06:05:50] [Server thread/ERROR]: Display entityNot a string
-[06:05:50] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/75217, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1077.19, y=-0.21, z=1057.92] died: |||||||||||||||||||| was slain by juanchopepito
-[06:06:09] [Server thread/ERROR]: Display entityNot a string
-[06:06:10] [Server thread/ERROR]: Display entityNot a string
-[06:06:10] [Server thread/INFO]: Named entity bzq['||||||||||||||||||||'/75448, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1088.58, y=-18.00, z=1080.22] died: |||||||||||||||||||| was doomed to fall by juanchopepito
-[06:06:25] [Server thread/ERROR]: Display entityNot a string
-[06:06:25] [Server thread/ERROR]: Display entityNot a string
-[06:06:25] [Server thread/ERROR]: Display entityNot a string
-[06:06:27] [Server thread/ERROR]: Display entityNot a string
-[06:06:28] [Server thread/ERROR]: Display entityNot a string
-[06:06:30] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/75714, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1068.23, y=-1.00, z=1074.47] died: |||||||||||||||||||| was blown up by ||||||||||||||||||||
-[06:06:30] [Server thread/ERROR]: Display entityNot a string
-[06:06:36] [Server thread/ERROR]: Display entityNot a string
-[06:06:37] [Server thread/ERROR]: Display entityNot a string
-[06:06:37] [Server thread/ERROR]: Display entityNot a string
-[06:06:38] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/75722, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1061.19, y=-1.00, z=1083.15] died: |||||||||||||||||||| was slain by mosquitomole
-[06:06:49] [Server thread/ERROR]: Display entityNot a string
-[06:10:45] [Server thread/ERROR]: Display entityNot a string
-[06:10:48] [Server thread/ERROR]: Display entityNot a string
-[06:10:50] [Server thread/ERROR]: Display entityNot a string
-[06:10:50] [Server thread/ERROR]: Display entityNot a string
-[06:10:50] [Server thread/INFO]: Named entity byw['||||||||||||||||||||'/76699, l='ServerLevel[§e⛨ Lumina Complex ⛨§6 By Link and Mowse]', x=1055.63, y=0.00, z=1080.31] died: |||||||||||||||||||| was slain by juanchopepito
-[06:13:17] [Server thread/INFO]: juanchopepito lost connection: Disconnected
-[06:13:17] [Server thread/INFO]: juanchopepito left the game
+[05:09:16] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[05:09:16] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[05:09:16] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[05:09:17] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[05:09:17] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - ConditionalEvents (4.62.1), PlaceholderAPI (2.11.6)
+[05:09:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:09:22] [ServerMain/INFO]: Loaded 1337 recipes
+[05:09:22] [ServerMain/INFO]: Loaded 1448 advancements
+[05:09:23] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[05:09:23] [Server thread/INFO]: Loading properties
+[05:09:23] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[05:09:23] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[05:09:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:09:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:09:24] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[05:09:24] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[05:09:25] [Server thread/INFO]: Default game type: SURVIVAL
+[05:09:25] [Server thread/INFO]: Generating keypair
+[05:09:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:09:25] [Server thread/INFO]: Using epoll channel type
+[05:09:25] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:09:25] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:09:25] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[05:09:25] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.62.1
+[05:09:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:09:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:09:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:09:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:09:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:09:25] [Server thread/INFO]: Preparing level "world"
+[05:09:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:09:26] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[05:09:27] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 390.8ms
+[05:09:27] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:27] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:27] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:27] [Server thread/INFO]: Time elapsed: 1410 ms
+[05:09:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:09:27] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:27] [Server thread/INFO]: Time elapsed: 196 ms
+[05:09:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:09:27] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:28] [Server thread/INFO]: Time elapsed: 98 ms
+[05:09:28] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[05:09:28] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[05:09:28] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.62.1
+[05:09:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.62.1]
+[05:09:28] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.62.1
+[05:09:28] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[05:09:28] [Server thread/INFO]: [spark] Starting background profiler...
+[05:09:29] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[05:09:29] [Server thread/INFO]: Done preparing level "world" (3.742s)
+[05:09:29] [Server thread/INFO]: Running delayed init tasks
+[05:09:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[05:09:29] [Server thread/INFO]: 1 placeholder hook(s) registered!
+[05:09:29] [Server thread/INFO]: Done (13.397s)! For help, type "help"
+[05:09:43] [User Authenticator #0/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[05:09:44] [Server thread/INFO]: mosquitomole joined the game
+[05:09:44] [Server thread/INFO]: mosquitomole[/127.109.151.165:37005] logged in with entity id 74 at ([world]-7.383272756356063, 65.0, 20.805640542903365)
+[05:10:13] [Server thread/INFO]: mosquitomole issued server command: /papi ecloud download Statistic
+[05:10:13] [placeholderapi-io-#0/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[05:10:23] [Server thread/INFO]: mosquitomole issued server command: /papi reload
+[05:10:23] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[05:10:23] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[05:10:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[05:10:38] [Server thread/INFO]: mosquitomole was killed while fighting Skeleton
+[05:10:38] [Server thread/INFO]: Killed mosquitomole
+[05:10:42] [Server thread/INFO]: mosquitomole was killed
+[05:10:42] [Server thread/INFO]: Killed mosquitomole
+[05:10:45] [Server thread/INFO]: mosquitomole was killed
+[05:10:45] [Server thread/INFO]: Killed mosquitomole
+[05:11:12] [Server thread/INFO]: mosquitomole issued server command: /time set day
+[05:11:12] [Server thread/INFO]: [mosquitomole: Set the time to 1000]
+[05:11:25] [Server thread/INFO]: mosquitomole was shot by Skeleton
+[05:16:30] [User Authenticator #1/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[05:16:32] [Server thread/INFO]: juanchopepito joined the game
+[05:16:32] [Server thread/INFO]: juanchopepito[/127.209.152.144:48805] logged in with entity id 658 at ([world]-43.39248488360881, 69.0, 13.151200452540202)
+[05:16:37] [Server thread/INFO]: mosquitomole was killed
+[05:16:37] [Server thread/INFO]: juanchopepito was killed
+[05:16:37] [Server thread/INFO]: Killed 2 entities
+[05:16:42] [Server thread/INFO]: juanchopepito was killed
+[05:16:42] [Server thread/INFO]: Killed 2 entities
+[05:16:46] [Server thread/INFO]: juanchopepito was killed
+[05:16:46] [Server thread/INFO]: Killed 2 entities
+[05:16:46] [Server thread/INFO]: Banned juanchopepito: &c¡sos re malo puto!
+[05:16:46] [Server thread/INFO]: juanchopepito lost connection: You are banned from this server
+[05:16:46] [Server thread/INFO]: juanchopepito left the game
+[05:17:09] [User Authenticator #1/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[05:17:09] [Server thread/INFO]: Disconnecting juanchopepito (/127.209.152.144:48703): You are banned from this server.
+Reason: &c¡sos re malo puto!
+[05:17:09] [Server thread/INFO]: juanchopepito (/127.209.152.144:48703) lost connection: You are banned from this server.
+Reason: &c¡sos re malo puto!
+[05:17:21] [User Authenticator #1/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[05:17:22] [Server thread/INFO]: Disconnecting juanchopepito (/127.209.152.144:52211): You are banned from this server.
+Reason: &c¡sos re malo puto!
+[05:17:22] [Server thread/INFO]: juanchopepito (/127.209.152.144:52211) lost connection: You are banned from this server.
+Reason: &c¡sos re malo puto!
+[05:17:57] [Server thread/INFO]: mosquitomole issued server command: /banlist
