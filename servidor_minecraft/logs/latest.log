@@ -109,3 +109,43 @@
 [12:06:58] [Server thread/INFO]: Teleported mosquitomole to juanchopepito
 [12:07:15] [Server thread/INFO]: juanchopepito has made the advancement [Remote Getaway]
 [12:08:05] [Server thread/INFO]: Teleported mosquitomole to -1814.500000, 63.000000, 253.500000
+[12:09:09] [Server thread/INFO]: juanchopepito lost connection: Disconnected
+[12:09:09] [Server thread/INFO]: juanchopepito left the game
+[12:10:28] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[12:10:28] [Server thread/INFO]: mosquitomole left the game
+[12:10:44] [Server thread/INFO]: Stopping the server
+[12:10:44] [Server thread/INFO]: Stopping server
+[12:10:44] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.62.1
+[12:10:44] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.62.1
+[12:10:44] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[12:10:44] [Server thread/INFO]: Saving players
+[12:10:44] [Server thread/INFO]: Saving worlds
+[12:10:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:10:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[12:10:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[12:10:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[12:10:46] [Server thread/INFO]: [ChunkHolderManager] Saved 582 block chunks, 602 entity chunks, 0 poi chunks in world 'world' in 1.00s
+[12:10:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[12:10:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[12:10:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[12:10:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[12:10:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[12:10:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[12:10:46] [Server thread/INFO]: [ChunkHolderManager] Saved 38 block chunks, 33 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
+[12:10:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[12:10:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[12:10:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[12:10:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[12:10:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[12:10:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[12:10:46] [Server thread/INFO]: [ChunkHolderManager] Saved 7 block chunks, 28 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[12:10:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[12:10:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[12:10:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:10:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:10:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:10:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:10:46] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[12:10:46] [Server thread/INFO]: All I/O tasks to complete
+[12:10:46] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[12:10:46] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
