@@ -131,3 +131,6 @@ Reason: &c¡sos re malo puto!
 [05:50:43] [Server thread/INFO]: Villager Villager['Villager'/44412, uuid='b0dfd89a-134a-46e4-94fa-b9057dc809ff', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=108393, v=true] died, message: 'Villager was squished too much'
 [06:01:30] [Server thread/INFO]: Villager Villager['Villager'/38074, uuid='8cbcbd88-6783-4803-904f-5b4445c38dbd', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=166024, v=true] died, message: 'Villager was squished too much'
 [06:11:21] [Server thread/INFO]: Villager Villager['Villager'/41486, uuid='cee8afa7-f89b-4c1f-81c7-43d07ef64857', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=152486, v=true] died, message: 'Villager was squished too much'
+[06:29:12] [Server thread/INFO]: Villager Villager['Villager'/30027, uuid='752bc707-9692-4c17-b489-a53595606ce4', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=253169, v=true] died, message: 'Villager was squished too much'
+[06:37:29] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[06:37:29] [Server thread/INFO]: mosquitomole left the game
