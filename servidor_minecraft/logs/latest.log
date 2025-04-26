@@ -127,3 +127,15 @@
 [23:26:52] [Server thread/INFO]: Teleported mosquitomole to -1814.500000, 63.000000, 253.500000
 [23:28:40] [Server thread/INFO]: Villager Villager['Villager'/118, uuid='78e5541e-0075-4bf6-8d76-27076dbd55dc', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=28072, v=true] died, message: 'Villager was squished too much'
 [23:33:05] [Server thread/INFO]: thunthunsahur has made the advancement [Isn't It Iron Pick]
+[23:38:19] [Server thread/INFO]: juanchopepito lost connection: Disconnected
+[23:38:19] [Server thread/INFO]: juanchopepito left the game
+[23:39:34] [Server thread/INFO]: Villager Villager['Villager'/9918, uuid='cd77f452-e410-4e5c-acc6-ee438330c225', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=26651, v=true] died, message: 'Villager was squished too much'
+[23:40:51] [Server thread/INFO]: thunthunsahur lost connection: Disconnected
+[23:40:51] [Server thread/INFO]: thunthunsahur left the game
+[23:42:46] [User Authenticator #3/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[23:42:47] [Server thread/INFO]: juanchopepito joined the game
+[23:42:47] [Server thread/INFO]: juanchopepito[/127.209.152.144:44151] logged in with entity id 28129 at ([world]-1807.6108709066275, 63.0, 247.30000001192093)
+[23:42:55] [User Authenticator #3/INFO]: UUID of player thunthunsahur is 9a235d25-d9e3-37e6-a199-336e56502671
+[23:42:56] [Server thread/INFO]: thunthunsahur joined the game
+[23:42:56] [Server thread/INFO]: thunthunsahur[/127.109.151.165:36971] logged in with entity id 28453 at ([world]-1805.67046550887, 64.875, 244.47448740371456)
+[23:44:09] [Server thread/INFO]: mosquitomole has made the advancement [Remote Getaway]
