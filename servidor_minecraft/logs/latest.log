@@ -141,3 +141,15 @@ Reason: &c¡sos re malo puto!
 [06:42:38] [Server thread/INFO]: Villager Villager['Villager'/65585, uuid='ae0b5056-c8ea-4325-aabb-7d7d4a7876c6', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=323334, v=true] died, message: 'Villager was squished too much'
 [06:49:18] [Server thread/INFO]: Villager Villager['Villager'/65579, uuid='8c0396b9-e7e8-40a4-8361-198b341e0111', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=405111, v=true] died, message: 'Villager was squished too much'
 [07:01:58] [Server thread/INFO]: Villager Villager['Villager'/65598, uuid='ef565145-4872-4dba-9379-2b003cfbc7cc', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=172055, v=true] died, message: 'Villager was squished too much'
+[07:09:42] [Server thread/INFO]: Villager Villager['Villager'/65601, uuid='6fbb80ab-7959-427a-8c3b-65cfba56181f', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=121445, v=true] died, message: 'Villager was squished too much'
+[07:13:58] [User Authenticator #11/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[07:13:59] [Server thread/INFO]: juanchopepito joined the game
+[07:13:59] [Server thread/INFO]: juanchopepito[/127.109.151.165:39561] logged in with entity id 68979 at ([world]-1805.6233045488957, 64.875, 243.8808214364746)
+[07:14:16] [Server thread/INFO]: juanchopepito lost connection: Disconnected
+[07:14:16] [Server thread/INFO]: juanchopepito left the game
+[07:14:31] [Server thread/INFO]: Set the time to 1000
+[07:14:35] [User Authenticator #11/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[07:14:36] [Server thread/INFO]: juanchopepito joined the game
+[07:14:36] [Server thread/INFO]: juanchopepito[/127.109.151.165:40949] logged in with entity id 69100 at ([world]-1793.506598580525, 63.0, 241.6027396279354)
+[07:17:09] [Server thread/INFO]: juanchopepito lost connection: Disconnected
+[07:17:09] [Server thread/INFO]: juanchopepito left the game
