@@ -114,3 +114,13 @@
 [23:12:53] [Server thread/INFO]: mosquitomole has made the advancement [Sneak 100]
 [23:12:55] [Server thread/INFO]: thunthunsahur has made the advancement [Acquire Hardware]
 [23:13:55] [Server thread/INFO]: thunthunsahur has made the advancement [Take Aim]
+[23:16:07] [Server thread/INFO]: The nearest minecraft:stronghold is at [-272, ~, 1552] (1254 blocks away)
+[23:16:07] [Server thread/INFO]: Locating element minecraft:stronghold took 19 ms
+[23:17:01] [Server thread/INFO]: Teleported mosquitomole to -271.500000, 60.000000, 1552.500000
+[23:17:10] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[23:17:10] [Server thread/INFO]: mosquitomole left the game
+[23:17:15] [User Authenticator #2/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[23:17:16] [Server thread/INFO]: mosquitomole joined the game
+[23:17:16] [Server thread/INFO]: mosquitomole[/127.109.151.165:50135] logged in with entity id 16711 at ([world]-271.68121295551646, 60.0, 1552.353577175124)
+[23:20:29] [Server thread/INFO]: thunthunsahur has made the advancement [Stone Age]
+[23:23:20] [Server thread/INFO]: Teleported mosquitomole to -271.500000, 80.000000, 1552.500000
