@@ -124,3 +124,6 @@
 [23:17:16] [Server thread/INFO]: mosquitomole[/127.109.151.165:50135] logged in with entity id 16711 at ([world]-271.68121295551646, 60.0, 1552.353577175124)
 [23:20:29] [Server thread/INFO]: thunthunsahur has made the advancement [Stone Age]
 [23:23:20] [Server thread/INFO]: Teleported mosquitomole to -271.500000, 80.000000, 1552.500000
+[23:26:52] [Server thread/INFO]: Teleported mosquitomole to -1814.500000, 63.000000, 253.500000
+[23:28:40] [Server thread/INFO]: Villager Villager['Villager'/118, uuid='78e5541e-0075-4bf6-8d76-27076dbd55dc', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=28072, v=true] died, message: 'Villager was squished too much'
+[23:33:05] [Server thread/INFO]: thunthunsahur has made the advancement [Isn't It Iron Pick]
