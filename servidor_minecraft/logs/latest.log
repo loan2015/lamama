@@ -129,3 +129,4 @@ Reason: &c¡sos re malo puto!
 [03:09:41] [Server thread/INFO]: juanchopepito lost connection: Disconnected
 [03:09:41] [Server thread/INFO]: juanchopepito left the game
 [05:50:43] [Server thread/INFO]: Villager Villager['Villager'/44412, uuid='b0dfd89a-134a-46e4-94fa-b9057dc809ff', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=108393, v=true] died, message: 'Villager was squished too much'
+[06:01:30] [Server thread/INFO]: Villager Villager['Villager'/38074, uuid='8cbcbd88-6783-4803-904f-5b4445c38dbd', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=166024, v=true] died, message: 'Villager was squished too much'
