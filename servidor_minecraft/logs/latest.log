@@ -153,3 +153,4 @@ Reason: &c¡sos re malo puto!
 [07:14:36] [Server thread/INFO]: juanchopepito[/127.109.151.165:40949] logged in with entity id 69100 at ([world]-1793.506598580525, 63.0, 241.6027396279354)
 [07:17:09] [Server thread/INFO]: juanchopepito lost connection: Disconnected
 [07:17:09] [Server thread/INFO]: juanchopepito left the game
+[07:22:25] [Server thread/INFO]: Villager Villager['Villager'/65600, uuid='9ca2d384-cd47-4df7-b336-699883ee932d', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=143054, v=true] died, message: 'Villager was squished too much'
