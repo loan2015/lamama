@@ -161,3 +161,6 @@ Reason: &c¡sos re malo puto!
 [08:22:23] [Server thread/INFO]: Villager Villager['Villager'/69140, uuid='22fb5c75-a1c4-46f7-938f-d5bead1ed1cc', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=81018, v=true] died, message: 'Villager was squished too much'
 [08:34:24] [Server thread/INFO]: Villager Villager['Villager'/65602, uuid='ef9e805c-a3f9-4831-b928-dfb85e04300a', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=215948, v=true] died, message: 'Villager was squished too much'
 [08:42:20] [Server thread/INFO]: Villager Villager['Villager'/69853, uuid='7049f5ee-c6f7-4196-a8f3-ad9a9197df72', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=96346, v=true] died, message: 'Villager was squished too much'
+[08:48:21] [Server thread/INFO]: Set the time to 1000
+[08:49:20] [Server thread/INFO]: Villager Villager['Villager'/66812, uuid='aebdc3d4-4296-481d-9cea-47bb9f077c18', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=144479, v=true] died, message: 'Villager was squished too much'
+[08:51:37] [Server thread/INFO]: mosquitomole has made the advancement [Voluntary Exile]
