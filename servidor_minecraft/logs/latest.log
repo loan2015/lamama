@@ -199,3 +199,9 @@ dificult peaceful<--[HERE]
 [04:58:18] [Server thread/INFO]: Villager Villager['Villager'/82352, uuid='433e40b4-dab2-4856-b998-421e8b51e3cc', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=24042, v=true] died, message: 'Villager was squished too much'
 [05:17:30] [Server thread/INFO]: Teleported mosquitomole to juanchopepito
 [05:26:49] [Server thread/INFO]: Villager Villager['Villager'/82355, uuid='44f61ec1-6cf1-462e-b52b-0120dd7b9723', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.30, cpos=[-113, 14], tl=769548, v=true] died, message: 'Villager was squished too much'
+[05:31:33] [Server thread/INFO]: juanchopepito lost connection: Disconnected
+[05:31:33] [Server thread/INFO]: juanchopepito left the game
+[05:31:49] [User Authenticator #20/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[05:31:51] [Server thread/INFO]: juanchopepito joined the game
+[05:31:51] [Server thread/INFO]: juanchopepito[/127.209.152.144:59905] logged in with entity id 100269 at ([world]-1800.4850272775286, 63.0, 229.4704876786626)
+[05:32:46] [Server thread/INFO]: Villager Villager['Villager'/82372, uuid='54047f72-2ca0-4df3-ab98-808d79ef37de', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=57727, v=true] died, message: 'Villager was squished too much'
