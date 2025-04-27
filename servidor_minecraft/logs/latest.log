@@ -4,3 +4,41 @@
 [00:00:24] [Server thread/INFO]: thunthunsahur was slain by Vex
 [00:25:08] [Server thread/INFO]: Villager Villager['Farmer'/43342, uuid='1b97e6c8-7296-40a8-ab18-9e57a9818b42', l='ServerLevel[world]', x=-1797.77, y=62.94, z=245.30, cpos=[-113, 15], tl=971674, v=true] died, message: 'Farmer was slain by Vex'
 [00:36:42] [Server thread/INFO]: mosquitomole has completed the challenge [Hero of the Village]
+[00:37:56] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[00:37:56] [Server thread/INFO]: mosquitomole left the game
+[00:38:09] [Server thread/INFO]: Stopping the server
+[00:38:09] [Server thread/INFO]: Stopping server
+[00:38:09] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.62.1
+[00:38:09] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.62.1
+[00:38:09] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[00:38:09] [Server thread/INFO]: Saving players
+[00:38:09] [Server thread/INFO]: Saving worlds
+[00:38:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Saved 8 block chunks, 61 entity chunks, 0 poi chunks in world 'world' in 0.03s
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[00:38:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[00:38:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 33 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[00:38:09] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[00:38:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:38:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:38:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:38:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:38:09] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[00:38:09] [Server thread/INFO]: All I/O tasks to complete
+[00:38:09] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[00:38:09] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
