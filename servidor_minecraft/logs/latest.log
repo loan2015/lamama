@@ -173,3 +173,8 @@ dificult peaceful<--[HERE]
 [04:15:52] [User Authenticator #16/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
 [04:15:53] [Server thread/INFO]: mosquitomole joined the game
 [04:15:53] [Server thread/INFO]: mosquitomole[/127.109.151.165:60081] logged in with entity id 77074 at ([world]-2084.804746108531, 63.0, -1701.192189310936)
+[04:26:53] [Server thread/INFO]: Set the time to 1000
+[04:28:58] [Server thread/INFO]: The difficulty has been set to Hard
+[04:33:14] [Server thread/INFO]: Set the time to 1000
+[04:33:18] [Server thread/INFO]: The difficulty has been set to Peaceful
+[04:35:45] [Server thread/INFO]: The difficulty has been set to Hard
