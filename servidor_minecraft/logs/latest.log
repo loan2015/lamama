@@ -206,3 +206,13 @@ dificult peaceful<--[HERE]
 [05:31:51] [Server thread/INFO]: juanchopepito[/127.209.152.144:59905] logged in with entity id 100269 at ([world]-1800.4850272775286, 63.0, 229.4704876786626)
 [05:32:46] [Server thread/INFO]: Villager Villager['Villager'/82372, uuid='54047f72-2ca0-4df3-ab98-808d79ef37de', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=57727, v=true] died, message: 'Villager was squished too much'
 [05:46:33] [Server thread/INFO]: Villager Villager['Villager'/98213, uuid='3cdcfc1d-9727-4a2b-a4e1-b2c9c623f857', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=24036, v=true] died, message: 'Villager was squished too much'
+[05:47:29] [Server thread/INFO]: Villager Villager['Fisherman'/82398, uuid='258ebb1a-b61a-46a4-b126-ab490b2a0c51', l='ServerLevel[world]', x=-1802.61, y=63.56, z=272.49, cpos=[-113, 17], tl=1118298, v=true] died, message: 'Fisherman was slain by Vex'
+[05:47:31] [Server thread/INFO]: Villager Villager['Fisherman'/82397, uuid='f5ba75b1-00c9-4bed-a3a2-0af4ba0a3b43', l='ServerLevel[world]', x=-1802.58, y=63.56, z=272.62, cpos=[-113, 17], tl=1108390, v=true] died, message: 'Fisherman was slain by Vex'
+[05:47:32] [Server thread/INFO]: Villager Villager['Fisherman'/82399, uuid='75e94bd3-0073-4d2c-873a-5c5a806ffc9f', l='ServerLevel[world]', x=-1800.61, y=63.00, z=274.49, cpos=[-113, 17], tl=881219, v=true] died, message: 'Fisherman was slain by Vex'
+[05:47:58] [Server thread/INFO]: Villager Villager['Cleric'/82379, uuid='7cc3d488-34c5-4fd5-b5e0-ee78da596e61', l='ServerLevel[world]', x=-1813.70, y=63.00, z=263.30, cpos=[-114, 16], tl=1005017, v=true] died, message: 'Cleric was slain by Vex'
+[05:53:01] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[05:53:01] [Server thread/INFO]: mosquitomole left the game
+[05:53:06] [User Authenticator #21/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[05:53:07] [Server thread/INFO]: mosquitomole joined the game
+[05:53:07] [Server thread/INFO]: mosquitomole[/127.109.151.165:60639] logged in with entity id 105016 at ([world]-1807.0476714564143, 62.9375, 279.56761108909177)
+[05:55:21] [Server thread/INFO]: juanchopepito has completed the challenge [Hero of the Village]
