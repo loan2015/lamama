@@ -216,3 +216,9 @@ dificult peaceful<--[HERE]
 [05:53:07] [Server thread/INFO]: mosquitomole joined the game
 [05:53:07] [Server thread/INFO]: mosquitomole[/127.109.151.165:60639] logged in with entity id 105016 at ([world]-1807.0476714564143, 62.9375, 279.56761108909177)
 [05:55:21] [Server thread/INFO]: juanchopepito has completed the challenge [Hero of the Village]
+[06:05:09] [Server thread/INFO]: Villager Villager['Fisherman'/82351, uuid='2a499f37-859b-47b5-ad59-a9eb41364610', l='ServerLevel[world]', x=-1802.54, y=63.56, z=274.02, cpos=[-113, 17], tl=251614, v=true] died, message: 'Fisherman was slain by juanchopepito'
+[06:05:34] [Server thread/INFO]: juanchopepito lost connection: Disconnected
+[06:05:34] [Server thread/INFO]: juanchopepito left the game
+[06:05:36] [User Authenticator #22/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[06:05:37] [Server thread/INFO]: juanchopepito joined the game
+[06:05:37] [Server thread/INFO]: juanchopepito[/127.209.152.144:58777] logged in with entity id 107019 at ([world]-1807.5306062006011, 63.0, 254.25405955805056)
