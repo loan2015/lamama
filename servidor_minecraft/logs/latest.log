@@ -63,3 +63,9 @@
 [00:54:26] [Server thread/INFO]: mosquitomole[/127.109.151.165:34205] logged in with entity id 40 at ([world]-1806.947288476861, 63.0, 252.25387134806945)
 [00:54:27] [Server thread/INFO]: juanchopepito joined the game
 [00:54:27] [Server thread/INFO]: juanchopepito[/127.209.152.144:59373] logged in with entity id 41 at ([world]-1747.524853110122, 82.0, 246.9003799405828)
+[01:04:44] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[01:04:44] [Server thread/INFO]: mosquitomole left the game
+[01:04:47] [User Authenticator #1/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[01:04:48] [Server thread/INFO]: mosquitomole joined the game
+[01:04:48] [Server thread/INFO]: mosquitomole[/127.109.151.165:42275] logged in with entity id 2226 at ([world]-1842.043111846412, 73.0, 258.30000001192093)
+[01:12:37] [Server thread/INFO]: mosquitomole has made the advancement [Ice Bucket Challenge]
