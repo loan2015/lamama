@@ -178,3 +178,20 @@ dificult peaceful<--[HERE]
 [04:33:14] [Server thread/INFO]: Set the time to 1000
 [04:33:18] [Server thread/INFO]: The difficulty has been set to Peaceful
 [04:35:45] [Server thread/INFO]: The difficulty has been set to Hard
+[04:36:39] [User Authenticator #17/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[04:36:40] [Server thread/INFO]: juanchopepito joined the game
+[04:36:40] [Server thread/INFO]: juanchopepito[/127.209.152.144:52573] logged in with entity id 79519 at ([world]-1804.5, 63.0, 250.5)
+[04:42:38] [Server thread/INFO]: juanchopepito lost connection: Disconnected
+[04:42:38] [Server thread/INFO]: juanchopepito left the game
+[04:42:53] [User Authenticator #18/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[04:42:54] [Server thread/INFO]: juanchopepito joined the game
+[04:42:54] [Server thread/INFO]: juanchopepito[/127.209.152.144:36675] logged in with entity id 82337 at ([world_nether]-214.3599493127202, 30.916930911610862, 22.365658855321943)
+[04:42:56] [Server thread/INFO]: Teleported juanchopepito to mosquitomole
+[04:44:48] [Server thread/INFO]: Teleported juanchopepito to -1814.500000, 63.000000, 253.500000
+[04:45:27] [Async Chat Thread - #6/INFO]: [Not Secure] <juanchopepito> zzzz
+[04:45:27] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[04:45:27] [Server thread/INFO]: mosquitomole left the game
+[04:45:35] [User Authenticator #19/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[04:45:36] [Server thread/INFO]: mosquitomole joined the game
+[04:45:36] [Server thread/INFO]: mosquitomole[/127.109.151.165:37541] logged in with entity id 83272 at ([world]-2082.797731362367, 180.0, -1702.252220247883)
+[04:46:27] [Server thread/INFO]: Teleported juanchopepito to mosquitomole
