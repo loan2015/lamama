@@ -160,3 +160,16 @@
 [04:02:27] [User Authenticator #15/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
 [04:02:29] [Server thread/INFO]: mosquitomole joined the game
 [04:02:29] [Server thread/INFO]: mosquitomole[/127.109.151.165:38125] logged in with entity id 73308 at ([world]-1912.0967540717418, 64.0, -1710.9274338423074)
+[04:11:45] [Server thread/INFO]: Villager Villager['Villager'/36855, uuid='269482e2-5c30-4d90-8f99-f6590bc0d730', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=32023, v=true] died, message: 'Villager was squished too much'
+[04:13:04] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[04:13:04] [Server thread/INFO]: mosquitomole left the game
+[04:13:15] [Server thread/INFO]: juanchopepito lost connection: Disconnected
+[04:13:15] [Server thread/INFO]: juanchopepito left the game
+[04:14:00] [Server thread/INFO]: Unknown game mode: pacific
+...de pacific<--[HERE]
+[04:15:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+dificult peaceful<--[HERE]
+[04:15:47] [Server thread/INFO]: The difficulty has been set to Peaceful
+[04:15:52] [User Authenticator #16/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[04:15:53] [Server thread/INFO]: mosquitomole joined the game
+[04:15:53] [Server thread/INFO]: mosquitomole[/127.109.151.165:60081] logged in with entity id 77074 at ([world]-2084.804746108531, 63.0, -1701.192189310936)
