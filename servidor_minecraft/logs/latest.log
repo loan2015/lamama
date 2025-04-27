@@ -242,3 +242,9 @@ dificult peaceful<--[HERE]
 [07:57:43] [Server thread/INFO]: Villager Villager['Librarian'/82386, uuid='e5b593e7-a014-480f-a631-3b54c477b808', l='ServerLevel[world]', x=-1814.31, y=63.00, z=260.69, cpos=[-114, 16], tl=1032805, v=true] died, message: 'Librarian was slain by Zombie'
 [07:58:49] [Server thread/INFO]: mosquitomole has made the advancement [A Seedy Place]
 [08:00:49] [Server thread/INFO]: mosquitomole has made the advancement [Local Brewery]
+[08:10:03] [Server thread/INFO]: juanchopepito lost connection: Disconnected
+[08:10:03] [Server thread/INFO]: juanchopepito left the game
+[08:10:37] [User Authenticator #25/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[08:10:38] [Server thread/INFO]: juanchopepito joined the game
+[08:10:38] [Server thread/INFO]: juanchopepito[/127.209.152.144:34007] logged in with entity id 157892 at ([world_the_end]350.60254632769426, -63.108055638017106, -33.94315914918467)
+[08:10:39] [Server thread/INFO]: Teleported juanchopepito to mosquitomole
