@@ -222,3 +222,9 @@ dificult peaceful<--[HERE]
 [06:05:36] [User Authenticator #22/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
 [06:05:37] [Server thread/INFO]: juanchopepito joined the game
 [06:05:37] [Server thread/INFO]: juanchopepito[/127.209.152.144:58777] logged in with entity id 107019 at ([world]-1807.5306062006011, 63.0, 254.25405955805056)
+[06:27:48] [Async Chat Thread - #8/INFO]: [Not Secure] <juanchopepito> w
+[06:28:37] [Server thread/INFO]: juanchopepito lost connection: Disconnected
+[06:28:37] [Server thread/INFO]: juanchopepito left the game
+[06:29:12] [User Authenticator #23/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[06:29:14] [Server thread/INFO]: juanchopepito joined the game
+[06:29:14] [Server thread/INFO]: juanchopepito[/127.209.152.144:33611] logged in with entity id 116037 at ([world]-1801.699999988079, 56.0, 236.69999998807907)
