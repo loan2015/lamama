@@ -249,3 +249,5 @@ dificult peaceful<--[HERE]
 [08:10:38] [Server thread/INFO]: juanchopepito[/127.209.152.144:34007] logged in with entity id 157892 at ([world_the_end]350.60254632769426, -63.108055638017106, -33.94315914918467)
 [08:10:39] [Server thread/INFO]: Teleported juanchopepito to mosquitomole
 [08:27:48] [Server thread/INFO]: Villager Villager['Villager'/82359, uuid='d061ab9b-c325-492f-a515-61adbc5a98e8', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=856571, v=true] died, message: 'Villager was squished too much'
+[08:36:15] [Server thread/INFO]: juanchopepito has made the advancement [Crafting a New Look]
+[08:38:23] [Server thread/INFO]: Villager Villager['Villager'/82358, uuid='50a29879-71dc-4eec-8917-9a80b62c07f8', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=882655, v=true] died, message: 'Villager was squished too much'
