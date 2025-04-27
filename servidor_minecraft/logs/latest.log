@@ -108,3 +108,9 @@
 [02:32:57] [User Authenticator #7/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
 [02:32:59] [Server thread/INFO]: mosquitomole joined the game
 [02:32:59] [Server thread/INFO]: mosquitomole[/127.109.151.165:58203] logged in with entity id 28359 at ([world]-2085.564589640307, 62.875, -1702.1183815942502)
+[02:41:29] [Server thread/INFO]: Villager Villager['Villager'/20389, uuid='70f8175f-3504-4db4-b442-4b2afb376b96', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=25140, v=true] died, message: 'Villager was squished too much'
+[02:43:40] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[02:43:40] [Server thread/INFO]: mosquitomole left the game
+[02:43:52] [User Authenticator #8/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[02:43:53] [Server thread/INFO]: mosquitomole joined the game
+[02:43:53] [Server thread/INFO]: mosquitomole[/127.109.151.165:42355] logged in with entity id 32413 at ([world]-2077.514715952367, 90.0, -1708.5126484332225)
