@@ -138,3 +138,9 @@
 [03:18:04] [User Authenticator #11/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
 [03:18:05] [Server thread/INFO]: mosquitomole joined the game
 [03:18:05] [Server thread/INFO]: mosquitomole[/127.109.151.165:35143] logged in with entity id 51209 at ([world]-2081.300000011921, 90.0, -1703.4526196815448)
+[03:26:00] [Async Chat Thread - #4/INFO]: [Not Secure] <mosquitomole> -2081 -1709
+[03:29:04] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[03:29:04] [Server thread/INFO]: mosquitomole left the game
+[03:29:51] [User Authenticator #12/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[03:29:51] [Server thread/INFO]: mosquitomole joined the game
+[03:29:51] [Server thread/INFO]: mosquitomole[/127.109.151.165:37043] logged in with entity id 59150 at ([world]-2079.645012035323, 114.0, -1702.8271863289922)
