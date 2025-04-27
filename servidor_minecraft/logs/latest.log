@@ -133,3 +133,8 @@
 [03:06:59] [Server thread/INFO]: mosquitomole joined the game
 [03:06:59] [Server thread/INFO]: mosquitomole[/127.109.151.165:49125] logged in with entity id 45179 at ([world]-2083.046342235194, 93.0, -1702.7640463126256)
 [03:10:43] [Server thread/INFO]: juanchopepito has made the advancement [Sneak 100]
+[03:17:59] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[03:17:59] [Server thread/INFO]: mosquitomole left the game
+[03:18:04] [User Authenticator #11/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[03:18:05] [Server thread/INFO]: mosquitomole joined the game
+[03:18:05] [Server thread/INFO]: mosquitomole[/127.109.151.165:35143] logged in with entity id 51209 at ([world]-2081.300000011921, 90.0, -1703.4526196815448)
