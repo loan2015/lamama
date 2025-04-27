@@ -119,3 +119,17 @@
 [02:53:11] [Async Chat Thread - #0/INFO]: [Not Secure] <juanchopepito> dios mio
 [02:53:16] [Async Chat Thread - #0/INFO]: [Not Secure] <juanchopepito> yo nunca fui tan down
 [02:53:35] [Async Chat Thread - #0/INFO]: [Not Secure] <juanchopepito> lo peor de todo es que han estado peor
+[02:55:01] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[02:55:01] [Server thread/INFO]: mosquitomole left the game
+[02:55:06] [User Authenticator #9/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[02:55:07] [Server thread/INFO]: mosquitomole joined the game
+[02:55:07] [Server thread/INFO]: mosquitomole[/127.109.151.165:47965] logged in with entity id 37862 at ([world]-2096.4473547032503, 93.0, -1689.849165093257)
+[03:04:01] [Server thread/INFO]: Villager Villager['Villager'/31486, uuid='44303386-12f7-4000-bc51-df3359c101dd', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=27586, v=true] died, message: 'Villager was squished too much'
+[03:05:21] [Async Chat Thread - #2/INFO]: [Not Secure] <juanchopepito> -18063 -45 -13028
+[03:06:03] [Async Chat Thread - #2/INFO]: [Not Secure] <juanchopepito> -1863 -45 -1328
+[03:06:44] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[03:06:44] [Server thread/INFO]: mosquitomole left the game
+[03:06:57] [User Authenticator #10/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[03:06:59] [Server thread/INFO]: mosquitomole joined the game
+[03:06:59] [Server thread/INFO]: mosquitomole[/127.109.151.165:49125] logged in with entity id 45179 at ([world]-2083.046342235194, 93.0, -1702.7640463126256)
+[03:10:43] [Server thread/INFO]: juanchopepito has made the advancement [Sneak 100]
