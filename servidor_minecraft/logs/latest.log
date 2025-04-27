@@ -196,3 +196,4 @@ dificult peaceful<--[HERE]
 [04:45:36] [Server thread/INFO]: mosquitomole[/127.109.151.165:37541] logged in with entity id 83272 at ([world]-2082.797731362367, 180.0, -1702.252220247883)
 [04:46:27] [Server thread/INFO]: Teleported juanchopepito to mosquitomole
 [04:48:26] [Server thread/INFO]: Teleported juanchopepito to -1814.500000, 63.000000, 253.500000
+[04:58:18] [Server thread/INFO]: Villager Villager['Villager'/82352, uuid='433e40b4-dab2-4856-b998-421e8b51e3cc', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=24042, v=true] died, message: 'Villager was squished too much'
