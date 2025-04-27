@@ -87,3 +87,17 @@
 [01:49:18] [User Authenticator #4/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
 [01:49:19] [Server thread/INFO]: juanchopepito joined the game
 [01:49:19] [Server thread/INFO]: juanchopepito[/127.209.152.144:51349] logged in with entity id 12869 at ([world]-1757.5636182979013, 76.0, 283.93465267537715)
+[01:54:48] [Server thread/INFO]: Villager Villager['Villager'/75, uuid='418c482a-c989-4022-8a4a-5b0cb023e3ff', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.30, cpos=[-113, 14], tl=301523, v=true] died, message: 'Villager was squished too much'
+[01:57:55] [Server thread/INFO]: Villager Villager['Villager'/71, uuid='fa68b942-ad47-480a-adbf-b992f12f4fcd', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.30, cpos=[-113, 14], tl=218591, v=true] died, message: 'Villager was squished too much'
+[02:11:06] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[02:11:06] [Server thread/INFO]: mosquitomole left the game
+[02:11:20] [User Authenticator #5/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[02:11:21] [Server thread/INFO]: mosquitomole joined the game
+[02:11:21] [Server thread/INFO]: mosquitomole[/127.109.151.165:44891] logged in with entity id 18596 at ([world]-1764.5312061642928, 78.0, 293.36459232690146)
+[02:17:05] [Server thread/INFO]: Villager Villager['Villager'/64, uuid='15f34ea4-8004-46d4-929b-874add934c4e', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=182539, v=true] died, message: 'Villager was squished too much'
+[02:19:06] [Server thread/INFO]: Villager Villager['Villager'/65, uuid='213a3339-8d51-4709-b5df-4a44d5fad932', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=163625, v=true] died, message: 'Villager was squished too much'
+[02:21:56] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[02:21:56] [Server thread/INFO]: mosquitomole left the game
+[02:22:01] [User Authenticator #6/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[02:22:02] [Server thread/INFO]: mosquitomole joined the game
+[02:22:02] [Server thread/INFO]: mosquitomole[/127.109.151.165:53641] logged in with entity id 20970 at ([world]-1767.1253792004036, 78.0, 295.31806046939226)
