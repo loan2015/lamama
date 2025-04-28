@@ -65,3 +65,8 @@
 [20:13:51] [Server thread/INFO]: mosquitomole[/127.109.151.165:50529] logged in with entity id 244 at ([world]-1805.52221380956, 64.875, 245.1806547215596)
 [20:20:51] [Server thread/INFO]: Villager Villager['Villager'/73, uuid='ac3e2ab4-a7dd-4099-b723-b8e4f985b9c1', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=78869, v=true] died, message: 'Villager was squished too much'
 [20:31:09] [Server thread/INFO]: Villager Villager['Villager'/75, uuid='612c89b7-fcb2-4f94-9f0c-51738e651910', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=73657, v=true] died, message: 'Villager was squished too much'
+[20:39:24] [Server thread/INFO]: juanchopepito lost connection: Disconnected
+[20:39:24] [Server thread/INFO]: juanchopepito left the game
+[20:39:54] [User Authenticator #1/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[20:39:55] [Server thread/INFO]: juanchopepito joined the game
+[20:39:55] [Server thread/INFO]: juanchopepito[/127.209.152.144:36991] logged in with entity id 9654 at ([world_nether]-184.95498428610657, 67.0, 135.7932891625435)
