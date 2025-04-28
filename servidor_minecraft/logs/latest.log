@@ -1,293 +1,66 @@
-[00:54:03] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
-[00:54:03] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[00:54:04] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:54:04] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[00:54:04] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[20:13:19] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[20:13:19] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[20:13:20] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:13:20] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[20:13:20] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - ConditionalEvents (4.62.1), PlaceholderAPI (2.11.6)
-[00:54:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:54:11] [ServerMain/INFO]: Loaded 1337 recipes
-[00:54:11] [ServerMain/INFO]: Loaded 1448 advancements
-[00:54:11] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:54:11] [Server thread/INFO]: Loading properties
-[00:54:11] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[00:54:12] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:54:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:54:12] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:54:13] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[00:54:13] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[00:54:13] [Server thread/INFO]: Default game type: SURVIVAL
-[00:54:13] [Server thread/INFO]: Generating keypair
-[00:54:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:54:14] [Server thread/INFO]: Using epoll channel type
-[00:54:14] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:54:14] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:54:14] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[00:54:14] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.62.1
-[00:54:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:54:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:54:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:54:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:54:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:54:14] [Server thread/INFO]: Preparing level "world"
-[00:54:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:54:16] [Server thread/INFO]: Preparing spawn area: 0%
-[00:54:16] [Server thread/INFO]: Preparing spawn area: 0%
-[00:54:16] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[00:54:17] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 373.5ms
-[00:54:17] [Server thread/INFO]: Preparing spawn area: 2%
-[00:54:17] [Server thread/INFO]: Preparing spawn area: 6%
-[00:54:17] [Server thread/INFO]: Preparing spawn area: 6%
-[00:54:17] [Server thread/INFO]: Time elapsed: 2043 ms
-[00:54:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:54:18] [Server thread/INFO]: Preparing spawn area: 0%
-[00:54:18] [Server thread/INFO]: Time elapsed: 271 ms
-[00:54:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:54:18] [Server thread/INFO]: Preparing spawn area: 0%
-[00:54:18] [Server thread/INFO]: Time elapsed: 229 ms
-[00:54:18] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[00:54:19] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[00:54:19] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.62.1
-[00:54:19] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.62.1]
-[00:54:19] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.62.1
-[00:54:19] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[00:54:19] [Server thread/INFO]: [spark] Starting background profiler...
-[00:54:19] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[00:54:19] [Server thread/INFO]: Done preparing level "world" (5.649s)
-[00:54:19] [Server thread/INFO]: Running delayed init tasks
-[00:54:19] [Server thread/INFO]: Done (17.680s)! For help, type "help"
-[00:54:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
-[00:54:20] [Server thread/INFO]: 1 placeholder hook(s) registered!
-[00:54:24] [User Authenticator #0/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[00:54:25] [User Authenticator #0/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
-[00:54:26] [Server thread/INFO]: mosquitomole joined the game
-[00:54:26] [Server thread/INFO]: mosquitomole[/127.109.151.165:34205] logged in with entity id 40 at ([world]-1806.947288476861, 63.0, 252.25387134806945)
-[00:54:27] [Server thread/INFO]: juanchopepito joined the game
-[00:54:27] [Server thread/INFO]: juanchopepito[/127.209.152.144:59373] logged in with entity id 41 at ([world]-1747.524853110122, 82.0, 246.9003799405828)
-[01:04:44] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[01:04:44] [Server thread/INFO]: mosquitomole left the game
-[01:04:47] [User Authenticator #1/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[01:04:48] [Server thread/INFO]: mosquitomole joined the game
-[01:04:48] [Server thread/INFO]: mosquitomole[/127.109.151.165:42275] logged in with entity id 2226 at ([world]-1842.043111846412, 73.0, 258.30000001192093)
-[01:12:37] [Server thread/INFO]: mosquitomole has made the advancement [Ice Bucket Challenge]
-[01:15:26] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[01:15:26] [Server thread/INFO]: mosquitomole left the game
-[01:15:30] [User Authenticator #2/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[01:15:32] [Server thread/INFO]: mosquitomole joined the game
-[01:15:32] [Server thread/INFO]: mosquitomole[/127.109.151.165:49243] logged in with entity id 4193 at ([world]-1671.4958381462768, 63.0, 400.8920930761428)
-[01:29:15] [Server thread/INFO]: juanchopepito has made the advancement [Bring Home the Beacon]
-[01:29:15] [Server thread/INFO]: mosquitomole has made the advancement [Bring Home the Beacon]
-[01:36:09] [Server thread/INFO]: juanchopepito has made the advancement [Enchanter]
-[01:38:00] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[01:38:00] [Server thread/INFO]: mosquitomole left the game
-[01:38:03] [User Authenticator #3/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[01:38:04] [Server thread/INFO]: mosquitomole joined the game
-[01:38:04] [Server thread/INFO]: mosquitomole[/127.109.151.165:51517] logged in with entity id 8831 at ([world]-1757.109680500698, 78.0, 295.1980276244762)
-[01:49:08] [Server thread/INFO]: juanchopepito lost connection: Disconnected
-[01:49:08] [Server thread/INFO]: juanchopepito left the game
-[01:49:18] [User Authenticator #4/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
-[01:49:19] [Server thread/INFO]: juanchopepito joined the game
-[01:49:19] [Server thread/INFO]: juanchopepito[/127.209.152.144:51349] logged in with entity id 12869 at ([world]-1757.5636182979013, 76.0, 283.93465267537715)
-[01:54:48] [Server thread/INFO]: Villager Villager['Villager'/75, uuid='418c482a-c989-4022-8a4a-5b0cb023e3ff', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.30, cpos=[-113, 14], tl=301523, v=true] died, message: 'Villager was squished too much'
-[01:57:55] [Server thread/INFO]: Villager Villager['Villager'/71, uuid='fa68b942-ad47-480a-adbf-b992f12f4fcd', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.30, cpos=[-113, 14], tl=218591, v=true] died, message: 'Villager was squished too much'
-[02:11:06] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[02:11:06] [Server thread/INFO]: mosquitomole left the game
-[02:11:20] [User Authenticator #5/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[02:11:21] [Server thread/INFO]: mosquitomole joined the game
-[02:11:21] [Server thread/INFO]: mosquitomole[/127.109.151.165:44891] logged in with entity id 18596 at ([world]-1764.5312061642928, 78.0, 293.36459232690146)
-[02:17:05] [Server thread/INFO]: Villager Villager['Villager'/64, uuid='15f34ea4-8004-46d4-929b-874add934c4e', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=182539, v=true] died, message: 'Villager was squished too much'
-[02:19:06] [Server thread/INFO]: Villager Villager['Villager'/65, uuid='213a3339-8d51-4709-b5df-4a44d5fad932', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=163625, v=true] died, message: 'Villager was squished too much'
-[02:21:56] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[02:21:56] [Server thread/INFO]: mosquitomole left the game
-[02:22:01] [User Authenticator #6/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[02:22:02] [Server thread/INFO]: mosquitomole joined the game
-[02:22:02] [Server thread/INFO]: mosquitomole[/127.109.151.165:53641] logged in with entity id 20970 at ([world]-1767.1253792004036, 78.0, 295.31806046939226)
-[02:27:24] [Server thread/INFO]: Teleported juanchopepito to mosquitomole
-[02:29:03] [Server thread/INFO]: Teleported juanchopepito to -1814.500000, 63.000000, 253.500000
-[02:32:41] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[02:32:41] [Server thread/INFO]: mosquitomole left the game
-[02:32:57] [User Authenticator #7/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[02:32:59] [Server thread/INFO]: mosquitomole joined the game
-[02:32:59] [Server thread/INFO]: mosquitomole[/127.109.151.165:58203] logged in with entity id 28359 at ([world]-2085.564589640307, 62.875, -1702.1183815942502)
-[02:41:29] [Server thread/INFO]: Villager Villager['Villager'/20389, uuid='70f8175f-3504-4db4-b442-4b2afb376b96', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=25140, v=true] died, message: 'Villager was squished too much'
-[02:43:40] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[02:43:40] [Server thread/INFO]: mosquitomole left the game
-[02:43:52] [User Authenticator #8/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[02:43:53] [Server thread/INFO]: mosquitomole joined the game
-[02:43:53] [Server thread/INFO]: mosquitomole[/127.109.151.165:42355] logged in with entity id 32413 at ([world]-2077.514715952367, 90.0, -1708.5126484332225)
-[02:52:01] [Server thread/INFO]: Villager Villager['Villager'/27546, uuid='82868753-875a-42ec-91d9-7f5f1a1d1112', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=26454, v=true] died, message: 'Villager was squished too much'
-[02:53:01] [Async Chat Thread - #0/INFO]: [Not Secure] <juanchopepito> que escucho
-[02:53:11] [Async Chat Thread - #0/INFO]: [Not Secure] <juanchopepito> dios mio
-[02:53:16] [Async Chat Thread - #0/INFO]: [Not Secure] <juanchopepito> yo nunca fui tan down
-[02:53:35] [Async Chat Thread - #0/INFO]: [Not Secure] <juanchopepito> lo peor de todo es que han estado peor
-[02:55:01] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[02:55:01] [Server thread/INFO]: mosquitomole left the game
-[02:55:06] [User Authenticator #9/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[02:55:07] [Server thread/INFO]: mosquitomole joined the game
-[02:55:07] [Server thread/INFO]: mosquitomole[/127.109.151.165:47965] logged in with entity id 37862 at ([world]-2096.4473547032503, 93.0, -1689.849165093257)
-[03:04:01] [Server thread/INFO]: Villager Villager['Villager'/31486, uuid='44303386-12f7-4000-bc51-df3359c101dd', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=27586, v=true] died, message: 'Villager was squished too much'
-[03:05:21] [Async Chat Thread - #2/INFO]: [Not Secure] <juanchopepito> -18063 -45 -13028
-[03:06:03] [Async Chat Thread - #2/INFO]: [Not Secure] <juanchopepito> -1863 -45 -1328
-[03:06:44] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[03:06:44] [Server thread/INFO]: mosquitomole left the game
-[03:06:57] [User Authenticator #10/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[03:06:59] [Server thread/INFO]: mosquitomole joined the game
-[03:06:59] [Server thread/INFO]: mosquitomole[/127.109.151.165:49125] logged in with entity id 45179 at ([world]-2083.046342235194, 93.0, -1702.7640463126256)
-[03:10:43] [Server thread/INFO]: juanchopepito has made the advancement [Sneak 100]
-[03:17:59] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[03:17:59] [Server thread/INFO]: mosquitomole left the game
-[03:18:04] [User Authenticator #11/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[03:18:05] [Server thread/INFO]: mosquitomole joined the game
-[03:18:05] [Server thread/INFO]: mosquitomole[/127.109.151.165:35143] logged in with entity id 51209 at ([world]-2081.300000011921, 90.0, -1703.4526196815448)
-[03:26:00] [Async Chat Thread - #4/INFO]: [Not Secure] <mosquitomole> -2081 -1709
-[03:29:04] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[03:29:04] [Server thread/INFO]: mosquitomole left the game
-[03:29:51] [User Authenticator #12/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[03:29:51] [Server thread/INFO]: mosquitomole joined the game
-[03:29:51] [Server thread/INFO]: mosquitomole[/127.109.151.165:37043] logged in with entity id 59150 at ([world]-2079.645012035323, 114.0, -1702.8271863289922)
-[03:40:27] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[03:40:27] [Server thread/INFO]: mosquitomole left the game
-[03:40:36] [User Authenticator #13/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[03:40:37] [Server thread/INFO]: mosquitomole joined the game
-[03:40:37] [Server thread/INFO]: mosquitomole[/127.109.151.165:45925] logged in with entity id 65744 at ([world]-2082.4794456661893, 132.0, -1703.3287037074463)
-[03:51:31] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[03:51:31] [Server thread/INFO]: mosquitomole left the game
-[03:51:34] [User Authenticator #14/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[03:51:35] [Server thread/INFO]: mosquitomole joined the game
-[03:51:35] [Server thread/INFO]: mosquitomole[/127.109.151.165:54173] logged in with entity id 69516 at ([world]-2066.1835145839495, 132.0, -1705.3950463547196)
-[03:57:39] [Server thread/INFO]: Teleported juanchopepito to -1814.500000, 63.000000, 253.500000
-[04:02:23] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[04:02:23] [Server thread/INFO]: mosquitomole left the game
-[04:02:27] [User Authenticator #15/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[04:02:29] [Server thread/INFO]: mosquitomole joined the game
-[04:02:29] [Server thread/INFO]: mosquitomole[/127.109.151.165:38125] logged in with entity id 73308 at ([world]-1912.0967540717418, 64.0, -1710.9274338423074)
-[04:11:45] [Server thread/INFO]: Villager Villager['Villager'/36855, uuid='269482e2-5c30-4d90-8f99-f6590bc0d730', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=32023, v=true] died, message: 'Villager was squished too much'
-[04:13:04] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[04:13:04] [Server thread/INFO]: mosquitomole left the game
-[04:13:15] [Server thread/INFO]: juanchopepito lost connection: Disconnected
-[04:13:15] [Server thread/INFO]: juanchopepito left the game
-[04:14:00] [Server thread/INFO]: Unknown game mode: pacific
-...de pacific<--[HERE]
-[04:15:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
-dificult peaceful<--[HERE]
-[04:15:47] [Server thread/INFO]: The difficulty has been set to Peaceful
-[04:15:52] [User Authenticator #16/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[04:15:53] [Server thread/INFO]: mosquitomole joined the game
-[04:15:53] [Server thread/INFO]: mosquitomole[/127.109.151.165:60081] logged in with entity id 77074 at ([world]-2084.804746108531, 63.0, -1701.192189310936)
-[04:26:53] [Server thread/INFO]: Set the time to 1000
-[04:28:58] [Server thread/INFO]: The difficulty has been set to Hard
-[04:33:14] [Server thread/INFO]: Set the time to 1000
-[04:33:18] [Server thread/INFO]: The difficulty has been set to Peaceful
-[04:35:45] [Server thread/INFO]: The difficulty has been set to Hard
-[04:36:39] [User Authenticator #17/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
-[04:36:40] [Server thread/INFO]: juanchopepito joined the game
-[04:36:40] [Server thread/INFO]: juanchopepito[/127.209.152.144:52573] logged in with entity id 79519 at ([world]-1804.5, 63.0, 250.5)
-[04:42:38] [Server thread/INFO]: juanchopepito lost connection: Disconnected
-[04:42:38] [Server thread/INFO]: juanchopepito left the game
-[04:42:53] [User Authenticator #18/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
-[04:42:54] [Server thread/INFO]: juanchopepito joined the game
-[04:42:54] [Server thread/INFO]: juanchopepito[/127.209.152.144:36675] logged in with entity id 82337 at ([world_nether]-214.3599493127202, 30.916930911610862, 22.365658855321943)
-[04:42:56] [Server thread/INFO]: Teleported juanchopepito to mosquitomole
-[04:44:48] [Server thread/INFO]: Teleported juanchopepito to -1814.500000, 63.000000, 253.500000
-[04:45:27] [Async Chat Thread - #6/INFO]: [Not Secure] <juanchopepito> zzzz
-[04:45:27] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[04:45:27] [Server thread/INFO]: mosquitomole left the game
-[04:45:35] [User Authenticator #19/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[04:45:36] [Server thread/INFO]: mosquitomole joined the game
-[04:45:36] [Server thread/INFO]: mosquitomole[/127.109.151.165:37541] logged in with entity id 83272 at ([world]-2082.797731362367, 180.0, -1702.252220247883)
-[04:46:27] [Server thread/INFO]: Teleported juanchopepito to mosquitomole
-[04:48:26] [Server thread/INFO]: Teleported juanchopepito to -1814.500000, 63.000000, 253.500000
-[04:58:18] [Server thread/INFO]: Villager Villager['Villager'/82352, uuid='433e40b4-dab2-4856-b998-421e8b51e3cc', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=24042, v=true] died, message: 'Villager was squished too much'
-[05:17:30] [Server thread/INFO]: Teleported mosquitomole to juanchopepito
-[05:26:49] [Server thread/INFO]: Villager Villager['Villager'/82355, uuid='44f61ec1-6cf1-462e-b52b-0120dd7b9723', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.30, cpos=[-113, 14], tl=769548, v=true] died, message: 'Villager was squished too much'
-[05:31:33] [Server thread/INFO]: juanchopepito lost connection: Disconnected
-[05:31:33] [Server thread/INFO]: juanchopepito left the game
-[05:31:49] [User Authenticator #20/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
-[05:31:51] [Server thread/INFO]: juanchopepito joined the game
-[05:31:51] [Server thread/INFO]: juanchopepito[/127.209.152.144:59905] logged in with entity id 100269 at ([world]-1800.4850272775286, 63.0, 229.4704876786626)
-[05:32:46] [Server thread/INFO]: Villager Villager['Villager'/82372, uuid='54047f72-2ca0-4df3-ab98-808d79ef37de', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=57727, v=true] died, message: 'Villager was squished too much'
-[05:46:33] [Server thread/INFO]: Villager Villager['Villager'/98213, uuid='3cdcfc1d-9727-4a2b-a4e1-b2c9c623f857', l='ServerLevel[world]', x=-1797.30, y=57.00, z=236.70, cpos=[-113, 14], tl=24036, v=true] died, message: 'Villager was squished too much'
-[05:47:29] [Server thread/INFO]: Villager Villager['Fisherman'/82398, uuid='258ebb1a-b61a-46a4-b126-ab490b2a0c51', l='ServerLevel[world]', x=-1802.61, y=63.56, z=272.49, cpos=[-113, 17], tl=1118298, v=true] died, message: 'Fisherman was slain by Vex'
-[05:47:31] [Server thread/INFO]: Villager Villager['Fisherman'/82397, uuid='f5ba75b1-00c9-4bed-a3a2-0af4ba0a3b43', l='ServerLevel[world]', x=-1802.58, y=63.56, z=272.62, cpos=[-113, 17], tl=1108390, v=true] died, message: 'Fisherman was slain by Vex'
-[05:47:32] [Server thread/INFO]: Villager Villager['Fisherman'/82399, uuid='75e94bd3-0073-4d2c-873a-5c5a806ffc9f', l='ServerLevel[world]', x=-1800.61, y=63.00, z=274.49, cpos=[-113, 17], tl=881219, v=true] died, message: 'Fisherman was slain by Vex'
-[05:47:58] [Server thread/INFO]: Villager Villager['Cleric'/82379, uuid='7cc3d488-34c5-4fd5-b5e0-ee78da596e61', l='ServerLevel[world]', x=-1813.70, y=63.00, z=263.30, cpos=[-114, 16], tl=1005017, v=true] died, message: 'Cleric was slain by Vex'
-[05:53:01] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[05:53:01] [Server thread/INFO]: mosquitomole left the game
-[05:53:06] [User Authenticator #21/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[05:53:07] [Server thread/INFO]: mosquitomole joined the game
-[05:53:07] [Server thread/INFO]: mosquitomole[/127.109.151.165:60639] logged in with entity id 105016 at ([world]-1807.0476714564143, 62.9375, 279.56761108909177)
-[05:55:21] [Server thread/INFO]: juanchopepito has completed the challenge [Hero of the Village]
-[06:05:09] [Server thread/INFO]: Villager Villager['Fisherman'/82351, uuid='2a499f37-859b-47b5-ad59-a9eb41364610', l='ServerLevel[world]', x=-1802.54, y=63.56, z=274.02, cpos=[-113, 17], tl=251614, v=true] died, message: 'Fisherman was slain by juanchopepito'
-[06:05:34] [Server thread/INFO]: juanchopepito lost connection: Disconnected
-[06:05:34] [Server thread/INFO]: juanchopepito left the game
-[06:05:36] [User Authenticator #22/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
-[06:05:37] [Server thread/INFO]: juanchopepito joined the game
-[06:05:37] [Server thread/INFO]: juanchopepito[/127.209.152.144:58777] logged in with entity id 107019 at ([world]-1807.5306062006011, 63.0, 254.25405955805056)
-[06:27:48] [Async Chat Thread - #8/INFO]: [Not Secure] <juanchopepito> w
-[06:28:37] [Server thread/INFO]: juanchopepito lost connection: Disconnected
-[06:28:37] [Server thread/INFO]: juanchopepito left the game
-[06:29:12] [User Authenticator #23/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
-[06:29:14] [Server thread/INFO]: juanchopepito joined the game
-[06:29:14] [Server thread/INFO]: juanchopepito[/127.209.152.144:33611] logged in with entity id 116037 at ([world]-1801.699999988079, 56.0, 236.69999998807907)
-[06:42:55] [Server thread/INFO]: Teleported juanchopepito to mosquitomole
-[06:44:47] [Server thread/INFO]: Teleported juanchopepito to mosquitomole
-[06:48:45] [Server thread/INFO]: Teleported mosquitomole to juanchopepito
-[07:07:59] [Server thread/INFO]: juanchopepito lost connection: Disconnected
-[07:07:59] [Server thread/INFO]: juanchopepito left the game
-[07:12:21] [User Authenticator #24/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
-[07:12:22] [Server thread/INFO]: juanchopepito joined the game
-[07:12:22] [Server thread/INFO]: juanchopepito[/127.209.152.144:52327] logged in with entity id 125192 at ([world_nether]-219.59387551238336, 19.0, 38.372506627480455)
-[07:33:13] [Server thread/INFO]: Teleported juanchopepito to mosquitomole
-[07:33:30] [Server thread/INFO]: mosquitomole has made the advancement [Hidden in the Depths]
-[07:53:11] [Server thread/INFO]: juanchopepito has completed the challenge [Cover Me in Debris]
-[07:57:43] [Server thread/INFO]: Villager Villager['Librarian'/82386, uuid='e5b593e7-a014-480f-a631-3b54c477b808', l='ServerLevel[world]', x=-1814.31, y=63.00, z=260.69, cpos=[-114, 16], tl=1032805, v=true] died, message: 'Librarian was slain by Zombie'
-[07:58:49] [Server thread/INFO]: mosquitomole has made the advancement [A Seedy Place]
-[08:00:49] [Server thread/INFO]: mosquitomole has made the advancement [Local Brewery]
-[08:10:03] [Server thread/INFO]: juanchopepito lost connection: Disconnected
-[08:10:03] [Server thread/INFO]: juanchopepito left the game
-[08:10:37] [User Authenticator #25/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
-[08:10:38] [Server thread/INFO]: juanchopepito joined the game
-[08:10:38] [Server thread/INFO]: juanchopepito[/127.209.152.144:34007] logged in with entity id 157892 at ([world_the_end]350.60254632769426, -63.108055638017106, -33.94315914918467)
-[08:10:39] [Server thread/INFO]: Teleported juanchopepito to mosquitomole
-[08:27:48] [Server thread/INFO]: Villager Villager['Villager'/82359, uuid='d061ab9b-c325-492f-a515-61adbc5a98e8', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=856571, v=true] died, message: 'Villager was squished too much'
-[08:36:15] [Server thread/INFO]: juanchopepito has made the advancement [Crafting a New Look]
-[08:38:23] [Server thread/INFO]: Villager Villager['Villager'/82358, uuid='50a29879-71dc-4eec-8917-9a80b62c07f8', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=882655, v=true] died, message: 'Villager was squished too much'
-[08:42:14] [Server thread/INFO]: juanchopepito lost connection: Disconnected
-[08:42:14] [Server thread/INFO]: juanchopepito left the game
-[08:42:22] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[08:42:22] [Server thread/INFO]: mosquitomole left the game
-[08:42:46] [Server thread/INFO]: Stopping the server
-[08:42:46] [Server thread/INFO]: Stopping server
-[08:42:46] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.62.1
-[08:42:46] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.62.1
-[08:42:46] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[08:42:46] [Server thread/INFO]: Saving players
-[08:42:46] [Server thread/INFO]: Saving worlds
-[08:42:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world' in 0.02s
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[08:42:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Saved 95 block chunks, 41 entity chunks, 0 poi chunks in world 'world_nether' in 0.04s
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[08:42:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 38 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[08:42:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[08:42:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:42:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:42:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:42:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[08:42:46] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[08:42:46] [Server thread/INFO]: All I/O tasks to complete
-[08:42:46] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[08:42:46] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[20:13:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:13:27] [ServerMain/INFO]: Loaded 1337 recipes
+[20:13:27] [ServerMain/INFO]: Loaded 1448 advancements
+[20:13:27] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[20:13:27] [Server thread/INFO]: Loading properties
+[20:13:27] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[20:13:28] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:13:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:13:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:13:29] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[20:13:29] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[20:13:29] [Server thread/INFO]: Default game type: SURVIVAL
+[20:13:29] [Server thread/INFO]: Generating keypair
+[20:13:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:13:29] [Server thread/INFO]: Using epoll channel type
+[20:13:29] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:13:29] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[20:13:31] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[20:13:31] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.62.1
+[20:13:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:13:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:13:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:13:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:13:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:13:31] [Server thread/INFO]: Preparing level "world"
+[20:13:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[20:13:32] [Server thread/INFO]: Preparing spawn area: 2%
+[20:13:32] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[20:13:33] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 423.2ms
+[20:13:33] [Server thread/INFO]: Preparing spawn area: 2%
+[20:13:33] [Server thread/INFO]: Preparing spawn area: 6%
+[20:13:33] [Server thread/INFO]: Time elapsed: 1790 ms
+[20:13:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:13:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:13:34] [Server thread/INFO]: Time elapsed: 369 ms
+[20:13:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:13:34] [Server thread/INFO]: Preparing spawn area: 0%
+[20:13:34] [Server thread/INFO]: Time elapsed: 140 ms
+[20:13:34] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[20:13:35] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:13:35] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.62.1
+[20:13:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.62.1]
+[20:13:35] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.62.1
+[20:13:35] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[20:13:35] [Server thread/INFO]: [spark] Starting background profiler...
+[20:13:35] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:13:35] [Server thread/INFO]: Done preparing level "world" (4.660s)
+[20:13:35] [Server thread/INFO]: Running delayed init tasks
+[20:13:35] [Server thread/INFO]: Done (17.505s)! For help, type "help"
+[20:13:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[20:13:35] [Server thread/INFO]: 1 placeholder hook(s) registered!
+[20:13:39] [Server thread/INFO]: /127.109.151.165:51173 lost connection: Disconnected
+[20:13:44] [User Authenticator #0/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[20:13:47] [Server thread/INFO]: juanchopepito joined the game
+[20:13:47] [Server thread/INFO]: juanchopepito[/127.209.152.144:39063] logged in with entity id 45 at ([world]-1809.6469678027458, 62.9375, 252.30000001192093)
+[20:13:49] [User Authenticator #0/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[20:13:51] [Server thread/INFO]: mosquitomole joined the game
+[20:13:51] [Server thread/INFO]: mosquitomole[/127.109.151.165:50529] logged in with entity id 244 at ([world]-1805.52221380956, 64.875, 245.1806547215596)
+[20:20:51] [Server thread/INFO]: Villager Villager['Villager'/73, uuid='ac3e2ab4-a7dd-4099-b723-b8e4f985b9c1', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=78869, v=true] died, message: 'Villager was squished too much'
