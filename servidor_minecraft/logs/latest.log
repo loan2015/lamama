@@ -124,3 +124,11 @@
 [22:37:01] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
 [22:37:01] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
 [22:42:18] [Server thread/INFO]: Villager Villager['Villager'/48390, uuid='d6f32b96-9a63-4dce-87a4-92d5d77bcbbb', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=24069, v=true] died, message: 'Villager was squished too much'
+[22:47:40] [Server thread/INFO]: Villager Villager['Villager'/50738, uuid='62d5721d-1e23-45af-bded-ccbacd44d340', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=24062, v=true] died, message: 'Villager was squished too much'
+[22:49:52] [Server thread/INFO]: juanchopepito lost connection: Disconnected
+[22:49:52] [Server thread/INFO]: juanchopepito left the game
+[22:50:00] [User Authenticator #5/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[22:50:01] [Server thread/INFO]: juanchopepito joined the game
+[22:50:01] [Server thread/INFO]: juanchopepito[/127.209.152.144:40215] logged in with entity id 57221 at ([world]-1684.9404419844127, 74.0, 360.1117643589038)
+[22:50:13] [Server thread/INFO]: Villager Villager['Villager'/49, uuid='6b29259f-80f3-4999-90c8-47fbe027f8da', l='ServerLevel[world]', x=-1814.35, y=63.19, z=253.83, cpos=[-114, 15], tl=1227743, v=true] died, message: 'Villager was slain by Zombie'
+[22:53:58] [Server thread/INFO]: Villager Villager['Villager'/53258, uuid='d982ec6a-bba3-4496-8eb2-58c604ebd354', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=24051, v=true] died, message: 'Villager was squished too much'
