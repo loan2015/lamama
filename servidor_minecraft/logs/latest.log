@@ -137,3 +137,10 @@
 [23:01:15] [User Authenticator #6/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
 [23:01:16] [Server thread/INFO]: juanchopepito joined the game
 [23:01:16] [Server thread/INFO]: juanchopepito[/127.209.152.144:44987] logged in with entity id 64338 at ([world]-1687.775120840426, 83.0, 358.21462132863)
+[23:06:03] [Server thread/INFO]: Villager Villager['Villager'/55907, uuid='752e1d7d-b633-43ca-9eca-0cf53032944b', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=24058, v=true] died, message: 'Villager was squished too much'
+[23:11:22] [Server thread/INFO]: Villager Villager['Villager'/57698, uuid='412c8456-5306-4afc-a91c-61e1018b12df', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=24050, v=true] died, message: 'Villager was squished too much'
+[23:12:50] [Server thread/INFO]: juanchopepito lost connection: Disconnected
+[23:12:50] [Server thread/INFO]: juanchopepito left the game
+[23:13:09] [User Authenticator #7/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[23:13:10] [Server thread/INFO]: juanchopepito joined the game
+[23:13:10] [Server thread/INFO]: juanchopepito[/127.209.152.144:51839] logged in with entity id 67832 at ([world]-1725.300000011921, 64.0, 371.75620778938236)
