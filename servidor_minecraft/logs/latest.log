@@ -107,3 +107,7 @@
 [22:20:07] [Server thread/INFO]: Villager Villager['Villager'/33569, uuid='318a3481-02c3-41bd-8de6-f82237e1227d', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=24065, v=true] died, message: 'Villager was squished too much'
 [22:22:05] [Async Chat Thread - #2/INFO]: [Not Secure] <juanchopepito> voy a co,prr
 [22:22:13] [Async Chat Thread - #2/INFO]: [Not Secure] <mosquitomole> okok
+[22:26:50] [Server thread/INFO]: Set the time to 1000
+[22:31:01] [Server thread/INFO]: Villager Villager['Villager'/42361, uuid='776f4a6f-192f-4a25-ac71-361318a3917e', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=24043, v=true] died, message: 'Villager was squished too much'
+[22:32:24] [Server thread/INFO]: Teleported juanchopepito to mosquitomole
+[22:33:06] [Server thread/WARN]: juanchopepito moved wrongly!
