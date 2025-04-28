@@ -70,3 +70,4 @@
 [20:39:54] [User Authenticator #1/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
 [20:39:55] [Server thread/INFO]: juanchopepito joined the game
 [20:39:55] [Server thread/INFO]: juanchopepito[/127.209.152.144:36991] logged in with entity id 9654 at ([world_nether]-184.95498428610657, 67.0, 135.7932891625435)
+[20:43:40] [Server thread/INFO]: Villager Villager['Villager'/2641, uuid='292d6aa6-f4a8-4918-96df-e50338852ff9', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=27487, v=true] died, message: 'Villager was squished too much'
