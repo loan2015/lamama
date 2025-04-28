@@ -83,3 +83,4 @@
 [21:33:09] [Server thread/INFO]: juanchopepito has reached the goal [Zombie Doctor]
 [21:37:28] [Server thread/INFO]: Villager Villager['Villager'/20951, uuid='60f637a3-7d0d-4ed9-bdcf-37addf88a721', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=25476, v=true] died, message: 'Villager was squished too much'
 [21:40:23] [Server thread/WARN]: juanchopepito moved wrongly!
+[21:46:03] [Server thread/INFO]: Villager Villager['Villager'/25019, uuid='5dbffa0f-3f1f-4d3c-a4c9-81d17579233e', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=24035, v=true] died, message: 'Villager was squished too much'
