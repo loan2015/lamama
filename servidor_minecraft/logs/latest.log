@@ -75,3 +75,7 @@
 [20:56:21] [Server thread/INFO]: juanchopepito lost connection: Disconnected
 [20:56:21] [Server thread/INFO]: juanchopepito left the game
 [21:05:03] [Server thread/INFO]: Villager Villager['Villager'/10900, uuid='d2f3a8c7-f2c4-42c4-9e12-66e0edfeac2f', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=27240, v=true] died, message: 'Villager was squished too much'
+[21:14:15] [User Authenticator #2/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[21:14:16] [Server thread/INFO]: juanchopepito joined the game
+[21:14:16] [Server thread/INFO]: juanchopepito[/127.209.152.144:56441] logged in with entity id 20029 at ([world]-1802.529588747322, 65.5, 244.90004361173558)
+[21:17:15] [Server thread/INFO]: Villager Villager['Villager'/15199, uuid='874ea647-de0f-4f75-99ec-6bf0debb11bc', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=29507, v=true] died, message: 'Villager was squished too much'
