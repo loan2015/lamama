@@ -111,3 +111,16 @@
 [22:31:01] [Server thread/INFO]: Villager Villager['Villager'/42361, uuid='776f4a6f-192f-4a25-ac71-361318a3917e', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=24043, v=true] died, message: 'Villager was squished too much'
 [22:32:24] [Server thread/INFO]: Teleported juanchopepito to mosquitomole
 [22:33:06] [Server thread/WARN]: juanchopepito moved wrongly!
+[22:35:01] [Server thread/WARN]: juanchopepito moved wrongly!
+[22:36:17] [Server thread/INFO]: Villager Villager['Villager'/44583, uuid='453c40b9-828b-4a6d-b0e3-1e0f88cec08a', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.64, cpos=[-113, 14], tl=24042, v=true] died, message: 'Villager was squished too much'
+[22:36:59] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> zzz
+[22:37:00] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
+[22:37:00] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
+[22:37:00] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
+[22:37:00] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
+[22:37:00] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> zz
+[22:37:01] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
+[22:37:01] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
+[22:37:01] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
+[22:37:01] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
+[22:42:18] [Server thread/INFO]: Villager Villager['Villager'/48390, uuid='d6f32b96-9a63-4dce-87a4-92d5d77bcbbb', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=24069, v=true] died, message: 'Villager was squished too much'
