@@ -82,3 +82,10 @@
 [02:05:01] [Server thread/INFO]: mosquitomole joined the game
 [02:05:01] [Server thread/INFO]: mosquitomole[/127.109.151.165:46299] logged in with entity id 40763 at ([world]-1804.5523185508541, 63.0, 254.8872795885199)
 [02:16:58] [Server thread/INFO]: juanchopepituni has made the advancement [Isn't It Iron Pick]
+[02:19:34] [Server thread/WARN]: juanchopepituni moved wrongly!
+[02:19:35] [Server thread/WARN]: juanchopepituni moved wrongly!
+[02:19:36] [Server thread/WARN]: juanchopepituni moved wrongly!
+[02:19:37] [Server thread/WARN]: juanchopepituni moved wrongly!
+[02:19:38] [Server thread/WARN]: juanchopepituni moved wrongly!
+[02:19:38] [Server thread/WARN]: juanchopepituni moved wrongly!
+[02:27:12] [Server thread/INFO]: Villager Villager['Villager'/58, uuid='449f81eb-62f9-4290-afe5-e26596f17f17', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=134805, v=true] died, message: 'Villager was squished too much'
