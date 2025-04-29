@@ -72,3 +72,8 @@
 [01:46:49] [User Authenticator #1/INFO]: UUID of player juanchopepituni is 57364eb0-c807-371c-b5a4-f4ccf3606219
 [01:46:51] [Server thread/INFO]: juanchopepituni joined the game
 [01:46:51] [Server thread/INFO]: juanchopepituni[/127.109.151.165:54201] logged in with entity id 16909 at ([world]-679.5, 82.0, 367.5)
+[01:48:01] [Server thread/INFO]: juanchopepituni has reached the goal [Sky's the Limit]
+[01:51:03] [Server thread/WARN]: juanchopepituni moved wrongly!
+[01:54:26] [Server thread/INFO]: juanchopepituni has made the advancement [Sweet Dreams]
+[01:55:36] [Server thread/INFO]: juanchopepituni has made the advancement [What a Deal!]
+[01:55:48] [Server thread/INFO]: Villager Villager['Villager'/872, uuid='09551499-1649-44c7-9f27-e148dadcd780', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=88951, v=true] died, message: 'Villager was squished too much'
