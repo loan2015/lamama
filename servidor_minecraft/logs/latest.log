@@ -69,3 +69,6 @@
 [00:31:23] [Server thread/INFO]: Gave 64 [Sugar] to juanchopepito
 [00:31:25] [Server thread/INFO]: Gave 64 [Sugar] to juanchopepito
 [00:36:16] [Server thread/INFO]: Villager Villager['Villager'/60, uuid='d4933e75-cdd9-4001-a9fd-fafc2197730a', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=24052, v=true] died, message: 'Villager was squished too much'
+[01:46:49] [User Authenticator #1/INFO]: UUID of player juanchopepituni is 57364eb0-c807-371c-b5a4-f4ccf3606219
+[01:46:51] [Server thread/INFO]: juanchopepituni joined the game
+[01:46:51] [Server thread/INFO]: juanchopepituni[/127.109.151.165:54201] logged in with entity id 16909 at ([world]-679.5, 82.0, 367.5)
