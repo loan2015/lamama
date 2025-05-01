@@ -1,91 +1,99 @@
-[00:26:55] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
-[00:26:55] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[00:26:55] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:26:56] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[00:26:56] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[00:46:43] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[00:46:43] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[00:46:43] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:46:44] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[00:46:44] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - ConditionalEvents (4.62.1), PlaceholderAPI (2.11.6)
-[00:27:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:27:05] [ServerMain/INFO]: Loaded 1337 recipes
-[00:27:05] [ServerMain/INFO]: Loaded 1448 advancements
-[00:27:05] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:27:05] [Server thread/INFO]: Loading properties
-[00:27:05] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[00:27:06] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:27:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:27:06] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:27:07] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[00:27:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[00:27:07] [Server thread/INFO]: Default game type: SURVIVAL
-[00:27:07] [Server thread/INFO]: Generating keypair
-[00:27:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:27:07] [Server thread/INFO]: Using epoll channel type
-[00:27:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:27:07] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:27:08] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[00:27:08] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.62.1
-[00:27:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:27:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:27:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:27:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:27:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:27:08] [Server thread/INFO]: Preparing level "world"
-[00:27:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:27:09] [Server thread/INFO]: Preparing spawn area: 0%
-[00:27:09] [Server thread/INFO]: Preparing spawn area: 2%
-[00:27:09] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[00:27:09] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 352.6ms
-[00:27:10] [Server thread/INFO]: Preparing spawn area: 6%
-[00:27:10] [Server thread/INFO]: Preparing spawn area: 6%
-[00:27:10] [Server thread/INFO]: Time elapsed: 1505 ms
-[00:27:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:27:10] [Server thread/INFO]: Preparing spawn area: 0%
-[00:27:10] [Server thread/INFO]: Time elapsed: 434 ms
-[00:27:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:27:10] [Server thread/INFO]: Preparing spawn area: 0%
-[00:27:10] [Server thread/INFO]: Time elapsed: 202 ms
-[00:27:10] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[00:27:11] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[00:27:11] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.62.1
-[00:27:11] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.62.1]
-[00:27:11] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.62.1
-[00:27:11] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[00:27:12] [Server thread/INFO]: [spark] Starting background profiler...
-[00:27:12] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[00:27:12] [Server thread/INFO]: Done preparing level "world" (4.634s)
-[00:27:12] [Server thread/INFO]: Running delayed init tasks
-[00:27:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
-[00:27:12] [Server thread/INFO]: 1 placeholder hook(s) registered!
-[00:27:12] [Server thread/INFO]: Done (18.559s)! For help, type "help"
-[00:27:35] [User Authenticator #0/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
-[00:27:37] [Server thread/INFO]: juanchopepito joined the game
-[00:27:37] [Server thread/INFO]: juanchopepito[/127.209.152.144:55299] logged in with entity id 30 at ([world]-1720.5909390574207, 64.0, 373.1303940705566)
-[00:30:46] [Server thread/INFO]: Unknown item 'minecraft:item.minecraft.sugar'
-...chopepito item.minecraft.sugar 64<--[HERE]
-[00:31:17] [Server thread/INFO]: Gave 64 [Sugar] to juanchopepito
-[00:31:20] [Server thread/INFO]: Gave 64 [Sugar] to juanchopepito
-[00:31:21] [Server thread/INFO]: Gave 64 [Sugar] to juanchopepito
-[00:31:21] [Server thread/INFO]: Gave 64 [Sugar] to juanchopepito
-[00:31:22] [Server thread/INFO]: Gave 64 [Sugar] to juanchopepito
-[00:31:23] [Server thread/INFO]: Gave 64 [Sugar] to juanchopepito
-[00:31:25] [Server thread/INFO]: Gave 64 [Sugar] to juanchopepito
-[00:36:16] [Server thread/INFO]: Villager Villager['Villager'/60, uuid='d4933e75-cdd9-4001-a9fd-fafc2197730a', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=24052, v=true] died, message: 'Villager was squished too much'
-[01:46:49] [User Authenticator #1/INFO]: UUID of player juanchopepituni is 57364eb0-c807-371c-b5a4-f4ccf3606219
-[01:46:51] [Server thread/INFO]: juanchopepituni joined the game
-[01:46:51] [Server thread/INFO]: juanchopepituni[/127.109.151.165:54201] logged in with entity id 16909 at ([world]-679.5, 82.0, 367.5)
-[01:48:01] [Server thread/INFO]: juanchopepituni has reached the goal [Sky's the Limit]
-[01:51:03] [Server thread/WARN]: juanchopepituni moved wrongly!
-[01:54:26] [Server thread/INFO]: juanchopepituni has made the advancement [Sweet Dreams]
-[01:55:36] [Server thread/INFO]: juanchopepituni has made the advancement [What a Deal!]
-[01:55:48] [Server thread/INFO]: Villager Villager['Villager'/872, uuid='09551499-1649-44c7-9f27-e148dadcd780', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=88951, v=true] died, message: 'Villager was squished too much'
-[02:02:12] [Server thread/INFO]: juanchopepituni has made the advancement [Cover Me with Diamonds]
-[02:04:59] [User Authenticator #2/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[02:05:01] [Server thread/INFO]: mosquitomole joined the game
-[02:05:01] [Server thread/INFO]: mosquitomole[/127.109.151.165:46299] logged in with entity id 40763 at ([world]-1804.5523185508541, 63.0, 254.8872795885199)
-[02:16:58] [Server thread/INFO]: juanchopepituni has made the advancement [Isn't It Iron Pick]
-[02:19:34] [Server thread/WARN]: juanchopepituni moved wrongly!
-[02:19:35] [Server thread/WARN]: juanchopepituni moved wrongly!
-[02:19:36] [Server thread/WARN]: juanchopepituni moved wrongly!
-[02:19:37] [Server thread/WARN]: juanchopepituni moved wrongly!
-[02:19:38] [Server thread/WARN]: juanchopepituni moved wrongly!
-[02:19:38] [Server thread/WARN]: juanchopepituni moved wrongly!
-[02:27:12] [Server thread/INFO]: Villager Villager['Villager'/58, uuid='449f81eb-62f9-4290-afe5-e26596f17f17', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=134805, v=true] died, message: 'Villager was squished too much'
+[00:46:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:46:52] [ServerMain/INFO]: Loaded 1337 recipes
+[00:46:52] [ServerMain/INFO]: Loaded 1448 advancements
+[00:46:52] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[00:46:52] [Server thread/INFO]: Loading properties
+[00:46:52] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[00:46:53] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:46:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:46:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:46:54] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[00:46:54] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[00:46:54] [Server thread/INFO]: Default game type: SURVIVAL
+[00:46:54] [Server thread/INFO]: Generating keypair
+[00:46:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:46:55] [Server thread/INFO]: Using epoll channel type
+[00:46:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:46:55] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[00:46:56] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[00:46:56] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.62.1
+[00:46:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:46:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:46:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:46:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:46:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:46:56] [Server thread/INFO]: Preparing level "world"
+[00:46:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:46:57] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:57] [Server thread/INFO]: Preparing spawn area: 2%
+[00:46:57] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[00:46:57] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 365.7ms
+[00:46:57] [Server thread/INFO]: Preparing spawn area: 2%
+[00:46:58] [Server thread/INFO]: Preparing spawn area: 4%
+[00:46:58] [Server thread/INFO]: Time elapsed: 1773 ms
+[00:46:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:46:58] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:59] [Server thread/INFO]: Time elapsed: 340 ms
+[00:46:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:46:59] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:59] [Server thread/INFO]: Time elapsed: 215 ms
+[00:46:59] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[00:46:59] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[00:46:59] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.62.1
+[00:47:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.62.1]
+[00:47:00] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.62.1
+[00:47:00] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[00:47:00] [Server thread/INFO]: [spark] Starting background profiler...
+[00:47:00] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[00:47:00] [Server thread/INFO]: Done preparing level "world" (4.821s)
+[00:47:00] [Server thread/INFO]: Running delayed init tasks
+[00:47:00] [Server thread/INFO]: Done (19.157s)! For help, type "help"
+[00:47:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[00:47:00] [Server thread/INFO]: 1 placeholder hook(s) registered!
+[00:48:06] [User Authenticator #0/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[00:48:08] [Server thread/INFO]: mosquitomole joined the game
+[00:48:08] [Server thread/INFO]: mosquitomole[/127.109.151.165:38047] logged in with entity id 36 at ([world]-1800.4898528894369, 66.0625, 242.21747154546154)
+[00:48:09] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 3c32deb0-db7a-478d-9b31-6531a451df25, mapped to MinecartHopper['Minecart with Hopper'/146, uuid='3c32deb0-db7a-478d-9b31-6531a451df25', l='ServerLevel[world]', x=-1805.50, y=61.06, z=299.13, cpos=[-113, 18], tl=0, v=true], can't add MinecartHopper['Minecart with Hopper'/162, uuid='3c32deb0-db7a-478d-9b31-6531a451df25', l='ServerLevel[world]', x=-1805.50, y=61.06, z=305.93, cpos=[-113, 19], tl=0, v=false]
+[00:48:09] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 1fe7dd8b-7ba4-4348-9950-79bcd575d097, mapped to MinecartHopper['Minecart with Hopper'/145, uuid='1fe7dd8b-7ba4-4348-9950-79bcd575d097', l='ServerLevel[world]', x=-1798.50, y=61.06, z=297.93, cpos=[-113, 18], tl=0, v=true], can't add MinecartHopper['Minecart with Hopper'/164, uuid='1fe7dd8b-7ba4-4348-9950-79bcd575d097', l='ServerLevel[world]', x=-1798.50, y=61.06, z=304.73, cpos=[-113, 19], tl=0, v=false]
+[00:48:09] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 0d997e8c-b17d-482b-b96d-ea9012684607, mapped to Bat['Bat'/129, uuid='0d997e8c-b17d-482b-b96d-ea9012684607', l='ServerLevel[world]', x=-1816.14, y=69.78, z=278.50, cpos=[-114, 17], tl=4472, v=true], can't add Bat['Bat'/184, uuid='0d997e8c-b17d-482b-b96d-ea9012684607', l='ServerLevel[world]', x=-1762.88, y=78.69, z=298.50, cpos=[-111, 18], tl=204, v=false]
+[00:48:09] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: af672014-5042-4eb3-a061-835583acc837, mapped to Salmon['Salmon'/123, uuid='af672014-5042-4eb3-a061-835583acc837', l='ServerLevel[world]', x=-1829.88, y=58.00, z=258.34, cpos=[-115, 16], tl=10193, v=true], can't add Salmon['Salmon'/187, uuid='af672014-5042-4eb3-a061-835583acc837', l='ServerLevel[world]', x=-1839.26, y=60.95, z=288.29, cpos=[-115, 18], tl=5532, v=false]
+[00:48:09] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: cc7d6ef9-d695-48e6-b150-adc927425009, mapped to Salmon['Salmon'/122, uuid='cc7d6ef9-d695-48e6-b150-adc927425009', l='ServerLevel[world]', x=-1830.72, y=58.00, z=258.46, cpos=[-115, 16], tl=10193, v=true], can't add Salmon['Salmon'/189, uuid='cc7d6ef9-d695-48e6-b150-adc927425009', l='ServerLevel[world]', x=-1839.59, y=60.00, z=288.87, cpos=[-115, 18], tl=5532, v=false]
+[00:48:11] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: a06f8328-f9dd-4e10-9036-e69b670b2395, mapped to Skeleton['Skeleton'/290, uuid='a06f8328-f9dd-4e10-9036-e69b670b2395', l='ServerLevel[world]', x=-1914.07, y=-13.00, z=192.93, cpos=[-120, 12], tl=93, v=true], can't add Skeleton['Skeleton'/310, uuid='a06f8328-f9dd-4e10-9036-e69b670b2395', l='ServerLevel[world]', x=-1915.48, y=-14.00, z=189.70, cpos=[-120, 11], tl=306, v=false]
+[00:48:14] [User Authenticator #0/INFO]: UUID of player LuKaG2 is 17ca85f1-3e66-3891-95b3-0ef53304978d
+[00:48:16] [Server thread/INFO]: LuKaG2 joined the game
+[00:48:16] [Server thread/INFO]: LuKaG2[/127.116.233.78:33499] logged in with entity id 405 at ([world]-678.5, 80.0, 373.5)
+[00:48:55] [Async Chat Thread - #0/INFO]: [Not Secure] <mosquitomole> -1802 65 245
+[00:49:22] [Async Chat Thread - #0/INFO]: [Not Secure] <LuKaG2> -688 83 369
+[00:50:12] [Server thread/INFO]: LuKaG2 lost connection: Disconnected
+[00:50:13] [Server thread/INFO]: LuKaG2 left the game
+[00:50:16] [User Authenticator #1/INFO]: UUID of player LuKaG2 is 17ca85f1-3e66-3891-95b3-0ef53304978d
+[00:50:17] [Server thread/INFO]: LuKaG2 joined the game
+[00:50:17] [Server thread/INFO]: LuKaG2[/127.116.233.78:44995] logged in with entity id 1311 at ([world]-687.2697428522362, 83.0, 369.5490643738937)
+[00:51:20] [Server thread/INFO]: LuKaG2 has made the advancement [Stone Age]
+[00:51:51] [Server thread/INFO]: LuKaG2 has reached the goal [Sky's the Limit]
+[00:51:58] [Async Chat Thread - #2/INFO]: [Not Secure] <mosquitomole> -1802 65 245
+[00:53:01] [Server thread/INFO]: LuKaG2 has made the advancement [We Need to Go Deeper]
+[00:55:31] [Server thread/INFO]: LuKaG2 has made the advancement [Sweet Dreams]
+[00:59:19] [Server thread/INFO]: LuKaG2 has made the advancement [Monster Hunter]
+[01:00:44] [Server thread/INFO]: LuKaG2 has made the advancement [Eye Spy]
+[01:01:00] [Server thread/INFO]: LuKaG2 has made the advancement [The End?]
+[01:01:15] [Server thread/INFO]: LuKaG2 was slain by Enderman
+[01:04:18] [User Authenticator #2/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[01:04:20] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 69c94b02-013e-450d-9cf5-d60e4a9cc80e, mapped to ThrownEnderpearl['Thrown Ender Pearl'/15315, uuid='69c94b02-013e-450d-9cf5-d60e4a9cc80e', l='ServerLevel[world]', x=-1822.54, y=62.99, z=248.93, cpos=[-114, 15], tl=3663, v=true], can't add ThrownEnderpearl['Thrown Ender Pearl'/16671, uuid='69c94b02-013e-450d-9cf5-d60e4a9cc80e', l='ServerLevel[world]', x=-1822.54, y=63.07, z=248.93, cpos=[-114, 15], tl=0, v=false]
+[01:04:20] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[01:04:20] [Server thread/INFO]: juanchopepito joined the game
+[01:04:20] [Server thread/INFO]: juanchopepito[/127.209.152.144:58415] logged in with entity id 16665 at ([world]-1808.5, 63.875, 248.5)
+[01:06:07] [Server thread/INFO]: LuKaG2 has made the advancement [What a Deal!]
+[01:06:43] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
+[01:06:44] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
+[01:06:44] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
+[01:06:44] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
+[01:06:44] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
+[01:06:44] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
+[01:06:44] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> z
