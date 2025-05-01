@@ -138,3 +138,9 @@
 [02:57:35] [Server thread/INFO]: LuKaG2[/127.116.233.78:34501] logged in with entity id 72752 at ([world]-1773.4450659453257, 76.0, 285.10119702239837)
 [02:58:36] [Server thread/INFO]: Villager Villager['Villager'/31480, uuid='65b14fb2-f82b-49fc-8251-7cb414cb53bd', l='ServerLevel[world]', x=-1737.57, y=68.00, z=377.49, cpos=[-109, 23], tl=863519, v=true] died, message: 'Villager hit the ground too hard'
 [03:00:31] [Server thread/INFO]: Villager Villager['Villager'/31481, uuid='262dff18-c9c7-4e76-a0be-97d0ccf7ffa8', l='ServerLevel[world]', x=-1714.70, y=48.64, z=382.41, cpos=[-108, 23], tl=852009, v=true] died, message: 'Villager went up in flames'
+[03:15:05] [Server thread/INFO]: Villager Villager['Villager'/31487, uuid='5bd51b35-78fa-4833-bb7a-8d32599e28ad', l='ServerLevel[world]', x=-1738.27, y=68.00, z=376.20, cpos=[-109, 23], tl=675094, v=true] died, message: 'Villager was slain by mosquitomole'
+[03:15:54] [Server thread/INFO]: Villager Villager['Villager'/31490, uuid='b8947821-6e6d-44f2-9ec8-4d8afd334bb2', l='ServerLevel[world]', x=-1735.13, y=68.00, z=385.79, cpos=[-109, 24], tl=543564, v=true] died, message: 'Villager hit the ground too hard'
+[03:16:20] [Server thread/INFO]: Villager Villager['Weaponsmith'/31552, uuid='c4cfadf2-0969-4dea-97bf-9e557bf19c22', l='ServerLevel[world]', x=-1813.69, y=63.00, z=257.31, cpos=[-114, 16], tl=1730077, v=true] died, message: 'Weaponsmith was slain by Zombie'
+[03:16:31] [Server thread/INFO]: Villager Villager['Weaponsmith'/31555, uuid='7cd63ebc-4225-4304-9e23-f43db681d781', l='ServerLevel[world]', x=-1813.70, y=63.00, z=259.70, cpos=[-114, 16], tl=1697407, v=true] died, message: 'Weaponsmith was slain by Zombie'
+[03:18:23] [Server thread/INFO]: LuKaG2 lost connection: Disconnected
+[03:18:23] [Server thread/INFO]: LuKaG2 left the game
