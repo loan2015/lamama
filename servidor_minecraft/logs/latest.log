@@ -117,3 +117,5 @@
 [02:10:25] [Server thread/INFO]: Villager Villager['Villager'/33493, uuid='99c626b1-e725-4e43-8ac0-63c46844ee61', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=39128, v=true] died, message: 'Villager was squished too much'
 [02:16:27] [Server thread/WARN]: mosquitomole moved wrongly!
 [02:17:03] [Server thread/WARN]: juanchopepito moved wrongly!
+[02:21:02] [Server thread/INFO]: Villager Villager['Villager'/43636, uuid='ec9dc395-1996-45b2-8222-e8554d3402ef', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=26121, v=true] died, message: 'Villager was squished too much'
+[02:22:54] [Server thread/INFO]: juanchopepito has reached the goal [Beaconator]
