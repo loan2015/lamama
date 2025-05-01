@@ -144,3 +144,12 @@
 [03:16:31] [Server thread/INFO]: Villager Villager['Weaponsmith'/31555, uuid='7cd63ebc-4225-4304-9e23-f43db681d781', l='ServerLevel[world]', x=-1813.70, y=63.00, z=259.70, cpos=[-114, 16], tl=1697407, v=true] died, message: 'Weaponsmith was slain by Zombie'
 [03:18:23] [Server thread/INFO]: LuKaG2 lost connection: Disconnected
 [03:18:23] [Server thread/INFO]: LuKaG2 left the game
+[03:20:17] [User Authenticator #7/INFO]: UUID of player LuKaG2 is 17ca85f1-3e66-3891-95b3-0ef53304978d
+[03:20:19] [Server thread/INFO]: LuKaG2 joined the game
+[03:20:19] [Server thread/INFO]: LuKaG2[/127.116.233.78:39777] logged in with entity id 87958 at ([world]-1850.150078605545, 64.0, 248.30000001192093)
+[03:20:41] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[03:20:41] [Server thread/INFO]: mosquitomole left the game
+[03:22:39] [User Authenticator #8/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[03:22:40] [Server thread/INFO]: mosquitomole joined the game
+[03:22:40] [Server thread/INFO]: mosquitomole[/127.109.151.165:49985] logged in with entity id 89438 at ([world]-1874.1157433513406, 101.15784518800284, -1289.8808511100356)
+[03:24:44] [Server thread/WARN]: juanchopepito moved wrongly!
