@@ -62,3 +62,10 @@
 [06:12:59] [Server thread/WARN]: juanchopepito moved wrongly!
 [06:19:41] [Server thread/INFO]: juanchopepito lost connection: Disconnected
 [06:19:41] [Server thread/INFO]: juanchopepito left the game
+[06:22:12] [User Authenticator #1/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[06:22:13] [Server thread/INFO]: juanchopepito joined the game
+[06:22:13] [Server thread/INFO]: juanchopepito[/127.209.152.144:59209] logged in with entity id 2756 at ([world]-1676.300000011921, 76.0, 388.40523239955127)
+[06:22:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/give juanchopepito /give juanchopepito minecraft:zombie_spawn_egg<--[HERE]
+[06:23:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/give juanchopepito minecraft:zombie_spawn_egg 3<--[HERE]
