@@ -119,3 +119,9 @@
 [02:17:03] [Server thread/WARN]: juanchopepito moved wrongly!
 [02:21:02] [Server thread/INFO]: Villager Villager['Villager'/43636, uuid='ec9dc395-1996-45b2-8222-e8554d3402ef', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=26121, v=true] died, message: 'Villager was squished too much'
 [02:22:54] [Server thread/INFO]: juanchopepito has reached the goal [Beaconator]
+[02:30:04] [Server thread/INFO]: Villager Villager['Villager'/47227, uuid='0b4f9a51-c500-4190-b148-5736faa0c283', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=24079, v=true] died, message: 'Villager was squished too much'
+[02:30:26] [User Authenticator #4/INFO]: UUID of player LuKaG2 is 17ca85f1-3e66-3891-95b3-0ef53304978d
+[02:30:28] [Server thread/INFO]: LuKaG2 joined the game
+[02:30:28] [Server thread/INFO]: LuKaG2[/127.116.233.78:57415] logged in with entity id 59565 at ([world]-1806.519007665825, 62.9375, 257.37794361707074)
+[02:35:43] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[02:35:43] [Server thread/INFO]: mosquitomole left the game
