@@ -125,3 +125,5 @@
 [02:30:28] [Server thread/INFO]: LuKaG2[/127.116.233.78:57415] logged in with entity id 59565 at ([world]-1806.519007665825, 62.9375, 257.37794361707074)
 [02:35:43] [Server thread/INFO]: mosquitomole lost connection: Disconnected
 [02:35:43] [Server thread/INFO]: mosquitomole left the game
+[02:40:51] [Server thread/INFO]: Villager Villager['Villager'/54749, uuid='dc710abf-02d7-4560-b92a-eea6ab6da847', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.64, cpos=[-113, 14], tl=24056, v=true] died, message: 'Villager was squished too much'
+[02:46:07] [Server thread/INFO]: Villager Villager['Villager'/57094, uuid='258eed79-1689-4103-b36e-e6092414a8fa', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=24052, v=true] died, message: 'Villager was squished too much'
