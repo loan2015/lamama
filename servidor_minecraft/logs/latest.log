@@ -136,3 +136,5 @@
 [02:57:34] [User Authenticator #6/INFO]: UUID of player LuKaG2 is 17ca85f1-3e66-3891-95b3-0ef53304978d
 [02:57:35] [Server thread/INFO]: LuKaG2 joined the game
 [02:57:35] [Server thread/INFO]: LuKaG2[/127.116.233.78:34501] logged in with entity id 72752 at ([world]-1773.4450659453257, 76.0, 285.10119702239837)
+[02:58:36] [Server thread/INFO]: Villager Villager['Villager'/31480, uuid='65b14fb2-f82b-49fc-8251-7cb414cb53bd', l='ServerLevel[world]', x=-1737.57, y=68.00, z=377.49, cpos=[-109, 23], tl=863519, v=true] died, message: 'Villager hit the ground too hard'
+[03:00:31] [Server thread/INFO]: Villager Villager['Villager'/31481, uuid='262dff18-c9c7-4e76-a0be-97d0ccf7ffa8', l='ServerLevel[world]', x=-1714.70, y=48.64, z=382.41, cpos=[-108, 23], tl=852009, v=true] died, message: 'Villager went up in flames'
