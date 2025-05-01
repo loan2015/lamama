@@ -112,3 +112,8 @@
 [01:52:59] [Server thread/INFO]: juanchopepito joined the game
 [01:52:59] [Server thread/INFO]: juanchopepito[/127.209.152.144:52733] logged in with entity id 36256 at ([world]-1743.2039117761574, 64.875, 390.52121425294905)
 [01:57:49] [Server thread/INFO]: Villager Villager['Villager'/31503, uuid='9bf08740-657a-497f-9f04-1fe513ed46eb', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.30, cpos=[-113, 14], tl=476965, v=true] died, message: 'Villager was squished too much'
+[02:08:22] [Server thread/INFO]: Villager Villager['Villager'/31964, uuid='d0fac30d-7df4-4399-8831-f5b66956e609', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=48326, v=true] died, message: 'Villager was squished too much'
+[02:10:14] [Server thread/WARN]: juanchopepito moved wrongly!
+[02:10:25] [Server thread/INFO]: Villager Villager['Villager'/33493, uuid='99c626b1-e725-4e43-8ac0-63c46844ee61', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=39128, v=true] died, message: 'Villager was squished too much'
+[02:16:27] [Server thread/WARN]: mosquitomole moved wrongly!
+[02:17:03] [Server thread/WARN]: juanchopepito moved wrongly!
