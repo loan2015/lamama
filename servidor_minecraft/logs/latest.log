@@ -210,3 +210,28 @@
 [03:59:28] [Server thread/WARN]: juanchopepito moved wrongly!
 [04:03:18] [Server thread/INFO]: LuKaG2 lost connection: Disconnected
 [04:03:18] [Server thread/INFO]: LuKaG2 left the game
+[04:10:04] [User Authenticator #14/INFO]: UUID of player LuKaG2 is 17ca85f1-3e66-3891-95b3-0ef53304978d
+[04:10:05] [Server thread/INFO]: LuKaG2 joined the game
+[04:10:05] [Server thread/INFO]: LuKaG2[/127.116.233.78:57243] logged in with entity id 123296 at ([world]-1809.621863338559, 64.0, 250.90123382552477)
+[04:12:10] [Server thread/INFO]: Villager Villager['Villager'/78725, uuid='32e37337-c5d5-4389-a84c-e91853221a6d', l='ServerLevel[world]', x=-1688.12, y=68.00, z=384.02, cpos=[-106, 24], tl=73557, v=true] died, message: 'Villager was slain by juanchopepito'
+[04:14:21] [Server thread/INFO]: juanchopepito lost connection: Disconnected
+[04:14:21] [Server thread/INFO]: juanchopepito left the game
+[04:14:28] [User Authenticator #15/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[04:14:29] [Server thread/INFO]: juanchopepito joined the game
+[04:14:29] [Server thread/INFO]: juanchopepito[/127.209.152.144:45373] logged in with entity id 125366 at ([world]-1805.6440411639994, 63.0, 249.92170895554457)
+[04:16:09] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[04:16:09] [Server thread/INFO]: mosquitomole left the game
+[04:16:22] [User Authenticator #16/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[04:16:24] [Server thread/INFO]: mosquitomole joined the game
+[04:16:24] [Server thread/INFO]: mosquitomole[/127.109.151.165:53351] logged in with entity id 125940 at ([world]-2157.283601318306, 64.0, -1705.155015277703)
+[04:16:26] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[04:16:26] [Server thread/INFO]: mosquitomole left the game
+[04:16:32] [User Authenticator #16/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[04:16:33] [Server thread/INFO]: mosquitomole joined the game
+[04:16:33] [Server thread/INFO]: mosquitomole[/127.109.151.165:40269] logged in with entity id 126016 at ([world]-2157.283601318306, 64.0, -1705.155015277703)
+[04:16:36] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[04:16:36] [Server thread/INFO]: mosquitomole left the game
+[04:16:44] [User Authenticator #16/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[04:16:45] [Server thread/INFO]: mosquitomole joined the game
+[04:16:45] [Server thread/INFO]: mosquitomole[/127.109.151.165:34047] logged in with entity id 126106 at ([world]-2157.283601318306, 64.0, -1705.155015277703)
+[04:17:43] [Server thread/INFO]: LuKaG2 has made the advancement [Diamonds!]
