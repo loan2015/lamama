@@ -127,3 +127,12 @@
 [02:35:43] [Server thread/INFO]: mosquitomole left the game
 [02:40:51] [Server thread/INFO]: Villager Villager['Villager'/54749, uuid='dc710abf-02d7-4560-b92a-eea6ab6da847', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.64, cpos=[-113, 14], tl=24056, v=true] died, message: 'Villager was squished too much'
 [02:46:07] [Server thread/INFO]: Villager Villager['Villager'/57094, uuid='258eed79-1689-4103-b36e-e6092414a8fa', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=24052, v=true] died, message: 'Villager was squished too much'
+[02:50:42] [User Authenticator #5/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[02:50:43] [Server thread/INFO]: mosquitomole joined the game
+[02:50:43] [Server thread/INFO]: mosquitomole[/127.109.151.165:33909] logged in with entity id 68990 at ([world]-1816.699999988079, 64.0, 286.69999998807907)
+[02:54:18] [Server thread/INFO]: LuKaG2 lost connection: Disconnected
+[02:54:18] [Server thread/INFO]: LuKaG2 left the game
+[02:56:51] [Server thread/INFO]: Villager Villager['Villager'/60384, uuid='d3d8bfe5-af70-40cf-9f90-847fa57165f0', l='ServerLevel[world]', x=-1797.70, y=57.00, z=236.70, cpos=[-113, 14], tl=29436, v=true] died, message: 'Villager was squished too much'
+[02:57:34] [User Authenticator #6/INFO]: UUID of player LuKaG2 is 17ca85f1-3e66-3891-95b3-0ef53304978d
+[02:57:35] [Server thread/INFO]: LuKaG2 joined the game
+[02:57:35] [Server thread/INFO]: LuKaG2[/127.116.233.78:34501] logged in with entity id 72752 at ([world]-1773.4450659453257, 76.0, 285.10119702239837)
