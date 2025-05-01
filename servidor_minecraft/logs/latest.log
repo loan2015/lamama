@@ -179,3 +179,9 @@
 [20:21:29] [Server thread/INFO]: juanchopepito2 left the game
 [20:27:29] [Server thread/INFO]: LuKaG2 lost connection: Disconnected
 [20:27:29] [Server thread/INFO]: LuKaG2 left the game
+[20:46:30] [User Authenticator #6/INFO]: UUID of player LuKaG2 is 17ca85f1-3e66-3891-95b3-0ef53304978d
+[20:46:32] [Server thread/INFO]: LuKaG2 joined the game
+[20:46:32] [Server thread/INFO]: LuKaG2[/127.116.233.78:45143] logged in with entity id 132508 at ([world]-2481.853489601103, 71.0, -1777.802141315695)
+[20:50:17] [Server thread/INFO]: LuKaG2 issued server command: /tp LuKaG2 -1808.5 62 262.5
+[20:56:29] [Server thread/INFO]: LuKaG2 lost connection: Disconnected
+[20:56:29] [Server thread/INFO]: LuKaG2 left the game
