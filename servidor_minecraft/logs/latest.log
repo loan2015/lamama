@@ -69,3 +69,6 @@
 /give juanchopepito /give juanchopepito minecraft:zombie_spawn_egg<--[HERE]
 [06:23:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
 /give juanchopepito minecraft:zombie_spawn_egg 3<--[HERE]
+[06:39:26] [Server thread/WARN]: juanchopepito moved wrongly!
+[06:39:47] [Server thread/WARN]: juanchopepito moved wrongly!
+[06:42:44] [Server thread/WARN]: juanchopepito moved wrongly!
