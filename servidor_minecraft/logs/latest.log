@@ -169,3 +169,11 @@
 [03:35:39] [User Authenticator #10/INFO]: UUID of player LuKaG2 is 17ca85f1-3e66-3891-95b3-0ef53304978d
 [03:35:40] [Server thread/INFO]: LuKaG2 joined the game
 [03:35:40] [Server thread/INFO]: LuKaG2[/127.116.233.78:39433] logged in with entity id 100372 at ([world]-1804.5, 63.0, 250.5)
+[03:45:56] [Server thread/INFO]: LuKaG2 lost connection: Disconnected
+[03:45:56] [Server thread/INFO]: LuKaG2 left the game
+[03:46:02] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[03:46:02] [Server thread/INFO]: mosquitomole left the game
+[03:46:07] [User Authenticator #11/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[03:46:08] [Server thread/INFO]: mosquitomole joined the game
+[03:46:08] [Server thread/INFO]: mosquitomole[/127.109.151.165:41725] logged in with entity id 108590 at ([world]-2155.6760926630914, 61.15282126559876, -1707.8966425411936)
+[03:48:02] [Server thread/WARN]: juanchopepito moved wrongly!
