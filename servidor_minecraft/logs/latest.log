@@ -1,112 +1,63 @@
-[06:11:07] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
-[06:11:07] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[06:11:07] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[06:11:08] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[06:11:08] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[16:34:44] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[16:34:44] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[16:34:44] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:34:44] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[16:34:44] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - ConditionalEvents (4.62.1), PlaceholderAPI (2.11.6)
-[06:11:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[06:11:15] [ServerMain/INFO]: Loaded 1337 recipes
-[06:11:15] [ServerMain/INFO]: Loaded 1448 advancements
-[06:11:15] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[06:11:15] [Server thread/INFO]: Loading properties
-[06:11:15] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[06:11:16] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[06:11:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[06:11:16] [Server thread/INFO]: Using 4 threads for Netty based IO
-[06:11:17] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[06:11:17] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[06:11:17] [Server thread/INFO]: Default game type: SURVIVAL
-[06:11:17] [Server thread/INFO]: Generating keypair
-[06:11:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:11:18] [Server thread/INFO]: Using epoll channel type
-[06:11:18] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[06:11:18] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[06:11:18] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[06:11:18] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.62.1
-[06:11:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[06:11:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:11:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:11:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:11:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:11:18] [Server thread/INFO]: Preparing level "world"
-[06:11:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:11:20] [Server thread/INFO]: Preparing spawn area: 0%
-[06:11:20] [Server thread/INFO]: Preparing spawn area: 0%
-[06:11:20] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[06:11:20] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 376.5ms
-[06:11:20] [Server thread/INFO]: Preparing spawn area: 2%
-[06:11:21] [Server thread/INFO]: Preparing spawn area: 20%
-[06:11:21] [Server thread/INFO]: Time elapsed: 1812 ms
-[06:11:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[06:11:21] [Server thread/INFO]: Preparing spawn area: 0%
-[06:11:21] [Server thread/INFO]: Time elapsed: 277 ms
-[06:11:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[06:11:21] [Server thread/INFO]: Preparing spawn area: 0%
-[06:11:22] [Server thread/INFO]: Time elapsed: 209 ms
-[06:11:22] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[06:11:22] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[06:11:22] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.62.1
-[06:11:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.62.1]
-[06:11:22] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.62.1
-[06:11:22] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[06:11:23] [Server thread/INFO]: [spark] Starting background profiler...
-[06:11:23] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[06:11:23] [Server thread/INFO]: Done preparing level "world" (5.191s)
-[06:11:23] [Server thread/INFO]: Running delayed init tasks
-[06:11:23] [Server thread/INFO]: Done (17.327s)! For help, type "help"
-[06:11:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
-[06:11:23] [Server thread/INFO]: 1 placeholder hook(s) registered!
-[06:11:40] [User Authenticator #0/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
-[06:11:42] [Server thread/INFO]: juanchopepito joined the game
-[06:11:42] [Server thread/INFO]: juanchopepito[/127.209.152.144:51403] logged in with entity id 32 at ([world]-1706.300000011921, 74.0, 359.7421919397952)
-[06:12:59] [Server thread/WARN]: juanchopepito moved wrongly!
-[06:19:41] [Server thread/INFO]: juanchopepito lost connection: Disconnected
-[06:19:41] [Server thread/INFO]: juanchopepito left the game
-[06:22:12] [User Authenticator #1/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
-[06:22:13] [Server thread/INFO]: juanchopepito joined the game
-[06:22:13] [Server thread/INFO]: juanchopepito[/127.209.152.144:59209] logged in with entity id 2756 at ([world]-1676.300000011921, 76.0, 388.40523239955127)
-[06:22:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/give juanchopepito /give juanchopepito minecraft:zombie_spawn_egg<--[HERE]
-[06:23:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/give juanchopepito minecraft:zombie_spawn_egg 3<--[HERE]
-[06:39:26] [Server thread/WARN]: juanchopepito moved wrongly!
-[06:39:47] [Server thread/WARN]: juanchopepito moved wrongly!
-[06:42:44] [Server thread/WARN]: juanchopepito moved wrongly!
-[07:18:02] [Server thread/INFO]: juanchopepito lost connection: Disconnected
-[07:18:02] [Server thread/INFO]: juanchopepito left the game
-[07:18:14] [Server thread/INFO]: Stopping the server
-[07:18:14] [Server thread/INFO]: Stopping server
-[07:18:14] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.62.1
-[07:18:14] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.62.1
-[07:18:14] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[07:18:14] [Server thread/INFO]: Saving players
-[07:18:14] [Server thread/INFO]: Saving worlds
-[07:18:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 7 entity chunks, 0 poi chunks in world 'world' in 0.04s
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[07:18:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[07:18:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 8 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[07:18:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[07:18:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:18:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:18:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:18:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[07:18:14] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[07:18:14] [Server thread/INFO]: All I/O tasks to complete
-[07:18:14] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[07:18:14] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[16:34:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:34:51] [ServerMain/INFO]: Loaded 1337 recipes
+[16:34:51] [ServerMain/INFO]: Loaded 1448 advancements
+[16:34:52] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[16:34:52] [Server thread/INFO]: Loading properties
+[16:34:52] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[16:34:53] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:34:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:34:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:34:54] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[16:34:54] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[16:34:54] [Server thread/INFO]: Default game type: SURVIVAL
+[16:34:54] [Server thread/INFO]: Generating keypair
+[16:34:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:34:54] [Server thread/INFO]: Using epoll channel type
+[16:34:54] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:34:54] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[16:34:55] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[16:34:55] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.62.1
+[16:34:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:34:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:34:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:34:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:34:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:34:55] [Server thread/INFO]: Preparing level "world"
+[16:34:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:34:57] [Server thread/INFO]: Preparing spawn area: 0%
+[16:34:57] [Server thread/INFO]: Preparing spawn area: 2%
+[16:34:57] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[16:34:58] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 404.9ms
+[16:34:58] [Server thread/INFO]: Preparing spawn area: 2%
+[16:34:58] [Server thread/INFO]: Preparing spawn area: 20%
+[16:34:59] [Server thread/INFO]: Time elapsed: 1875 ms
+[16:34:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:34:59] [Server thread/INFO]: Preparing spawn area: 0%
+[16:34:59] [Server thread/INFO]: Time elapsed: 330 ms
+[16:34:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:34:59] [Server thread/INFO]: Preparing spawn area: 0%
+[16:34:59] [Server thread/INFO]: Time elapsed: 142 ms
+[16:34:59] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[16:35:00] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[16:35:00] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.62.1
+[16:35:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.62.1]
+[16:35:00] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.62.1
+[16:35:00] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[16:35:00] [Server thread/INFO]: [spark] Starting background profiler...
+[16:35:01] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[16:35:01] [Server thread/INFO]: Done preparing level "world" (5.978s)
+[16:35:01] [Server thread/INFO]: Running delayed init tasks
+[16:35:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[16:35:01] [Server thread/INFO]: 1 placeholder hook(s) registered!
+[16:35:01] [Server thread/INFO]: Done (18.818s)! For help, type "help"
+[16:35:20] [User Authenticator #0/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
+[16:35:22] [Server thread/INFO]: juanchopepito joined the game
+[16:35:22] [Server thread/INFO]: juanchopepito[/127.209.152.144:50555] logged in with entity id 32 at ([world]-1730.2155832632666, 72.0, 359.0299761675488)
+[16:38:30] [Server thread/WARN]: juanchopepito moved wrongly!
+[16:40:35] [Server thread/WARN]: juanchopepito moved wrongly!
