@@ -1,223 +1,95 @@
-[16:34:44] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
-[16:34:44] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[16:34:44] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[16:34:44] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[16:34:44] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[02:02:13] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[02:02:13] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[02:02:13] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:02:14] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[02:02:14] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - ConditionalEvents (4.62.1), PlaceholderAPI (2.11.6)
-[16:34:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:34:51] [ServerMain/INFO]: Loaded 1337 recipes
-[16:34:51] [ServerMain/INFO]: Loaded 1448 advancements
-[16:34:52] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[16:34:52] [Server thread/INFO]: Loading properties
-[16:34:52] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[16:34:53] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[16:34:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:34:53] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:34:54] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[16:34:54] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[16:34:54] [Server thread/INFO]: Default game type: SURVIVAL
-[16:34:54] [Server thread/INFO]: Generating keypair
-[16:34:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:34:54] [Server thread/INFO]: Using epoll channel type
-[16:34:54] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[16:34:54] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[16:34:55] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[16:34:55] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.62.1
-[16:34:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:34:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:34:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:34:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:34:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:34:55] [Server thread/INFO]: Preparing level "world"
-[16:34:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:34:57] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:57] [Server thread/INFO]: Preparing spawn area: 2%
-[16:34:57] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[16:34:58] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 404.9ms
-[16:34:58] [Server thread/INFO]: Preparing spawn area: 2%
-[16:34:58] [Server thread/INFO]: Preparing spawn area: 20%
-[16:34:59] [Server thread/INFO]: Time elapsed: 1875 ms
-[16:34:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[16:34:59] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:59] [Server thread/INFO]: Time elapsed: 330 ms
-[16:34:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:34:59] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:59] [Server thread/INFO]: Time elapsed: 142 ms
-[16:34:59] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[16:35:00] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[16:35:00] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.62.1
-[16:35:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.62.1]
-[16:35:00] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.62.1
-[16:35:00] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[16:35:00] [Server thread/INFO]: [spark] Starting background profiler...
-[16:35:01] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[16:35:01] [Server thread/INFO]: Done preparing level "world" (5.978s)
-[16:35:01] [Server thread/INFO]: Running delayed init tasks
-[16:35:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
-[16:35:01] [Server thread/INFO]: 1 placeholder hook(s) registered!
-[16:35:01] [Server thread/INFO]: Done (18.818s)! For help, type "help"
-[16:35:20] [User Authenticator #0/INFO]: UUID of player juanchopepito is 8680e3e1-a099-3412-96ef-e6939fc31614
-[16:35:22] [Server thread/INFO]: juanchopepito joined the game
-[16:35:22] [Server thread/INFO]: juanchopepito[/127.209.152.144:50555] logged in with entity id 32 at ([world]-1730.2155832632666, 72.0, 359.0299761675488)
-[16:38:30] [Server thread/WARN]: juanchopepito moved wrongly!
-[16:40:35] [Server thread/WARN]: juanchopepito moved wrongly!
-[18:01:09] [User Authenticator #1/INFO]: UUID of player LuKaG2 is 17ca85f1-3e66-3891-95b3-0ef53304978d
-[18:01:11] [Server thread/INFO]: LuKaG2 joined the game
-[18:01:11] [Server thread/INFO]: LuKaG2[/127.116.233.78:42123] logged in with entity id 33531 at ([world]-1796.3231984372298, 63.875, 228.13185718472917)
-[18:01:16] [Async Chat Thread - #0/INFO]: [Not Secure] <LuKaG2> eeeeeeeeeeeeeeeeeeea
-[18:01:32] [Async Chat Thread - #0/INFO]: [Not Secure] <juanchopepito> ea
-[18:03:36] [Async Chat Thread - #2/INFO]: [Not Secure] <LuKaG2> wtfff
-[18:03:40] [Async Chat Thread - #2/INFO]: [Not Secure] <juanchopepito> ?
-[18:03:43] [Async Chat Thread - #2/INFO]: [Not Secure] <LuKaG2> la grava no da grava
-[18:03:47] [Async Chat Thread - #2/INFO]: [Not Secure] <juanchopepito> XD
-[18:03:47] [Async Chat Thread - #2/INFO]: [Not Secure] <LuKaG2> xdddddddddddd
-[18:03:50] [Async Chat Thread - #2/INFO]: [Not Secure] <juanchopepito> ?
-[18:03:52] [Async Chat Thread - #2/INFO]: [Not Secure] <juanchopepito> why
-[18:03:58] [Async Chat Thread - #2/INFO]: [Not Secure] <LuKaG2> me da todo flint
-[18:04:05] [Async Chat Thread - #2/INFO]: [Not Secure] <juanchopepito> xddddddddddddddd
-[18:04:13] [Async Chat Thread - #2/INFO]: [Not Secure] <LuKaG2> a pasa q esta rotisima
-[18:04:18] [Async Chat Thread - #2/INFO]: [Not Secure] <juanchopepito> estoy farming polvora
-[18:04:19] [Async Chat Thread - #2/INFO]: [Not Secure] <LuKaG2> tiene fortu 3
-[18:04:33] [Async Chat Thread - #2/INFO]: [Not Secure] <juanchopepito> god
-[18:04:41] [Async Chat Thread - #2/INFO]: [Not Secure] <juanchopepito> es la que te encante
-[18:05:36] [Server thread/WARN]: juanchopepito moved wrongly!
-[18:06:45] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito> ya welvo
-[18:06:47] [Server thread/INFO]: LuKaG2 has made the advancement [The Parrots and the Bats]
-[18:06:51] [Async Chat Thread - #4/INFO]: [Not Secure] <LuKaG2> o
-[18:06:54] [Async Chat Thread - #4/INFO]: [Not Secure] <LuKaG2> k
-[18:12:35] [Server thread/INFO]: LuKaG2 has made the advancement [Not Today, Thank You]
-[18:14:26] [Async Chat Thread - #6/INFO]: [Not Secure] <juanchopepito> volvi
-[18:14:51] [Async Chat Thread - #6/INFO]: [Not Secure] <juanchopepito> tp
-[18:14:54] [Async Chat Thread - #6/INFO]: [Not Secure] <juanchopepito> con la perla
-[18:14:55] [Async Chat Thread - #6/INFO]: [Not Secure] <juanchopepito> pl
-[18:15:00] [Async Chat Thread - #6/INFO]: [Not Secure] <juanchopepito> s
-[18:15:20] [Async Chat Thread - #6/INFO]: [Not Secure] <LuKaG2> xdddddddddddddddddd
-[18:15:36] [Async Chat Thread - #6/INFO]: [Not Secure] <LuKaG2> kasjdhkjdfhkdjhfsd
-[18:15:51] [Async Chat Thread - #6/INFO]: [Not Secure] <LuKaG2> dsfkjjjdskfsd
-[18:15:52] [Async Chat Thread - #6/INFO]: [Not Secure] <LuKaG2> fdogjsfddf}
-[18:15:54] [Async Chat Thread - #6/INFO]: [Not Secure] <LuKaG2> sdgjñlkfg}
-[18:15:55] [Async Chat Thread - #6/INFO]: [Not Secure] <juanchopepito> q paja
-[18:16:55] [Server thread/INFO]: LuKaG2 has made the advancement [Take Aim]
-[18:17:12] [Server thread/INFO]: Banned juanchopepito: &c¡sos re malo puto!
-[18:17:12] [Server thread/INFO]: juanchopepito lost connection: You are banned from this server
-[18:17:12] [Server thread/INFO]: juanchopepito left the game
-[18:17:12] [Server thread/INFO]: juanchopepito experienced kinetic energy
-[18:17:16] [Async Chat Thread - #8/INFO]: [Not Secure] <LuKaG2> noooooooooooo
-[18:17:17] [Async Chat Thread - #8/INFO]: [Not Secure] <LuKaG2> pdskfsjgf
-[18:19:19] [User Authenticator #2/INFO]: UUID of player juanchopepito2 is 40389a6e-ea9b-3aba-9268-250987e03088
-[18:19:21] [Server thread/INFO]: juanchopepito2 joined the game
-[18:19:21] [Server thread/INFO]: juanchopepito2[/127.209.152.144:53857] logged in with entity id 44234 at ([world]-685.5, 95.0, 360.5)
-[18:22:19] [Async Chat Thread - #10/INFO]: [Not Secure] <juanchopepito2> -777 220
-[18:24:08] [Server thread/INFO]: juanchopepito2 has reached the goal [Sky's the Limit]
-[18:25:20] [Server thread/INFO]: juanchopepito2 has completed the challenge [Cover Me in Debris]
-[18:25:53] [Server thread/INFO]: juanchopepito2 has made the advancement [Acquire Hardware]
-[18:26:49] [Server thread/INFO]: juanchopepito2 has made the advancement [Sweet Dreams]
-[18:28:10] [Server thread/INFO]: juanchopepito2 has made the advancement [What a Deal!]
-[18:29:13] [Server thread/INFO]: juanchopepito2 has made the advancement [Monster Hunter]
-[18:29:49] [Server thread/INFO]: juanchopepito2 has made the advancement [Stone Age]
-[18:34:02] [Server thread/INFO]: juanchopepito2 has made the advancement [Take Aim]
-[19:05:35] [Server thread/INFO]: juanchopepito2 has made the advancement [Eye Spy]
-[19:05:47] [Server thread/INFO]: juanchopepito2 has made the advancement [The End?]
-[19:09:05] [Server thread/INFO]: Villager Villager['Villager'/54143, uuid='e56d0d4c-8ce4-401d-b7ec-c57246bedeb2', l='ServerLevel[world]', x=-1819.63, y=63.19, z=253.44, cpos=[-114, 15], tl=281502, v=true] died, message: 'Villager was slain by Zombie'
-[19:14:17] [Async Chat Thread - #13/INFO]: [Not Secure] <LuKaG2> zzzzzzz
-[19:20:17] [Server thread/INFO]: LuKaG2 has reached the goal [Beaconator]
-[19:20:17] [Server thread/INFO]: LuKaG2 has made the advancement [Bring Home the Beacon]
-[19:20:17] [Server thread/INFO]: juanchopepito2 has reached the goal [Beaconator]
-[19:20:17] [Server thread/INFO]: juanchopepito2 has made the advancement [Bring Home the Beacon]
-[19:21:48] [Server thread/INFO]: juanchopepito2 has made the advancement [A Seedy Place]
-[19:22:32] [Server thread/INFO]: juanchopepito2 has made the advancement [Glow and Behold!]
-[19:23:14] [Server thread/INFO]: juanchopepito2 has made the advancement [Into Fire]
-[19:24:00] [Server thread/INFO]: juanchopepito2 has made the advancement [Spooky Scary Skeleton]
-[19:24:33] [Server thread/INFO]: juanchopepito2 has made the advancement [Local Brewery]
-[19:31:39] [Server thread/INFO]: juanchopepito2 has made the advancement [Enchanter]
-[19:42:04] [Server thread/INFO]: LuKaG2 lost connection: Disconnected
-[19:42:04] [Server thread/INFO]: LuKaG2 left the game
-[19:44:26] [User Authenticator #3/INFO]: UUID of player LuKaG2 is 17ca85f1-3e66-3891-95b3-0ef53304978d
-[19:44:28] [Server thread/INFO]: LuKaG2 joined the game
-[19:44:28] [Server thread/INFO]: LuKaG2[/127.116.233.78:50281] logged in with entity id 102040 at ([world]-1801.5025481465764, 63.0, 238.21360978406295)
-[19:46:56] [Server thread/INFO]: LuKaG2 lost connection: Disconnected
-[19:46:56] [Server thread/INFO]: LuKaG2 left the game
-[19:47:49] [Server thread/INFO]: juanchopepito2 has made the advancement [We Need to Go Deeper]
-[19:48:25] [User Authenticator #4/INFO]: UUID of player LuKaG2 is 17ca85f1-3e66-3891-95b3-0ef53304978d
-[19:48:26] [Server thread/INFO]: LuKaG2 joined the game
-[19:48:26] [Server thread/INFO]: LuKaG2[/127.116.233.78:53903] logged in with entity id 104189 at ([world]-1804.5405437952295, 63.0, 235.30000001192093)
-[19:48:26] [Server thread/INFO]: juanchopepito2 has made the advancement [A Terrible Fortress]
-[19:51:26] [Server thread/INFO]: LuKaG2 has made the advancement [Hot Stuff]
-[20:08:53] [Server thread/INFO]: juanchopepito2 has made the advancement [The Parrots and the Bats]
-[20:10:27] [Server thread/INFO]: juanchopepito2 has made the advancement [Withering Heights]
-[20:11:02] [Async Chat Thread - #14/INFO]: [Not Secure] <LuKaG2> no escuche
-[20:11:03] [Async Chat Thread - #14/INFO]: [Not Secure] <LuKaG2> adsjfjads
-[20:11:05] [Async Chat Thread - #14/INFO]: [Not Secure] <LuKaG2> xddddddddddd
-[20:11:55] [Async Chat Thread - #14/INFO]: [Not Secure] <LuKaG2> xd
-[20:11:56] [Async Chat Thread - #14/INFO]: [Not Secure] <LuKaG2> bank
-[20:12:02] [Async Chat Thread - #14/INFO]: [Not Secure] <LuKaG2> cord
-[20:12:14] [Async Chat Thread - #14/INFO]: [Not Secure] <LuKaG2> -1990 390
-[20:14:10] [Server thread/INFO]: juanchopepito2 has reached the goal [Postmortal]
-[20:15:25] [Server thread/INFO]: LuKaG2 withered away
-[20:15:36] [Async Chat Thread - #16/INFO]: [Not Secure] <juanchopepito2> JKAJAJAJA
-[20:15:38] [Async Chat Thread - #16/INFO]: [Not Secure] <juanchopepito2> GW2
-[20:15:40] [Async Chat Thread - #16/INFO]: [Not Secure] <juanchopepito2> NO
-[20:16:03] [Server thread/INFO]: juanchopepito2 has made the advancement [Cover Me with Diamonds]
-[20:16:03] [Async Chat Thread - #16/INFO]: [Not Secure] <LuKaG2> xd
-[20:16:04] [Async Chat Thread - #16/INFO]: [Not Secure] <LuKaG2> ?
-[20:16:08] [Async Chat Thread - #16/INFO]: [Not Secure] <LuKaG2> justo me fui
-[20:17:59] [Async Chat Thread - #18/INFO]: [Not Secure] <juanchopepito2> -2047
-[20:18:06] [Async Chat Thread - #18/INFO]: [Not Secure] <juanchopepito2> 387
-[20:20:39] [Server thread/INFO]: juanchopepito2 lost connection: Disconnected
-[20:20:39] [Server thread/INFO]: juanchopepito2 left the game
-[20:20:42] [User Authenticator #5/INFO]: UUID of player juanchopepito2 is 40389a6e-ea9b-3aba-9268-250987e03088
-[20:20:42] [Server thread/INFO]: juanchopepito2 joined the game
-[20:20:42] [Server thread/INFO]: juanchopepito2[/127.209.152.144:40203] logged in with entity id 125567 at ([world]-1801.820179624484, 63.5625, 239.8577294083574)
-[20:21:10] [Async Chat Thread - #20/INFO]: [Not Secure] <juanchopepito2> APAGO EL SV? VOY A COMER
-[20:21:13] [Async Chat Thread - #20/INFO]: [Not Secure] <juanchopepito2> O TE LO DJEO
-[20:21:15] [Async Chat Thread - #20/INFO]: [Not Secure] <LuKaG2> non
-[20:21:15] [Async Chat Thread - #20/INFO]: [Not Secure] <juanchopepito2> DEJO
-[20:21:18] [Async Chat Thread - #20/INFO]: [Not Secure] <LuKaG2> deja
-[20:21:19] [Async Chat Thread - #20/INFO]: [Not Secure] <juanchopepito2> Oka
-[20:21:28] [Async Chat Thread - #20/INFO]: [Not Secure] <juanchopepito2> cualquier cosa si salis calea asi apago
-[20:21:29] [Server thread/INFO]: juanchopepito2 lost connection: Disconnected
-[20:21:29] [Server thread/INFO]: juanchopepito2 left the game
-[20:27:29] [Server thread/INFO]: LuKaG2 lost connection: Disconnected
-[20:27:29] [Server thread/INFO]: LuKaG2 left the game
-[20:46:30] [User Authenticator #6/INFO]: UUID of player LuKaG2 is 17ca85f1-3e66-3891-95b3-0ef53304978d
-[20:46:32] [Server thread/INFO]: LuKaG2 joined the game
-[20:46:32] [Server thread/INFO]: LuKaG2[/127.116.233.78:45143] logged in with entity id 132508 at ([world]-2481.853489601103, 71.0, -1777.802141315695)
-[20:50:17] [Server thread/INFO]: LuKaG2 issued server command: /tp LuKaG2 -1808.5 62 262.5
-[20:56:29] [Server thread/INFO]: LuKaG2 lost connection: Disconnected
-[20:56:29] [Server thread/INFO]: LuKaG2 left the game
-[21:05:16] [Server thread/INFO]: Stopping the server
-[21:05:16] [Server thread/INFO]: Stopping server
-[21:05:16] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.62.1
-[21:05:16] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.62.1
-[21:05:16] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[21:05:16] [Server thread/INFO]: Saving players
-[21:05:16] [Server thread/INFO]: Saving worlds
-[21:05:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:05:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[21:05:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[21:05:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[21:05:17] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 62 entity chunks, 0 poi chunks in world 'world' in 0.03s
-[21:05:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[21:05:17] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[21:05:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:05:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[21:05:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[21:05:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[21:05:17] [Server thread/INFO]: [ChunkHolderManager] Saved 73 block chunks, 63 entity chunks, 0 poi chunks in world 'world_nether' in 0.05s
-[21:05:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[21:05:17] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[21:05:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:05:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[21:05:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[21:05:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[21:05:17] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 35 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[21:05:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[21:05:17] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[21:05:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:05:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:05:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:05:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21:05:17] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[21:05:17] [Server thread/INFO]: All I/O tasks to complete
-[21:05:17] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[21:05:17] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[02:02:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:02:23] [ServerMain/INFO]: Loaded 1337 recipes
+[02:02:23] [ServerMain/INFO]: Loaded 1448 advancements
+[02:02:23] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:02:23] [Server thread/INFO]: Loading properties
+[02:02:23] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[02:02:24] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:02:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:02:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:02:25] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:02:25] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:02:25] [Server thread/INFO]: Default game type: SURVIVAL
+[02:02:25] [Server thread/INFO]: Generating keypair
+[02:02:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:02:25] [Server thread/INFO]: Using epoll channel type
+[02:02:25] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:02:25] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:02:27] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[02:02:27] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.62.1
+[02:02:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:02:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:02:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:02:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:02:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:02:27] [Server thread/INFO]: Preparing level "world"
+[02:02:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:02:28] [Server thread/INFO]: Preparing spawn area: 0%
+[02:02:28] [Server thread/INFO]: Preparing spawn area: 0%
+[02:02:29] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[02:02:29] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 347.9ms
+[02:02:29] [Server thread/INFO]: Preparing spawn area: 2%
+[02:02:30] [Server thread/INFO]: Preparing spawn area: 14%
+[02:02:30] [Server thread/INFO]: Preparing spawn area: 14%
+[02:02:30] [Server thread/INFO]: Time elapsed: 2145 ms
+[02:02:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:02:30] [Server thread/INFO]: Preparing spawn area: 0%
+[02:02:30] [Server thread/INFO]: Time elapsed: 390 ms
+[02:02:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:02:30] [Server thread/INFO]: Preparing spawn area: 0%
+[02:02:30] [Server thread/INFO]: Time elapsed: 222 ms
+[02:02:30] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[02:02:31] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[02:02:31] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.62.1
+[02:02:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.62.1]
+[02:02:31] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.62.1
+[02:02:31] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[02:02:32] [Server thread/INFO]: [spark] Starting background profiler...
+[02:02:32] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[02:02:32] [Server thread/INFO]: Done preparing level "world" (5.596s)
+[02:02:32] [Server thread/INFO]: Running delayed init tasks
+[02:02:32] [Server thread/INFO]: Done (20.776s)! For help, type "help"
+[02:02:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[02:02:32] [Server thread/INFO]: 1 placeholder hook(s) registered!
+[02:02:57] [Server thread/INFO]: Stopping the server
+[02:02:57] [Server thread/INFO]: Stopping server
+[02:02:57] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.62.1
+[02:02:57] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.62.1
+[02:02:57] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[02:02:57] [Server thread/INFO]: Saving players
+[02:02:58] [Server thread/INFO]: Saving worlds
+[02:02:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.53s
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[02:02:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.11s
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[02:02:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.07s
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[02:02:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[02:02:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:02:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:02:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:02:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:02:58] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[02:02:58] [Server thread/INFO]: All I/O tasks to complete
+[02:02:58] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[02:02:58] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
