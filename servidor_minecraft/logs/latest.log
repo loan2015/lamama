@@ -112,3 +112,13 @@
 [19:50:20] [Server thread/INFO]: sotelo has made the advancement [What a Deal!]
 [19:53:09] [Server thread/INFO]: sotelo was slain by micropene
 [19:53:49] [Async Chat Thread - #2/INFO]: [Not Secure] <sotelo> -694 373
+[19:53:59] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[19:53:59] [Server thread/INFO]: mosquitomole left the game
+[19:54:12] [Server thread/INFO]: sotelo lost connection: Disconnected
+[19:54:12] [Server thread/INFO]: sotelo left the game
+[19:54:15] [User Authenticator #5/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[19:54:16] [Server thread/INFO]: mosquitomole joined the game
+[19:54:16] [Server thread/INFO]: mosquitomole[/127.109.151.165:47091] logged in with entity id 28960 at ([world]-1714.4959773048006, 58.0, 390.575879394611)
+[19:54:37] [User Authenticator #5/INFO]: UUID of player sotelo is b55e89ec-c115-36aa-8e4b-f94bcb296e37
+[19:54:39] [Server thread/INFO]: sotelo joined the game
+[19:54:39] [Server thread/INFO]: sotelo[/127.109.151.165:39775] logged in with entity id 29080 at ([world]-694.6203836812736, 87.0, 373.58725798751226)
