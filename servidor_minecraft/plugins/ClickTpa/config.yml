@@ -133,7 +133,7 @@ Tpohere-usage: '&cUse: /tpohere <player> or /s <player>'
 
 # Lets you choose if you want players to be able
 # to move before being teleported
-Allow-player-to-move: false
+Allow-player-to-move: true
 
 Allow-nicknames: false
 
