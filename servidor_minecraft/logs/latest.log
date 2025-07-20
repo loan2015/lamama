@@ -1,138 +1,446 @@
-[19:23:13] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[19:23:13] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[19:23:13] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[19:23:13] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[19:23:13] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
- - ConditionalEvents (4.62.1), PlaceholderAPI (2.11.6)
-[19:23:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:23:20] [ServerMain/INFO]: Loaded 1337 recipes
-[19:23:20] [ServerMain/INFO]: Loaded 1448 advancements
-[19:23:20] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[19:23:20] [Server thread/INFO]: Loading properties
-[19:23:20] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[19:23:21] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[19:23:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:23:21] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:23:22] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[19:23:22] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[19:23:22] [Server thread/INFO]: Default game type: SURVIVAL
-[19:23:22] [Server thread/INFO]: Generating keypair
-[19:23:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:23:22] [Server thread/INFO]: Using epoll channel type
-[19:23:22] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[19:23:22] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[19:23:23] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[19:23:23] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.62.1
-[19:23:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:23:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:23:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:23:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:23:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:23:23] [Server thread/INFO]: Preparing level "world"
-[19:23:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:23:25] [Server thread/INFO]: Preparing spawn area: 0%
-[19:23:25] [Server thread/INFO]: Preparing spawn area: 2%
-[19:23:25] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[19:23:26] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 430.1ms
-[19:23:26] [Server thread/INFO]: Preparing spawn area: 2%
-[19:23:26] [Server thread/INFO]: Preparing spawn area: 14%
-[19:23:26] [Server thread/INFO]: Preparing spawn area: 14%
-[19:23:26] [Server thread/INFO]: Time elapsed: 2054 ms
-[19:23:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:23:26] [Server thread/INFO]: Preparing spawn area: 0%
-[19:23:27] [Server thread/INFO]: Time elapsed: 331 ms
-[19:23:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:23:27] [Server thread/INFO]: Preparing spawn area: 0%
-[19:23:27] [Server thread/INFO]: Time elapsed: 187 ms
-[19:23:27] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[19:23:27] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[19:23:27] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.62.1
-[19:23:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.62.1]
-[19:23:28] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.62.1
-[19:23:28] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[19:23:28] [Server thread/INFO]: There is a new version available. (4.62.2)
-[19:23:28] [Server thread/INFO]: You can download it at: https://modrinth.com/plugin/conditionalevents
-[19:23:28] [Server thread/INFO]: [spark] Starting background profiler...
-[19:23:28] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[19:23:28] [Server thread/INFO]: Done preparing level "world" (5.923s)
-[19:23:28] [Server thread/INFO]: Running delayed init tasks
-[19:23:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
-[19:23:28] [Server thread/INFO]: 1 placeholder hook(s) registered!
-[19:23:28] [Server thread/INFO]: Done (17.050s)! For help, type "help"
-[19:24:59] [User Authenticator #0/INFO]: UUID of player juanchopepituni is 57364eb0-c807-371c-b5a4-f4ccf3606219
-[19:25:01] [Server thread/INFO]: juanchopepituni joined the game
-[19:25:01] [Server thread/INFO]: juanchopepituni[/127.109.151.165:51735] logged in with entity id 18 at ([world]-1707.0162218738208, 98.48118502281382, 427.80702045744414)
-[19:25:12] [User Authenticator #0/INFO]: UUID of player sotelo is b55e89ec-c115-36aa-8e4b-f94bcb296e37
-[19:25:14] [Server thread/INFO]: sotelo joined the game
-[19:25:14] [Server thread/INFO]: sotelo[/127.109.151.165:52087] logged in with entity id 537 at ([world]-688.5, 82.0, 376.5)
-[19:25:17] [Server thread/INFO]: juanchopepituni lost connection: Disconnected
-[19:25:17] [Server thread/INFO]: juanchopepituni left the game
-[19:26:16] [User Authenticator #1/INFO]: UUID of player juanchopepituni is 57364eb0-c807-371c-b5a4-f4ccf3606219
-[19:26:17] [Server thread/INFO]: juanchopepituni joined the game
-[19:26:17] [Server thread/INFO]: juanchopepituni[/127.109.151.165:48091] logged in with entity id 1070 at ([world]-1699.426755640066, 65.0, 442.1177718016226)
-[19:26:21] [Server thread/INFO]: juanchopepituni lost connection: Disconnected
-[19:26:21] [Server thread/INFO]: juanchopepituni left the game
-[19:27:25] [User Authenticator #2/INFO]: UUID of player micropene is 5490d3be-9ffe-3d69-a679-336cad5983a7
-[19:27:26] [Server thread/INFO]: micropene joined the game
-[19:27:26] [Server thread/INFO]: micropene[/127.109.151.165:34959] logged in with entity id 1528 at ([world]-690.5, 90.0, 358.5)
-[19:28:00] [Server thread/INFO]: sotelo has made the advancement [Stone Age]
-[19:28:09] [User Authenticator #2/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[19:28:10] [Server thread/INFO]: mosquitomole joined the game
-[19:28:10] [Server thread/INFO]: mosquitomole[/127.109.151.165:40517] logged in with entity id 1808 at ([world]-2157.2563134453017, 63.0, -1699.2493944442845)
-[19:28:32] [Server thread/INFO]: sotelo has made the advancement [Getting an Upgrade]
-[19:29:13] [Server thread/INFO]: micropene has made the advancement [Stone Age]
-[19:29:51] [Server thread/INFO]: micropene has made the advancement [Getting an Upgrade]
-[19:31:52] [Server thread/INFO]: micropene lost connection: Disconnected
-[19:31:52] [Server thread/INFO]: micropene left the game
-[19:31:56] [Server thread/INFO]: sotelo lost connection: Disconnected
-[19:31:56] [Server thread/INFO]: sotelo left the game
-[19:32:01] [User Authenticator #3/INFO]: UUID of player micropene is 5490d3be-9ffe-3d69-a679-336cad5983a7
-[19:32:02] [Server thread/INFO]: micropene joined the game
-[19:32:02] [Server thread/INFO]: micropene[/127.109.151.165:40271] logged in with entity id 7256 at ([world]-854.1379398383774, 90.0, 416.4932067254318)
-[19:32:22] [User Authenticator #3/INFO]: UUID of player sotelo is b55e89ec-c115-36aa-8e4b-f94bcb296e37
-[19:32:23] [Server thread/INFO]: sotelo joined the game
-[19:32:23] [Server thread/INFO]: sotelo[/127.109.151.165:55515] logged in with entity id 7596 at ([world]-848.162806530793, 87.0, 411.63148106731137)
-[19:32:29] [Async Chat Thread - #1/INFO]: [Not Secure] <mosquitomole> -1812 63 252
-[19:32:49] [Server thread/INFO]: Teleported 3 entities to -1811.500000, 63.000000, 252.500000
-[19:33:46] [Server thread/INFO]: micropene has reached the goal [Sky's the Limit]
-[19:34:13] [Server thread/INFO]: sotelo has made the advancement [Cover Me with Diamonds]
-[19:34:40] [Server thread/INFO]: micropene has made the advancement [What a Deal!]
-[19:38:50] [Server thread/INFO]: micropene has made the advancement [Acquire Hardware]
-[19:39:55] [Server thread/INFO]: micropene has made the advancement [Cover Me with Diamonds]
-[19:43:14] [Server thread/INFO]: micropene has made the advancement [Sweet Dreams]
-[19:43:16] [Server thread/INFO]: sotelo lost connection: Disconnected
-[19:43:16] [Server thread/INFO]: sotelo left the game
-[19:43:45] [User Authenticator #4/INFO]: UUID of player sotelo is b55e89ec-c115-36aa-8e4b-f94bcb296e37
-[19:43:45] [Server thread/INFO]: sotelo joined the game
-[19:43:45] [Server thread/INFO]: sotelo[/127.109.151.165:53171] logged in with entity id 20453 at ([world]-1814.5872212100132, 63.0, 243.93960743577804)
-[19:44:39] [Server thread/INFO]: sotelo has made the advancement [Monster Hunter]
-[19:46:36] [Server thread/WARN]: mosquitomole moved wrongly!
-[19:47:46] [Server thread/INFO]: Teleported mosquitomole to micropene
-[19:48:46] [Server thread/INFO]: sotelo has reached the goal [Sky's the Limit]
-[19:50:20] [Server thread/INFO]: sotelo has made the advancement [What a Deal!]
-[19:53:09] [Server thread/INFO]: sotelo was slain by micropene
-[19:53:49] [Async Chat Thread - #2/INFO]: [Not Secure] <sotelo> -694 373
-[19:53:59] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[19:53:59] [Server thread/INFO]: mosquitomole left the game
-[19:54:12] [Server thread/INFO]: sotelo lost connection: Disconnected
-[19:54:12] [Server thread/INFO]: sotelo left the game
-[19:54:15] [User Authenticator #5/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[19:54:16] [Server thread/INFO]: mosquitomole joined the game
-[19:54:16] [Server thread/INFO]: mosquitomole[/127.109.151.165:47091] logged in with entity id 28960 at ([world]-1714.4959773048006, 58.0, 390.575879394611)
-[19:54:37] [User Authenticator #5/INFO]: UUID of player sotelo is b55e89ec-c115-36aa-8e4b-f94bcb296e37
-[19:54:39] [Server thread/INFO]: sotelo joined the game
-[19:54:39] [Server thread/INFO]: sotelo[/127.109.151.165:39775] logged in with entity id 29080 at ([world]-694.6203836812736, 87.0, 373.58725798751226)
-[20:05:43] [Server thread/INFO]: sotelo has made the advancement [Sweet Dreams]
-[20:06:41] [Server thread/INFO]: micropene was blown up by Creeper
-[20:07:05] [Server thread/INFO]: sotelo has made the advancement [Acquire Hardware]
-[20:09:26] [Server thread/INFO]: micropene has made the advancement [Monster Hunter]
-[20:12:34] [Server thread/INFO]: micropene has made the advancement [Eye Spy]
-[20:12:45] [Server thread/INFO]: micropene has made the advancement [The End?]
-[20:18:11] [Server thread/INFO]: Teleported mosquitomole to micropene
-[20:24:55] [Async Chat Thread - #4/INFO]: [Not Secure] <mosquitomole> -1802 65 244
-[20:25:48] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[20:25:48] [Server thread/INFO]: mosquitomole left the game
-[20:25:50] [Server thread/INFO]: micropene lost connection: Disconnected
-[20:25:50] [Server thread/INFO]: micropene left the game
-[20:26:56] [Server thread/INFO]: sotelo lost connection: Disconnected
-[20:26:56] [Server thread/INFO]: sotelo left the game
+[06:56:30] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[06:56:30] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
+[06:56:31] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[06:56:31] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[06:56:31] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - ClickTpa (1.7.7), Geyser-Spigot (2.8.2-SNAPSHOT), HealthBar-Reloaded (2.0.4.2), LuckPerms (5.5.0), SkinsRestorer (15.7.7), SmoothTimber (1.27.5), ViaBackwards (5.4.1), ViaVersion (5.4.1), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
+[06:56:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:56:38] [ServerMain/INFO]: Loaded 1370 recipes
+[06:56:38] [ServerMain/INFO]: Loaded 1481 advancements
+[06:56:38] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[06:56:38] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 238.0ms
+[06:56:38] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[06:56:38] [Server thread/INFO]: Loading properties
+[06:56:38] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[06:56:38] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[06:56:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[06:56:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:56:39] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[06:56:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[06:56:39] [Server thread/INFO]: Default game type: SURVIVAL
+[06:56:39] [Server thread/INFO]: Generating keypair
+[06:56:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:56:39] [Server thread/INFO]: Using epoll channel type
+[06:56:40] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[06:56:40] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[06:56:41] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[06:56:47] [Server thread/WARN]: Legacy plugin ClickTpa v1.7.7 does not specify an api-version.
+[06:56:47] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
+[06:56:47] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
+[06:56:48] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[06:56:48] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[06:56:49] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[06:56:49] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[06:56:49] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[06:56:50] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[06:56:50] [Server thread/INFO]: [floodgate] Took 680ms to boot Floodgate
+[06:56:50] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.1
+[06:56:50] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.5
+[06:56:50] [Server thread/INFO]: [HealthBar-Reloaded] Loading server plugin HealthBar-Reloaded v2.0.4.2
+[06:56:50] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
+[06:56:51] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[06:56:51] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[06:56:51] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
+[06:56:51] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
+[06:56:51] [Server thread/INFO]: [ClickTpa] Loading server plugin ClickTpa v1.7.7
+[06:56:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:56:51] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
+[06:56:51] [Server thread/INFO]:         __    
+[06:56:51] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.0
+[06:56:51] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[06:56:51] [Server thread/INFO]: 
+[06:56:51] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[06:56:51] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[06:56:52] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[06:56:52] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[06:56:52] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1044ms)
+[06:56:52] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
+[06:56:53] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[06:56:53] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[06:56:53] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[06:56:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:56:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:56:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:56:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:56:53] [Server thread/INFO]: Preparing level "world"
+[06:56:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:56:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[06:56:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[06:56:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[06:56:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[06:56:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[06:56:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:56:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
+[06:56:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
+[06:56:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[06:56:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:56:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[06:56:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[06:56:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:56:54] [Server thread/INFO]: Preparing spawn area: 0%
+[06:56:55] [Server thread/INFO]: Preparing spawn area: 0%
+[06:56:55] [Server thread/INFO]: Time elapsed: 902 ms
+[06:56:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[06:56:55] [Server thread/INFO]: Preparing spawn area: 0%
+[06:56:55] [Server thread/INFO]: Time elapsed: 237 ms
+[06:56:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[06:56:55] [Server thread/INFO]: Preparing spawn area: 0%
+[06:56:55] [Server thread/INFO]: Time elapsed: 151 ms
+[06:56:55] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
+[06:56:55] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
+[06:56:55] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[06:56:56] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.1
+[06:56:56] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.5
+[06:56:56] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.21.4 (Core v1_21x)
+[06:56:56] [Server thread/INFO]: [HealthBar-Reloaded] Enabling HealthBar-Reloaded v2.0.4.2
+[06:56:56] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
+[06:56:56] [Server thread/INFO]: [ClickTpa] Enabling ClickTpa v1.7.7*
+[06:56:56] [Server thread/INFO]: [ClickTpa] Vault not found - ClickTpa will not use economy functions.
+[06:56:56] [Server thread/INFO]: [ClickTpa] ClickTpa v1.7.7 has been loaded successfully!
+[06:56:56] [Server thread/INFO]: [ClickTpa] ---------------------------------------
+[06:56:56] [Server thread/INFO]: [ClickTpa] To any ClickTpa users who have a version before 1.7.7:
+[06:56:56] [Server thread/INFO]: [ClickTpa] There has been an update to the config; some messages have been removed.
+[06:56:56] [Server thread/INFO]: [ClickTpa] Therefore, if your config.yml is not updated, you will get errors.
+[06:56:56] [Server thread/INFO]: [ClickTpa] ---------------------------------------
+[06:56:56] [Server thread/INFO]: [spark] Starting background profiler...
+[06:56:57] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[06:56:57] [Server thread/INFO]: [Geyser-Spigot] 
+[06:56:57] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b887 (git-master-1f23d1d)
+[06:56:57] [Server thread/INFO]: [Geyser-Spigot] 
+[06:56:57] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[06:57:01] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2875
+[06:57:01] [Server thread/INFO]: [Geyser-Spigot] Done (4.431s)! Run /geyser help for help!
+[06:57:01] [Server thread/INFO]: Done preparing level "world" (8.071s)
+[06:57:01] [Server thread/INFO]: Running delayed init tasks
+[06:57:01] [Server thread/INFO]: Done (31.791s)! For help, type "help"
+[06:57:01] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[06:57:36] [User Authenticator #0/INFO]: UUID of player mamati is 20daabe3-f931-3622-8d2b-0d6c2a3574ee
+[06:57:37] [Server thread/INFO]: mamati joined the game
+[06:57:37] [Server thread/INFO]: mamati[/127.109.151.165:38227] logged in with entity id 53 at ([world]-253.94557544748645, 69.0, -395.8426931593758)
+[06:57:39] [User Authenticator #0/INFO]: UUID of player juanchopepito2 is 40389a6e-ea9b-3aba-9268-250987e03088
+[06:57:40] [Server thread/INFO]: juanchopepito2 joined the game
+[06:57:40] [Server thread/INFO]: juanchopepito2[/127.209.152.144:47481] logged in with entity id 153 at ([world]-272.5, 71.0, -449.5)
+[06:57:46] [Server thread/INFO]: mamati issued server command: /time set day
+[06:57:46] [Server thread/INFO]: [mamati ████: Set the time to 1000]
+[06:58:13] [Server thread/INFO]: mamati issued server command: /tpa juanchopepito2
+[06:58:17] [Server thread/INFO]: juanchopepito2 issued server command: /tpaccept mamati
+[06:58:42] [Server thread/INFO]: mamati issued server command: /luckperms editor
+[06:59:40] [Server thread/INFO]: juanchopepito2 issued server command: /tpa mamati
+[06:59:40] [Server thread/ERROR]: Command exception: /tpa mamati
+org.bukkit.command.CommandException: Unhandled exception executing command 'tpa' in plugin ClickTpa v1.7.7
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:450) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:347) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:341) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2188) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1448) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1422) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoClassDefFoundError: net/milkbowl/vault/economy/Economy
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.utils.EconomyVault.<init>(EconomyVault.java:16) ~[ClickTpa-v1.7.7.jar:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.commands.CommandTpa.onCommand(CommandTpa.java:107) ~[ClickTpa-v1.7.7.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.economy.Economy
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.utils.EconomyVault.<init>(EconomyVault.java:16) ~[ClickTpa-v1.7.7.jar:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.commands.CommandTpa.onCommand(CommandTpa.java:107) ~[ClickTpa-v1.7.7.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[06:59:57] [Server thread/INFO]: juanchopepito2 issued server command: /tpahere mamati
+[06:59:57] [Server thread/ERROR]: Command exception: /tpahere mamati
+org.bukkit.command.CommandException: Unhandled exception executing command 'tpahere' in plugin ClickTpa v1.7.7
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:450) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:347) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:341) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2188) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1448) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1422) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoClassDefFoundError: net/milkbowl/vault/economy/Economy
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.utils.EconomyVault.<init>(EconomyVault.java:16) ~[ClickTpa-v1.7.7.jar:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.commands.CommandTpaHere.onCommand(CommandTpaHere.java:105) ~[ClickTpa-v1.7.7.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.economy.Economy
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.utils.EconomyVault.<init>(EconomyVault.java:16) ~[ClickTpa-v1.7.7.jar:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.commands.CommandTpaHere.onCommand(CommandTpaHere.java:105) ~[ClickTpa-v1.7.7.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[07:00:07] [Server thread/INFO]: juanchopepito2 issued server command: /tpaher mamati
+[07:00:14] [Server thread/INFO]: juanchopepito2 issued server command: /tpa mamati
+[07:00:14] [Server thread/ERROR]: Command exception: /tpa mamati
+org.bukkit.command.CommandException: Unhandled exception executing command 'tpa' in plugin ClickTpa v1.7.7
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:450) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:347) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:341) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2188) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1448) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1422) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoClassDefFoundError: net/milkbowl/vault/economy/Economy
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.utils.EconomyVault.<init>(EconomyVault.java:16) ~[ClickTpa-v1.7.7.jar:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.commands.CommandTpa.onCommand(CommandTpa.java:107) ~[ClickTpa-v1.7.7.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.economy.Economy
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.utils.EconomyVault.<init>(EconomyVault.java:16) ~[ClickTpa-v1.7.7.jar:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.commands.CommandTpa.onCommand(CommandTpa.java:107) ~[ClickTpa-v1.7.7.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[07:00:15] [Server thread/INFO]: mamati issued server command: /luckperms applyedits 2DuRpDdsYa
+[07:00:15] [luckperms-command-executor/INFO]: [LP] LOG > (mamati) [G] (default)
+[07:00:15] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add group.default true
+[07:00:15] [luckperms-command-executor/INFO]: [LP] LOG > (mamati) [U] (juanchopepito2)
+[07:00:15] [luckperms-command-executor/INFO]: [LP] LOG > webeditor remove group.default true
+[07:00:19] [Server thread/INFO]: juanchopepito2 lost connection: Disconnected
+[07:00:19] [Server thread/INFO]: juanchopepito2 left the game
+[07:01:14] [Server thread/INFO]: mamati issued server command: /luckperms applyedits d73K5gsKOd
+[07:01:30] [luckperms-command-executor/INFO]: [LP] The changes received from the web editor are based on an initial session which has already been applied!
+[07:01:30] [luckperms-command-executor/INFO]: [LP] To avoid conflicts, you should never re-use the same editor session after the changes from it have been applied once already.
+[07:01:30] [luckperms-command-executor/INFO]: [LP] To ignore this warning and apply the changes anyway, run: /luckperms applyedits d73K5gsKOd --force
+[07:01:38] [Server thread/INFO]: mamati issued server command: /luckperms applyedits 2DuRpDdsYa
+[07:01:52] [Server thread/INFO]: mamati issued server command: /luckperms applyedits 2DuRpDdsYa
+[07:02:06] [Server thread/INFO]: mamati issued server command: /luckperms editor
+[07:03:54] [User Authenticator #1/INFO]: UUID of player juanchopepito2 is 40389a6e-ea9b-3aba-9268-250987e03088
+[07:03:54] [Server thread/INFO]: juanchopepito2 joined the game
+[07:03:54] [Server thread/INFO]: juanchopepito2[/127.209.152.144:34207] logged in with entity id 925 at ([world]-284.30000001192093, 68.9375, -415.69999998807907)
+[07:04:00] [Server thread/INFO]: mamati issued server command: /luckperms applyedits zS9A4mAiRM
+[07:04:01] [luckperms-command-executor/INFO]: [LP] LOG > (mamati) [G] (default)
+[07:04:01] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add clicktpa.tpo true
+[07:04:07] [Server thread/INFO]: juanchopepito2 issued server command: /tpa mamati
+[07:04:07] [Server thread/ERROR]: Command exception: /tpa mamati
+org.bukkit.command.CommandException: Unhandled exception executing command 'tpa' in plugin ClickTpa v1.7.7
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:450) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:347) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:341) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2188) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1448) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1422) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoClassDefFoundError: net/milkbowl/vault/economy/Economy
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.utils.EconomyVault.<init>(EconomyVault.java:16) ~[ClickTpa-v1.7.7.jar:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.commands.CommandTpa.onCommand(CommandTpa.java:107) ~[ClickTpa-v1.7.7.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.economy.Economy
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.utils.EconomyVault.<init>(EconomyVault.java:16) ~[ClickTpa-v1.7.7.jar:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.commands.CommandTpa.onCommand(CommandTpa.java:107) ~[ClickTpa-v1.7.7.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[07:04:08] [Server thread/INFO]: mamati issued server command: /luckperms editor
+[07:04:13] [Server thread/INFO]: juanchopepito2 issued server command: /tpa mamati
+[07:04:13] [Server thread/ERROR]: Command exception: /tpa mamati
+org.bukkit.command.CommandException: Unhandled exception executing command 'tpa' in plugin ClickTpa v1.7.7
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:450) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:347) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:341) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2188) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1448) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1422) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoClassDefFoundError: net/milkbowl/vault/economy/Economy
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.utils.EconomyVault.<init>(EconomyVault.java:16) ~[ClickTpa-v1.7.7.jar:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.commands.CommandTpa.onCommand(CommandTpa.java:107) ~[ClickTpa-v1.7.7.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.economy.Economy
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.utils.EconomyVault.<init>(EconomyVault.java:16) ~[ClickTpa-v1.7.7.jar:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.commands.CommandTpa.onCommand(CommandTpa.java:107) ~[ClickTpa-v1.7.7.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[07:04:45] [Server thread/INFO]: mamati issued server command: /tpa juanchopepito2
+[07:04:47] [Server thread/INFO]: juanchopepito2 issued server command: /tpaccept mamati
+[07:05:15] [Server thread/INFO]: juanchopepito2 issued server command: /tp
+[07:05:24] [Server thread/INFO]: juanchopepito2 issued server command: /tp mamati
+[07:05:44] [Server thread/INFO]: mamati issued server command: /tphere juanchopepito2
+[07:05:46] [Server thread/INFO]: juanchopepito2 issued server command: /tpa mamati
+[07:05:46] [Server thread/ERROR]: Command exception: /tpa mamati
+org.bukkit.command.CommandException: Unhandled exception executing command 'tpa' in plugin ClickTpa v1.7.7
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:450) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:347) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:341) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2188) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1448) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1422) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoClassDefFoundError: net/milkbowl/vault/economy/Economy
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.utils.EconomyVault.<init>(EconomyVault.java:16) ~[ClickTpa-v1.7.7.jar:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.commands.CommandTpa.onCommand(CommandTpa.java:107) ~[ClickTpa-v1.7.7.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.economy.Economy
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.utils.EconomyVault.<init>(EconomyVault.java:16) ~[ClickTpa-v1.7.7.jar:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.commands.CommandTpa.onCommand(CommandTpa.java:107) ~[ClickTpa-v1.7.7.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[07:05:54] [Server thread/INFO]: mamati issued server command: /tphere mamati
+[07:05:57] [Server thread/INFO]: mamati issued server command: /tphere juanchopepito2
+[07:06:06] [Server thread/INFO]: juanchopepito2 issued server command: /tpaccept mamati
+[07:06:25] [Server thread/INFO]: juanchopepito2 issued server command: /tpa mamati
+[07:06:25] [Server thread/ERROR]: Command exception: /tpa mamati
+org.bukkit.command.CommandException: Unhandled exception executing command 'tpa' in plugin ClickTpa v1.7.7
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:450) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:347) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:341) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2188) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1448) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1422) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:118) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1561) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1251) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoClassDefFoundError: net/milkbowl/vault/economy/Economy
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.utils.EconomyVault.<init>(EconomyVault.java:16) ~[ClickTpa-v1.7.7.jar:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.commands.CommandTpa.onCommand(CommandTpa.java:107) ~[ClickTpa-v1.7.7.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	... 26 more
+Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.economy.Economy
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.utils.EconomyVault.<init>(EconomyVault.java:16) ~[ClickTpa-v1.7.7.jar:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.commands.CommandTpa.onCommand(CommandTpa.java:107) ~[ClickTpa-v1.7.7.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	... 26 more

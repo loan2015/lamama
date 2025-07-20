@@ -17,10 +17,6 @@ messages:
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
-advancements:
-  disable-saving: false
-  disabled:
-  - minecraft:story/disabled
 settings:
   bungeecord: false
   save-user-cache-on-stop-only: false
@@ -37,26 +33,18 @@ settings:
     maxAbsorption:
       max: 2048.0
     maxHealth:
-      max: 2048.0
+      max: 1024.0
     movementSpeed:
-      max: 2048.0
+      max: 1024.0
     attackDamage:
       max: 2048.0
   log-villager-deaths: true
   log-named-deaths: true
   debug: false
-commands:
-  tab-complete: 0
-  send-namespaced: true
-  log: true
-  spam-exclusions:
-  - /skill
-  silent-commandblock-console: false
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
+advancements:
+  disable-saving: false
+  disabled:
+  - minecraft:story/disabled
 world-settings:
   default:
     below-zero-generation-in-existing-chunks: true
@@ -179,3 +167,16 @@ config-version: 12
 stats:
   disable-saving: false
   forced-stats: {}
+commands:
+  tab-complete: 0
+  send-namespaced: true
+  log: true
+  spam-exclusions:
+  - /skill
+  silent-commandblock-console: false
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
+  enable-spam-exclusions: false

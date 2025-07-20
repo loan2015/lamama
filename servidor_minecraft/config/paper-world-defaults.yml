@@ -49,11 +49,6 @@ anticheat:
     - deepslate
     update-radius: 2
     use-permission: false
-  obfuscation:
-    items:
-      hide-durability: false
-      hide-itemmeta: false
-      hide-itemmeta-with-visual-effects: false
 chunks:
   auto-save-interval: default
   delay-chunk-unloads-by: 10s
@@ -84,6 +79,7 @@ entities:
   behavior:
     allow-spider-world-border-climbing: true
     baby-zombie-movement-modifier: 0.5
+    cooldown-failed-beehive-releases: true
     disable-chest-cat-detection: false
     disable-creeper-lingering-effect: false
     disable-player-crits: false
@@ -232,7 +228,6 @@ entities:
 environment:
   disable-explosion-knockback: false
   disable-ice-and-snow: false
-  disable-teleportation-suffocation-check: false
   disable-thunder: false
   fire-tick-delay: 30
   frosted-ice:
@@ -297,7 +292,6 @@ misc:
   disable-relative-projectile-velocity: false
   disable-sprint-interruption-on-attack: false
   legacy-ender-pearl-behavior: false
-  light-queue-size: 20
   max-leash-distance: default
   redstone-implementation: VANILLA
   shield-blocking-delay: 5
