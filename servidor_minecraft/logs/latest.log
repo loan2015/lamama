@@ -141,3 +141,15 @@
 [04:58:44] [Server thread/INFO]: juanchopepito2 issued server command: /tpo
 [04:58:48] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
 [05:01:14] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[05:07:21] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
+[05:07:36] [Server thread/INFO]: mosquitomole has made the advancement [Sweet Dreams]
+[05:07:42] [Async Chat Thread - #0/INFO]: [Not Secure] <gerumin3> zzzz
+[05:07:43] [Async Chat Thread - #0/INFO]: [Not Secure] <gerumin3> zzzz
+[05:07:44] [Async Chat Thread - #0/INFO]: [Not Secure] <gerumin3> zzz
+[05:09:09] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
+[05:11:25] [Server thread/INFO]: mosquitomole has made the advancement [We Need to Go Deeper]
+[05:13:00] [Server thread/INFO]: juanchopepito2 has made the advancement [We Need to Go Deeper]
+[05:14:07] [Server thread/INFO]: gerumin3 has made the advancement [We Need to Go Deeper]
+[05:14:09] [Server thread/INFO]: juanchopepito2 died
+[05:14:09] [Server thread/INFO]: gerumin3 died
+[05:14:23] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
