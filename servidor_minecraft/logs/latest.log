@@ -200,3 +200,10 @@
 [05:41:05] [Server thread/INFO]: mosquitomole has made the advancement [Who is Cutting Onions?]
 [05:42:11] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
 [05:44:32] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
+[05:47:07] [Server thread/INFO]: Villager Villager['||||||||||||||||||||'/11382, uuid='81e4a42c-7b3d-4583-9f98-3a4a68920422', l='ServerLevel[world]', x=-182.70, y=71.00, z=-691.70, cpos=[-12, -44], tl=20, v=true] died, message: '|||||||||||||||||||| was slain by Zombie'
+[05:47:09] [Server thread/INFO]: Villager Villager['Villager'/11405, uuid='3ab4949e-1a11-49cf-87de-ee6612745456', l='ServerLevel[world]', x=-182.41, y=71.00, z=-683.49, cpos=[-12, -43], tl=62, v=true] died, message: 'Villager was slain by Zombie'
+[05:47:18] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[05:48:25] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
+[05:48:30] [Server thread/INFO]: juanchopepito2 has made the advancement [Take Aim]
+[05:52:52] [Server thread/INFO]: juanchopepito2 has made the advancement [What a Deal!]
+[05:54:13] [Async Chat Thread - #2/INFO]: [Not Secure] <gerumin3> -177, -733
