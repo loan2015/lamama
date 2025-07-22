@@ -220,13 +220,13 @@ Blacklisted-world-no-permission: '&cThis world is blacklisted. You do not have t
 #                                               #
 # # # # # # # # # # # # # # # # # # # # # # # # #
 
-Economy-enabled: true
+Economy-enabled: false
 
 # How much a Tpa/Tpahere costs.
-Tpa-cost: 100
+Tpa-cost: 0
 
 # Choose if the player gets the money because of a TPA request.
-Receive-money: true
+Receive-money: false
 
 # %target%
 Money-received: "&aYou sent $100 to &2%target% &afor your TPA request."
