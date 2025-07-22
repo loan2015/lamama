@@ -170,3 +170,24 @@
 [05:22:16] [Server thread/INFO]: gerumin3 has made the advancement [Those Were the Days]
 [05:24:10] [Server thread/INFO]: mosquitomole has made the advancement [Hot Stuff]
 [05:24:37] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[05:27:32] [Server thread/INFO]: mosquitomole was slain by Piglin
+[05:27:40] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
+[05:28:05] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[05:28:08] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[05:28:15] [Server thread/INFO]: juanchopepito2 was burned to death
+[05:28:18] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[05:28:18] [Server thread/INFO]: Villager Villager['||||||||||||||||||||'/9466, uuid='ec8b7173-302b-43d7-a3e9-2479204bd9bb', l='ServerLevel[world]', x=-179.13, y=71.00, z=-683.53, cpos=[-12, -43], tl=21, v=true] died, message: '|||||||||||||||||||| was slain by Zombie'
+[05:28:49] [Server thread/INFO]: mosquitomole was slain by Piglin Brute
+[05:28:56] [Server thread/INFO]: mosquitomole issued server command: /tpo gerumin3
+[05:29:01] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
+[05:29:07] [Server thread/INFO]: gerumin3 has made the advancement [War Pigs]
+[05:30:25] [Server thread/INFO]: mosquitomole tried to swim in lava
+[05:30:30] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
+[05:31:07] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
+[05:31:38] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
+[05:31:58] [Server thread/INFO]: gerumin3 has made the advancement [Who is Cutting Onions?]
+[05:32:48] [Server thread/INFO]: juanchopepito2 has made the advancement [War Pigs]
+[05:33:20] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
+[05:33:42] [Server thread/INFO]: mosquitomole issued server command: /tpo gerumin3
+[05:34:41] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
+[05:35:55] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
