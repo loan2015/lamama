@@ -207,3 +207,14 @@
 [05:48:30] [Server thread/INFO]: juanchopepito2 has made the advancement [Take Aim]
 [05:52:52] [Server thread/INFO]: juanchopepito2 has made the advancement [What a Deal!]
 [05:54:13] [Async Chat Thread - #2/INFO]: [Not Secure] <gerumin3> -177, -733
+[05:56:58] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
+[05:58:19] [Server thread/WARN]: Oak Boat (vehicle of juanchopepito2) moved wrongly! 0.29738331917099003
+[05:58:19] [Server thread/WARN]: Oak Boat (vehicle of juanchopepito2) moved wrongly! 0.42642381611653946
+[05:58:19] [Server thread/WARN]: Oak Boat (vehicle of juanchopepito2) moved wrongly! 0.5425602602909976
+[05:58:19] [Server thread/WARN]: Oak Boat (vehicle of juanchopepito2) moved wrongly! 0.6470830572791328
+[05:59:11] [Server thread/INFO]: Villager Villager['Armorer'/11376, uuid='015a78e9-4c89-4a07-940e-378c07fccb49', l='ServerLevel[world]', x=-190.30, y=72.88, z=-673.78, cpos=[-12, -43], tl=14516, v=true] died, message: 'Armorer burned to death'
+[06:00:22] [Async Chat Thread - #4/INFO]: [Not Secure] <gerumin3> 262 -638
+[06:00:50] [Server thread/INFO]: Villager Villager['||||||||||||||||||||'/11378, uuid='f78951f6-eeda-495d-ab82-4a13683d0e97', l='ServerLevel[world]', x=-182.61, y=71.00, z=-692.07, cpos=[-12, -44], tl=16494, v=true] died, message: '|||||||||||||||||||| was slain by Zombie'
+[06:03:37] [Server thread/INFO]: gerumin3 has made the advancement [Take Aim]
+[06:05:54] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[06:06:06] [Server thread/INFO]: gerumin3 issued server command: /tpo mosquitomole
