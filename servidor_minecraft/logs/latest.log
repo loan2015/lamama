@@ -143,3 +143,59 @@
 [04:03:58] [Async Chat Thread - #0/INFO]: [Not Secure] <gerumin3> zzz
 [04:07:49] [Server thread/INFO]: juanchopepito2 has made the advancement [Suit Up]
 [04:08:55] [Server thread/INFO]: gerumin3 has made the advancement [Stone Age]
+[04:11:10] [Server thread/INFO]: gerumin3 has made the advancement [Getting an Upgrade]
+[04:12:52] [Server thread/INFO]: gerumin3 issued server command: /tpa juanchopepito2
+[04:12:52] [Server thread/ERROR]: Command exception: /tpa juanchopepito2
+org.bukkit.command.CommandException: Unhandled exception executing command 'tpa' in plugin ClickTpa v1.7.7
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:450) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:347) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:341) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2188) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1448) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1422) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoClassDefFoundError: net/milkbowl/vault/economy/Economy
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.utils.EconomyVault.<init>(EconomyVault.java:16) ~[ClickTpa-v1.7.7.jar:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.commands.CommandTpa.onCommand(CommandTpa.java:107) ~[ClickTpa-v1.7.7.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.economy.Economy
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.utils.EconomyVault.<init>(EconomyVault.java:16) ~[ClickTpa-v1.7.7.jar:?]
+	at ClickTpa-v1.7.7.jar/com.jklmao.plugin.commands.CommandTpa.onCommand(CommandTpa.java:107) ~[ClickTpa-v1.7.7.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[04:13:01] [Async Chat Thread - #2/INFO]: [Not Secure] <juanchopepito2> -/tpo
+[04:13:05] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
+[04:14:42] [Server thread/INFO]: gerumin3 has made the advancement [Suit Up]
+[04:15:40] [Server thread/INFO]: gerumin3 has made the advancement [Monster Hunter]
+[04:16:06] [Server thread/INFO]: gerumin3 has made the advancement [Acquire Hardware]
+[04:16:54] [Server thread/INFO]: Villager Villager['||||||||||||||||||||'/833, uuid='a62a594f-5844-4b5d-8913-e73bbcb4f207', l='ServerLevel[world]', x=-182.29, y=71.00, z=-687.70, cpos=[-12, -43], tl=13070, v=true] died, message: '|||||||||||||||||||| was slain by Zombie'
+[04:17:06] [Server thread/INFO]: Villager Villager['||||||||||||||||||||'/834, uuid='ff9ceb5d-67a0-4040-b387-e9c87ba52f6a', l='ServerLevel[world]', x=-182.63, y=71.00, z=-690.59, cpos=[-12, -44], tl=13324, v=true] died, message: '|||||||||||||||||||| was slain by Zombie'
+[04:17:22] [Server thread/INFO]: Villager Villager['||||||||||||||||||||'/860, uuid='8e76832c-3730-433f-98ab-56123de02b3f', l='ServerLevel[world]', x=-180.38, y=71.00, z=-683.52, cpos=[-12, -43], tl=13525, v=true] died, message: '|||||||||||||||||||| was slain by Zombie'
+[04:20:32] [Server thread/INFO]: gerumin3 has made the advancement [Isn't It Iron Pick]
+[04:20:38] [Server thread/INFO]: juanchopepito2 ████▌ has made the advancement [Not Today, Thank You]
+[04:20:44] [Server thread/INFO]: gerumin3 has made the advancement [Not Today, Thank You]
