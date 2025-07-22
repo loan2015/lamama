@@ -199,3 +199,8 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.economy.Economy
 [04:20:32] [Server thread/INFO]: gerumin3 has made the advancement [Isn't It Iron Pick]
 [04:20:38] [Server thread/INFO]: juanchopepito2 ████▌ has made the advancement [Not Today, Thank You]
 [04:20:44] [Server thread/INFO]: gerumin3 has made the advancement [Not Today, Thank You]
+[04:22:03] [Server thread/INFO]: gerumin3 lost connection: Disconnected
+[04:22:03] [Server thread/INFO]: gerumin3 left the game
+[04:27:48] [User Authenticator #1/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[04:27:50] [Server thread/INFO]: mosquitomole joined the game
+[04:27:50] [Server thread/INFO]: mosquitomole[/127.109.151.165:38541] logged in with entity id 4069 at ([world]-320.45669872820713, 67.0, -374.5094121189323)
