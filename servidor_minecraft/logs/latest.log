@@ -299,3 +299,74 @@
 [07:24:13] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
 [07:24:13] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
 [07:26:47] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
+[07:29:01] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[07:30:06] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[07:30:58] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
+[07:31:44] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[07:32:36] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[07:32:47] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[07:32:54] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[07:33:06] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[07:33:12] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3+
+[07:33:15] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
+[07:33:27] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
+[07:33:45] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[07:33:45] [Server thread/INFO]: mosquitomole left the game
+[07:33:59] [Server thread/WARN]: Oak Boat (vehicle of juanchopepito2) moved wrongly! 0.31730290813561624
+[07:33:59] [Server thread/WARN]: Oak Boat (vehicle of juanchopepito2) moved wrongly! 0.4521760257147207
+[07:33:59] [Server thread/WARN]: Oak Boat (vehicle of juanchopepito2) moved wrongly! 0.5773193410979047
+[07:34:02] [Server thread/WARN]: Oak Boat (vehicle of juanchopepito2) moved wrongly! 0.30303385757633805
+[07:34:28] [Server thread/INFO]: Stopping the server
+[07:34:28] [Server thread/INFO]: Stopping server
+[07:34:28] [Server thread/INFO]: [ClickTpa] Disabling ClickTpa v1.7.7
+[07:34:28] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
+[07:34:28] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.0
+[07:34:28] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[07:34:28] [Server thread/INFO]: [LuckPerms] Closing storage...
+[07:34:28] [Server thread/INFO]: [LuckPerms] Goodbye!
+[07:34:28] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
+[07:34:28] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[07:34:28] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[07:34:28] [Server thread/INFO]: [HealthBar-Reloaded] Disabling HealthBar-Reloaded v2.0.4.2
+[07:34:28] [Server thread/INFO]: HealthBar disabled: all the health bars have been removed.
+[07:34:28] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.5
+[07:34:28] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.1
+[07:34:28] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[07:34:28] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.1
+[07:34:28] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[07:34:28] [Server thread/INFO]: Saving players
+[07:34:28] [Server thread/INFO]: juanchopepito2 lost connection: Server closed
+[07:34:28] [Server thread/INFO]: juanchopepito2 left the game
+[07:34:28] [Server thread/INFO]: gerumin3 lost connection: Server closed
+[07:34:28] [Server thread/INFO]: gerumin3 left the game
+[07:34:28] [WebSocketConnectReadThread-302/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[07:34:28] [Server thread/INFO]: Saving worlds
+[07:34:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:34:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[07:34:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[07:34:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Saved 1382 block chunks, 838 entity chunks, 11 poi chunks in world 'world' in 2.10s
+[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[07:34:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Saved 58 block chunks, 42 entity chunks, 0 poi chunks in world 'world_nether' in 0.05s
+[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[07:34:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[07:34:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[07:34:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[07:34:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[07:34:31] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[07:34:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[07:34:31] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[07:34:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:34:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:34:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:34:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:34:31] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[07:34:31] [Server thread/INFO]: All I/O tasks to complete
+[07:34:31] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[07:34:31] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
