@@ -222,3 +222,14 @@
 [20:08:00] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
 [20:08:07] [Server thread/INFO]: Geruu lost connection: Disconnected
 [20:08:07] [Server thread/INFO]: Geruu left the game
+[20:08:37] [Server thread/INFO]: Villager Villager['||||||||||||||||||||'/5126, uuid='0ceb17d2-47fa-4ee1-9a68-bcdbccf54ea4', l='ServerLevel[world]', x=-300.70, y=68.00, z=-417.33, cpos=[-19, -27], tl=3940, v=true] died, message: '|||||||||||||||||||| was slain by Zombie'
+[20:08:41] [User Authenticator #4/INFO]: UUID of player gerumin3 is a3324957-3eb5-3682-b394-035cf734354d
+[20:08:43] [Server thread/INFO]: gerumin3 joined the game
+[20:08:43] [Server thread/INFO]: gerumin3[/127.82.55.12:58881] logged in with entity id 18320 at ([world]3991.0892120756957, 73.0, -111.63467148146181)
+[20:08:49] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
+[20:16:44] [Server thread/INFO]: gerumin3 lost connection: Disconnected
+[20:16:44] [Server thread/INFO]: gerumin3 left the game
+[20:17:24] [User Authenticator #5/INFO]: UUID of player Geruu is 380a864f-1581-34e0-b4be-97e2449ac36e
+[20:17:25] [Server thread/INFO]: Geruu joined the game
+[20:17:25] [Server thread/INFO]: Geruu[/127.82.55.12:50265] logged in with entity id 20492 at ([world]-289.3154603141751, 70.0, -412.63404692304715)
+[20:17:38] [Server thread/INFO]: Geruu issued server command: /tpo juanchopepito2
