@@ -138,3 +138,23 @@
 [23:18:52] [Server thread/INFO]: juanchopepito2 joined the game
 [23:18:52] [Server thread/INFO]: juanchopepito2[/127.209.152.144:35193] logged in with entity id 9411 at ([world]-128.86283252394128, 63.0, -621.4734885955905)
 [23:22:50] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
+[23:29:03] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[23:29:41] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
+[23:29:54] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[23:29:58] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
+[23:30:28] [Server thread/INFO]: mosquitomole lost connection: Disconnected
+[23:30:28] [Server thread/INFO]: mosquitomole left the game
+[23:32:14] [User Authenticator #2/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
+[23:32:15] [Server thread/INFO]: mosquitomole joined the game
+[23:32:15] [Server thread/INFO]: mosquitomole[/127.109.151.165:40165] logged in with entity id 14251 at ([world]629.6999999880791, -23.0, -1996.7974504798258)
+[23:33:35] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[23:38:01] [Server thread/INFO]: juanchopepito2 has made the advancement [Eye Spy]
+[23:39:01] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
+[23:39:09] [Server thread/INFO]: mosquitomole has made the advancement [Eye Spy]
+[23:40:12] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
+[23:42:50] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[23:43:52] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
+[23:44:36] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[23:44:52] [Server thread/INFO]: Geruu has made the advancement [What a Deal!]
+[23:46:03] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
+[23:47:16] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
