@@ -117,3 +117,12 @@
 [19:18:23] [User Authenticator #0/INFO]: UUID of player juanchopepito2 is 40389a6e-ea9b-3aba-9268-250987e03088
 [19:18:25] [Server thread/INFO]: juanchopepito2 joined the game
 [19:18:25] [Server thread/INFO]: juanchopepito2[/127.209.152.144:50899] logged in with entity id 19 at ([world]5680.971655876358, 63.0, 930.2775258117578)
+[19:29:24] [User Authenticator #1/INFO]: UUID of player Geruu is 380a864f-1581-34e0-b4be-97e2449ac36e
+[19:29:25] [Server thread/INFO]: Geruu joined the game
+[19:29:25] [Server thread/INFO]: Geruu[/127.82.55.12:43507] logged in with entity id 5107 at ([world]-248.5, 69.0, -390.5)
+[19:30:08] [Server thread/INFO]: Geruu lost connection: Disconnected
+[19:30:08] [Server thread/INFO]: Geruu left the game
+[19:30:52] [User Authenticator #2/INFO]: UUID of player gerumin3 is a3324957-3eb5-3682-b394-035cf734354d
+[19:30:53] [Server thread/INFO]: gerumin3 joined the game
+[19:30:53] [Server thread/INFO]: gerumin3[/127.82.55.12:51925] logged in with entity id 5534 at ([world]5680.971655876358, 62.5875, 930.2775258117578)
+[19:32:51] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
