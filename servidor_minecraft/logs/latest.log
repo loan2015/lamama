@@ -1,372 +1,119 @@
-[04:35:58] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[04:35:58] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
-[04:35:58] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[04:36:05] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
-[04:36:05] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+[19:17:21] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[19:17:21] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
+[19:17:21] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:17:22] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[19:17:22] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
  - ClickTpa (1.7.7), Geyser-Spigot (2.8.2-SNAPSHOT), HealthBar-Reloaded (2.0.4.2), LuckPerms (5.5.0), SkinsRestorer (15.7.7), SmoothTimber (1.27.5), ViaBackwards (5.4.1), ViaVersion (5.4.1), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
-[04:36:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:36:12] [ServerMain/INFO]: Loaded 1370 recipes
-[04:36:12] [ServerMain/INFO]: Loaded 1481 advancements
-[04:36:12] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[04:36:12] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 197.8ms
-[04:36:12] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[04:36:12] [Server thread/INFO]: Loading properties
-[04:36:12] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[04:36:12] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[04:36:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:36:12] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:36:13] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[04:36:13] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[04:36:13] [Server thread/INFO]: Default game type: SURVIVAL
-[04:36:13] [Server thread/INFO]: Generating keypair
-[04:36:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:36:14] [Server thread/INFO]: Using epoll channel type
-[04:36:14] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:36:14] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[04:36:15] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[04:36:23] [Server thread/WARN]: Legacy plugin ClickTpa v1.7.7 does not specify an api-version.
-[04:36:23] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
-[04:36:23] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
-[04:36:23] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[04:36:23] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[04:36:24] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[04:36:24] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[04:36:24] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[04:36:25] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[04:36:25] [Server thread/INFO]: [floodgate] Took 985ms to boot Floodgate
-[04:36:25] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.1
-[04:36:25] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.5
-[04:36:25] [Server thread/INFO]: [HealthBar-Reloaded] Loading server plugin HealthBar-Reloaded v2.0.4.2
-[04:36:25] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[04:36:26] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[04:36:26] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[04:36:26] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
-[04:36:26] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[04:36:26] [Server thread/INFO]: [ClickTpa] Loading server plugin ClickTpa v1.7.7
-[04:36:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:36:26] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
-[04:36:27] [Server thread/INFO]:         __    
-[04:36:27] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.0
-[04:36:27] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[04:36:27] [Server thread/INFO]: 
-[04:36:27] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[04:36:27] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[04:36:27] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[04:36:27] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[04:36:28] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1322ms)
-[04:36:28] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[04:36:28] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[04:36:28] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[04:36:29] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[04:36:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:36:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:36:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:36:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:36:29] [Server thread/INFO]: Preparing level "world"
-[04:36:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:36:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[04:36:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[04:36:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[04:36:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[04:36:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[04:36:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:36:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
-[04:36:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
-[04:36:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[04:36:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:36:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[04:36:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[04:36:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:36:30] [Server thread/INFO]: Preparing spawn area: 0%
-[04:36:30] [Server thread/INFO]: Preparing spawn area: 16%
-[04:36:30] [Server thread/INFO]: Preparing spawn area: 16%
-[04:36:30] [Server thread/INFO]: Time elapsed: 1003 ms
-[04:36:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:36:30] [Server thread/INFO]: Preparing spawn area: 0%
-[04:36:31] [Server thread/INFO]: Time elapsed: 332 ms
-[04:36:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:36:31] [Server thread/INFO]: Preparing spawn area: 0%
-[04:36:31] [Server thread/INFO]: Time elapsed: 454 ms
-[04:36:31] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
-[04:36:31] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
-[04:36:31] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[04:36:31] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.1
-[04:36:31] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.5
-[04:36:31] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.21.4 (Core v1_21x)
-[04:36:31] [Server thread/INFO]: [HealthBar-Reloaded] Enabling HealthBar-Reloaded v2.0.4.2
-[04:36:31] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[04:36:32] [Server thread/INFO]: [ClickTpa] Enabling ClickTpa v1.7.7*
-[04:36:32] [Server thread/INFO]: [ClickTpa] Vault not found - ClickTpa will not use economy functions.
-[04:36:32] [Server thread/INFO]: [ClickTpa] ClickTpa v1.7.7 has been loaded successfully!
-[04:36:32] [Server thread/INFO]: [ClickTpa] ---------------------------------------
-[04:36:32] [Server thread/INFO]: [ClickTpa] To any ClickTpa users who have a version before 1.7.7:
-[04:36:32] [Server thread/INFO]: [ClickTpa] There has been an update to the config; some messages have been removed.
-[04:36:32] [Server thread/INFO]: [ClickTpa] Therefore, if your config.yml is not updated, you will get errors.
-[04:36:32] [Server thread/INFO]: [ClickTpa] ---------------------------------------
-[04:36:32] [Server thread/INFO]: [spark] Starting background profiler...
-[04:36:33] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[04:36:33] [Server thread/INFO]: [Geyser-Spigot] 
-[04:36:33] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b887 (git-master-1f23d1d)
-[04:36:33] [Server thread/INFO]: [Geyser-Spigot] 
-[04:36:33] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[04:36:38] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2875
-[04:36:38] [Server thread/INFO]: [Geyser-Spigot] Done (4.693s)! Run /geyser help for help!
-[04:36:38] [Server thread/INFO]: Done preparing level "world" (9.193s)
-[04:36:38] [Server thread/INFO]: Running delayed init tasks
-[04:36:38] [Craft Scheduler Thread - 1 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[04:36:38] [Server thread/INFO]: Done (41.459s)! For help, type "help"
-[04:36:42] [User Authenticator #0/INFO]: UUID of player juanchopepito2 is 40389a6e-ea9b-3aba-9268-250987e03088
-[04:36:43] [Server thread/INFO]: juanchopepito2 joined the game
-[04:36:43] [Server thread/INFO]: juanchopepito2[/127.209.152.144:54489] logged in with entity id 19 at ([world]-263.69999998807907, 17.0, -688.7955026179235)
-[04:36:44] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: eaf9064f-f280-49cf-8807-2536e4228faf, mapped to Cat['Cat'/63, uuid='eaf9064f-f280-49cf-8807-2536e4228faf', l='ServerLevel[world]', x=-267.50, y=84.00, z=-750.38, cpos=[-17, -47], tl=0, v=true], can't add Cat['Cat'/91, uuid='eaf9064f-f280-49cf-8807-2536e4228faf', l='ServerLevel[world]', x=-265.40, y=83.00, z=-756.62, cpos=[-17, -48], tl=0, v=false]
-[04:36:45] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 037b0016-c8ef-4e7e-a0f5-ca6447a5e4b6, mapped to Bat['Bat'/148, uuid='037b0016-c8ef-4e7e-a0f5-ca6447a5e4b6', l='ServerLevel[world]', x=-205.02, y=50.03, z=-748.20, cpos=[-13, -47], tl=0, v=true], can't add Bat['Bat'/192, uuid='037b0016-c8ef-4e7e-a0f5-ca6447a5e4b6', l='ServerLevel[world]', x=-198.46, y=50.69, z=-756.25, cpos=[-13, -48], tl=0, v=false]
-[04:36:57] [User Authenticator #0/INFO]: UUID of player mosquitomole is cc5d21d9-07d4-351a-8fa2-8533d8c673b2
-[04:36:58] [Server thread/INFO]: mosquitomole joined the game
-[04:36:58] [Server thread/INFO]: mosquitomole[/127.109.151.165:33541] logged in with entity id 305 at ([world]-320.45669872820713, 67.0, -374.5094121189323)
-[04:37:17] [User Authenticator #0/INFO]: UUID of player gerumin3 is a3324957-3eb5-3682-b394-035cf734354d
-[04:37:18] [Server thread/INFO]: gerumin3 joined the game
-[04:37:18] [Server thread/INFO]: gerumin3[/127.82.55.12:56387] logged in with entity id 504 at ([world]-269.06003997097713, 26.0, -663.7007804431394)
-[04:38:43] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
-[04:39:42] [Server thread/INFO]: mosquitomole has made the advancement [Monster Hunter]
-[04:40:09] [Server thread/INFO]: mosquitomole has made the advancement [Stone Age]
-[04:40:12] [Server thread/INFO]: mosquitomole ████ has made the advancement [Acquire Hardware]
-[04:46:26] [Server thread/INFO]: mosquitomole has made the advancement [Isn't It Iron Pick]
-[04:46:31] [Server thread/INFO]: mosquitomole has made the advancement [Suit Up]
-[04:46:48] [Server thread/INFO]: mosquitomole issued server command: /skin piedra
-[04:47:03] [Server thread/INFO]: juanchopepito2 issued server command: /skin elrichmc
-[04:47:48] [Server thread/INFO]: gerumin3 has made the advancement [Diamonds!]
-[04:50:47] [Server thread/INFO]: mosquitomole has made the advancement [Diamonds!]
-[04:51:42] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
-[04:53:00] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[04:58:44] [Server thread/INFO]: juanchopepito2 issued server command: /tpo
-[04:58:48] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
-[05:01:14] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[05:07:21] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[05:07:36] [Server thread/INFO]: mosquitomole has made the advancement [Sweet Dreams]
-[05:07:42] [Async Chat Thread - #0/INFO]: [Not Secure] <gerumin3> zzzz
-[05:07:43] [Async Chat Thread - #0/INFO]: [Not Secure] <gerumin3> zzzz
-[05:07:44] [Async Chat Thread - #0/INFO]: [Not Secure] <gerumin3> zzz
-[05:09:09] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
-[05:11:25] [Server thread/INFO]: mosquitomole has made the advancement [We Need to Go Deeper]
-[05:13:00] [Server thread/INFO]: juanchopepito2 has made the advancement [We Need to Go Deeper]
-[05:14:07] [Server thread/INFO]: gerumin3 has made the advancement [We Need to Go Deeper]
-[05:14:09] [Server thread/INFO]: juanchopepito2 died
-[05:14:09] [Server thread/INFO]: gerumin3 died
-[05:14:23] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[05:18:10] [Server thread/INFO]: juanchopepito2 has made the advancement [Who is Cutting Onions?]
-[05:18:45] [Server thread/INFO]: juanchopepito2 has made the advancement [Those Were the Days]
-[05:19:20] [Server thread/INFO]: juanchopepito2 has made the advancement [Ice Bucket Challenge]
-[05:19:56] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[05:19:59] [Server thread/INFO]: juanchopepito2 lost connection: Disconnected
-[05:19:59] [Server thread/INFO]: juanchopepito2 left the game
-[05:20:35] [Server thread/INFO]: mosquitomole has made the advancement [Those Were the Days]
-[05:21:03] [User Authenticator #1/INFO]: UUID of player juanchopepito2 is 40389a6e-ea9b-3aba-9268-250987e03088
-[05:21:04] [Server thread/INFO]: juanchopepito2 joined the game
-[05:21:04] [Server thread/INFO]: juanchopepito2[/127.209.152.144:57293] logged in with entity id 8356 at ([world_nether]25.70863656397919, 50.0, -143.93143120591137)
-[05:21:05] [Server thread/INFO]: juanchopepito2 was burned to death
-[05:21:12] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[05:21:55] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[05:22:15] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[05:22:16] [Server thread/INFO]: gerumin3 has made the advancement [Those Were the Days]
-[05:24:10] [Server thread/INFO]: mosquitomole has made the advancement [Hot Stuff]
-[05:24:37] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[05:27:32] [Server thread/INFO]: mosquitomole was slain by Piglin
-[05:27:40] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
-[05:28:05] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[05:28:08] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[05:28:15] [Server thread/INFO]: juanchopepito2 was burned to death
-[05:28:18] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[05:28:18] [Server thread/INFO]: Villager Villager['||||||||||||||||||||'/9466, uuid='ec8b7173-302b-43d7-a3e9-2479204bd9bb', l='ServerLevel[world]', x=-179.13, y=71.00, z=-683.53, cpos=[-12, -43], tl=21, v=true] died, message: '|||||||||||||||||||| was slain by Zombie'
-[05:28:49] [Server thread/INFO]: mosquitomole was slain by Piglin Brute
-[05:28:56] [Server thread/INFO]: mosquitomole issued server command: /tpo gerumin3
-[05:29:01] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
-[05:29:07] [Server thread/INFO]: gerumin3 has made the advancement [War Pigs]
-[05:30:25] [Server thread/INFO]: mosquitomole tried to swim in lava
-[05:30:30] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
-[05:31:07] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[05:31:38] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
-[05:31:58] [Server thread/INFO]: gerumin3 has made the advancement [Who is Cutting Onions?]
-[05:32:48] [Server thread/INFO]: juanchopepito2 has made the advancement [War Pigs]
-[05:33:20] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
-[05:33:42] [Server thread/INFO]: mosquitomole issued server command: /tpo gerumin3
-[05:34:41] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[05:35:55] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
-[05:36:35] [Server thread/INFO]: gerumin3 has made the advancement [Ice Bucket Challenge]
-[05:37:30] [Server thread/INFO]: mosquitomole has made the advancement [War Pigs]
-[05:38:35] [Server thread/INFO]: mosquitomole █████ has made the advancement [Ol' Betsy]
-[05:38:35] [Server thread/INFO]: mosquitomole █████ has made the advancement [Take Aim]
-[05:38:35] [Server thread/INFO]: juanchopepito2 has made the advancement [Ol' Betsy]
-[05:40:08] [Server thread/INFO]: mosquitomole has made the advancement [Ice Bucket Challenge]
-[05:41:05] [Server thread/INFO]: mosquitomole has made the advancement [Who is Cutting Onions?]
-[05:42:11] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
-[05:44:32] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[05:47:07] [Server thread/INFO]: Villager Villager['||||||||||||||||||||'/11382, uuid='81e4a42c-7b3d-4583-9f98-3a4a68920422', l='ServerLevel[world]', x=-182.70, y=71.00, z=-691.70, cpos=[-12, -44], tl=20, v=true] died, message: '|||||||||||||||||||| was slain by Zombie'
-[05:47:09] [Server thread/INFO]: Villager Villager['Villager'/11405, uuid='3ab4949e-1a11-49cf-87de-ee6612745456', l='ServerLevel[world]', x=-182.41, y=71.00, z=-683.49, cpos=[-12, -43], tl=62, v=true] died, message: 'Villager was slain by Zombie'
-[05:47:18] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[05:48:25] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
-[05:48:30] [Server thread/INFO]: juanchopepito2 has made the advancement [Take Aim]
-[05:52:52] [Server thread/INFO]: juanchopepito2 has made the advancement [What a Deal!]
-[05:54:13] [Async Chat Thread - #2/INFO]: [Not Secure] <gerumin3> -177, -733
-[05:56:58] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
-[05:58:19] [Server thread/WARN]: Oak Boat (vehicle of juanchopepito2) moved wrongly! 0.29738331917099003
-[05:58:19] [Server thread/WARN]: Oak Boat (vehicle of juanchopepito2) moved wrongly! 0.42642381611653946
-[05:58:19] [Server thread/WARN]: Oak Boat (vehicle of juanchopepito2) moved wrongly! 0.5425602602909976
-[05:58:19] [Server thread/WARN]: Oak Boat (vehicle of juanchopepito2) moved wrongly! 0.6470830572791328
-[05:59:11] [Server thread/INFO]: Villager Villager['Armorer'/11376, uuid='015a78e9-4c89-4a07-940e-378c07fccb49', l='ServerLevel[world]', x=-190.30, y=72.88, z=-673.78, cpos=[-12, -43], tl=14516, v=true] died, message: 'Armorer burned to death'
-[06:00:22] [Async Chat Thread - #4/INFO]: [Not Secure] <gerumin3> 262 -638
-[06:00:50] [Server thread/INFO]: Villager Villager['||||||||||||||||||||'/11378, uuid='f78951f6-eeda-495d-ab82-4a13683d0e97', l='ServerLevel[world]', x=-182.61, y=71.00, z=-692.07, cpos=[-12, -44], tl=16494, v=true] died, message: '|||||||||||||||||||| was slain by Zombie'
-[06:03:37] [Server thread/INFO]: gerumin3 has made the advancement [Take Aim]
-[06:05:54] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[06:06:06] [Server thread/INFO]: gerumin3 issued server command: /tpo mosquitomole
-[06:08:28] [Server thread/INFO]: juanchopepito2 has made the advancement [Hidden in the Depths]
-[06:10:23] [Server thread/INFO]: gerumin3 has made the advancement [Ol' Betsy]
-[06:10:48] [Server thread/INFO]: mosquitomole issued server command: /tpo gerumin3
-[06:14:32] [Server thread/INFO]: juanchopepito2 has made the advancement [Cover Me with Diamonds]
-[06:15:44] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
-[06:16:19] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[06:17:58] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[06:18:04] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
-[06:19:14] [Server thread/INFO]: gerumin3 issued server command: /tpo mosquitomole
-[06:20:40] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[06:23:18] [Server thread/INFO]: mosquitomole issued server command: /tpo gerumin3
-[06:23:34] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
-[06:25:08] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
-[06:26:54] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
-[06:27:44] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
-[06:30:11] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[06:30:14] [Server thread/INFO]: gerumin3 issued server command: /tpo mosquitomole
-[06:30:41] [Server thread/INFO]: gerumin3 issued server command: /tpo mosquitomole
-[06:31:12] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[06:31:24] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
-[06:32:49] [Server thread/INFO]: gerumin3 issued server command: /tpo mosquitomole
-[06:33:40] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[06:33:46] [Server thread/INFO]: gerumin3 was burned to death
-[06:33:52] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[06:35:36] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[06:35:38] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[06:36:31] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[06:36:37] [Server thread/INFO]: juanchopepito2 was burned to death
-[06:36:39] [Server thread/INFO]: gerumin3 has made the advancement [Hot Stuff]
-[06:36:40] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[06:37:38] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[06:39:24] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[06:40:15] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[06:40:43] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[06:40:49] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[06:40:52] [Server thread/INFO]: gerumin3 issued server command: /tpo mosquitomole
-[06:45:42] [Server thread/INFO]: gerumin3 fell from a high place
-[06:46:03] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[06:47:08] [Server thread/INFO]: mosquitomole has made the advancement [A Terrible Fortress]
-[06:49:17] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[06:50:49] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[06:50:54] [Server thread/INFO]: gerumin3 was burned to death
-[06:51:01] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[06:52:22] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[06:53:39] [Server thread/INFO]: mosquitomole has made the advancement [Into Fire]
-[06:59:21] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
-[06:59:33] [Server thread/INFO]: gerumin3 has made the advancement [Cover Me with Diamonds]
-[06:59:50] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[06:59:50] [Server thread/INFO]: mosquitomole was burned to death
-[06:59:50] [Server thread/INFO]: juanchopepito2 has made the advancement [A Terrible Fortress]
-[06:59:55] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
-[07:00:10] [Server thread/INFO]: mosquitomole has made the advancement [Cover Me with Diamonds]
-[07:01:23] [Server thread/INFO]: juanchopepito2 ████▌ has made the advancement [Into Fire]
-[07:01:51] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
-[07:06:28] [Server thread/INFO]: mosquitomole ███ has made the advancement [Not Today, Thank You]
-[07:07:32] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
-[07:09:11] [Async Chat Thread - #6/INFO]: [Not Secure] <juanchopepito2> AL
-[07:09:18] [Async Chat Thread - #6/INFO]: [Not Secure] <juanchopepito2> BROTHER ALELUHYA
-[07:10:30] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
-[07:10:42] [Server thread/INFO]: mosquitomole issued server command: /tpo juanchopepito2
-[07:15:58] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[07:16:10] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[07:16:52] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[07:17:07] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[07:18:01] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[07:18:40] [Server thread/INFO]: gerumin3 was blown up by Creeper
-[07:18:45] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[07:20:11] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[07:20:31] [Server thread/INFO]: gerumin3 issued server command: /tpo mosquitomole
-[07:21:07] [Server thread/INFO]: gerumin3 issued server command: /tpo mosquitomole
-[07:21:12] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[07:21:27] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[07:21:31] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[07:22:13] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[07:22:42] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[07:22:44] [Async Chat Thread - #8/INFO]: [Not Secure] <juanchopepito2> BROTHER ALELUHYA
-[07:22:48] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
-[07:23:04] [Server thread/INFO]: gerumin3 issued server command: /tpo mosquitomole
-[07:24:13] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
-[07:24:13] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[07:26:47] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[07:29:01] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[07:30:06] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[07:30:58] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[07:31:44] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[07:32:36] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[07:32:47] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[07:32:54] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[07:33:06] [Server thread/INFO]: juanchopepito2 issued server command: /tpo mosquitomole
-[07:33:12] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3+
-[07:33:15] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
-[07:33:27] [Server thread/INFO]: gerumin3 issued server command: /tpo juanchopepito2
-[07:33:45] [Server thread/INFO]: mosquitomole lost connection: Disconnected
-[07:33:45] [Server thread/INFO]: mosquitomole left the game
-[07:33:59] [Server thread/WARN]: Oak Boat (vehicle of juanchopepito2) moved wrongly! 0.31730290813561624
-[07:33:59] [Server thread/WARN]: Oak Boat (vehicle of juanchopepito2) moved wrongly! 0.4521760257147207
-[07:33:59] [Server thread/WARN]: Oak Boat (vehicle of juanchopepito2) moved wrongly! 0.5773193410979047
-[07:34:02] [Server thread/WARN]: Oak Boat (vehicle of juanchopepito2) moved wrongly! 0.30303385757633805
-[07:34:28] [Server thread/INFO]: Stopping the server
-[07:34:28] [Server thread/INFO]: Stopping server
-[07:34:28] [Server thread/INFO]: [ClickTpa] Disabling ClickTpa v1.7.7
-[07:34:28] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
-[07:34:28] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.0
-[07:34:28] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[07:34:28] [Server thread/INFO]: [LuckPerms] Closing storage...
-[07:34:28] [Server thread/INFO]: [LuckPerms] Goodbye!
-[07:34:28] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
-[07:34:28] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[07:34:28] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[07:34:28] [Server thread/INFO]: [HealthBar-Reloaded] Disabling HealthBar-Reloaded v2.0.4.2
-[07:34:28] [Server thread/INFO]: HealthBar disabled: all the health bars have been removed.
-[07:34:28] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.5
-[07:34:28] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.1
-[07:34:28] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[07:34:28] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.1
-[07:34:28] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[07:34:28] [Server thread/INFO]: Saving players
-[07:34:28] [Server thread/INFO]: juanchopepito2 lost connection: Server closed
-[07:34:28] [Server thread/INFO]: juanchopepito2 left the game
-[07:34:28] [Server thread/INFO]: gerumin3 lost connection: Server closed
-[07:34:28] [Server thread/INFO]: gerumin3 left the game
-[07:34:28] [WebSocketConnectReadThread-302/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[07:34:28] [Server thread/INFO]: Saving worlds
-[07:34:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:34:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[07:34:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[07:34:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Saved 1382 block chunks, 838 entity chunks, 11 poi chunks in world 'world' in 2.10s
-[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[07:34:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Saved 58 block chunks, 42 entity chunks, 0 poi chunks in world 'world_nether' in 0.05s
-[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[07:34:30] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[07:34:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[07:34:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[07:34:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[07:34:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[07:34:31] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[07:34:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[07:34:31] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[07:34:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:34:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:34:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:34:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[07:34:31] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[07:34:31] [Server thread/INFO]: All I/O tasks to complete
-[07:34:31] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[07:34:31] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[19:17:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:17:29] [ServerMain/INFO]: Loaded 1370 recipes
+[19:17:29] [ServerMain/INFO]: Loaded 1481 advancements
+[19:17:29] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[19:17:29] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 209.6ms
+[19:17:29] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[19:17:29] [Server thread/INFO]: Loading properties
+[19:17:30] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[19:17:30] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:17:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:17:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:17:30] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[19:17:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[19:17:31] [Server thread/INFO]: Default game type: SURVIVAL
+[19:17:31] [Server thread/INFO]: Generating keypair
+[19:17:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:17:31] [Server thread/INFO]: Using epoll channel type
+[19:17:31] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:17:31] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[19:17:32] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[19:17:39] [Server thread/WARN]: Legacy plugin ClickTpa v1.7.7 does not specify an api-version.
+[19:17:39] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
+[19:17:39] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
+[19:17:39] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:17:39] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[19:17:40] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:17:40] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:17:40] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[19:17:41] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[19:17:41] [Server thread/INFO]: [floodgate] Took 788ms to boot Floodgate
+[19:17:41] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.1
+[19:17:41] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.5
+[19:17:41] [Server thread/INFO]: [HealthBar-Reloaded] Loading server plugin HealthBar-Reloaded v2.0.4.2
+[19:17:41] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
+[19:17:42] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[19:17:42] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[19:17:42] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
+[19:17:42] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
+[19:17:42] [Server thread/INFO]: [ClickTpa] Loading server plugin ClickTpa v1.7.7
+[19:17:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:17:42] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
+[19:17:43] [Server thread/INFO]:         __    
+[19:17:43] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.0
+[19:17:43] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[19:17:43] [Server thread/INFO]: 
+[19:17:43] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[19:17:43] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[19:17:43] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[19:17:43] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[19:17:43] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1215ms)
+[19:17:43] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
+[19:17:44] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[19:17:44] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[19:17:45] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[19:17:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:17:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:17:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:17:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:17:45] [Server thread/INFO]: Preparing level "world"
+[19:17:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:17:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:17:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[19:17:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[19:17:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[19:17:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:17:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:17:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
+[19:17:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
+[19:17:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[19:17:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:17:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[19:17:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[19:17:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:17:45] [Server thread/INFO]: Preparing spawn area: 0%
+[19:17:46] [Server thread/INFO]: Preparing spawn area: 12%
+[19:17:46] [Server thread/INFO]: Time elapsed: 915 ms
+[19:17:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:17:46] [Server thread/INFO]: Preparing spawn area: 0%
+[19:17:47] [Server thread/INFO]: Time elapsed: 439 ms
+[19:17:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:17:47] [Server thread/INFO]: Preparing spawn area: 0%
+[19:17:47] [Server thread/INFO]: Time elapsed: 106 ms
+[19:17:47] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
+[19:17:47] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
+[19:17:47] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[19:17:47] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.1
+[19:17:47] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.5
+[19:17:47] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.21.4 (Core v1_21x)
+[19:17:47] [Server thread/INFO]: [HealthBar-Reloaded] Enabling HealthBar-Reloaded v2.0.4.2
+[19:17:47] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
+[19:17:48] [Server thread/INFO]: [ClickTpa] Enabling ClickTpa v1.7.7*
+[19:17:48] [Server thread/INFO]: [ClickTpa] Vault not found - ClickTpa will not use economy functions.
+[19:17:48] [Server thread/INFO]: [ClickTpa] ClickTpa v1.7.7 has been loaded successfully!
+[19:17:48] [Server thread/INFO]: [ClickTpa] ---------------------------------------
+[19:17:48] [Server thread/INFO]: [ClickTpa] To any ClickTpa users who have a version before 1.7.7:
+[19:17:48] [Server thread/INFO]: [ClickTpa] There has been an update to the config; some messages have been removed.
+[19:17:48] [Server thread/INFO]: [ClickTpa] Therefore, if your config.yml is not updated, you will get errors.
+[19:17:48] [Server thread/INFO]: [ClickTpa] ---------------------------------------
+[19:17:48] [Server thread/INFO]: [spark] Starting background profiler...
+[19:17:48] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:17:48] [Server thread/INFO]: [Geyser-Spigot] 
+[19:17:48] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b887 (git-master-1f23d1d)
+[19:17:48] [Server thread/INFO]: [Geyser-Spigot] 
+[19:17:48] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:17:53] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2875
+[19:17:53] [Server thread/INFO]: [Geyser-Spigot] Done (4.525s)! Run /geyser help for help!
+[19:17:54] [Server thread/INFO]: Done preparing level "world" (9.453s)
+[19:17:54] [Server thread/INFO]: Running delayed init tasks
+[19:17:54] [Server thread/INFO]: Done (34.303s)! For help, type "help"
+[19:17:54] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[19:18:23] [User Authenticator #0/INFO]: UUID of player juanchopepito2 is 40389a6e-ea9b-3aba-9268-250987e03088
+[19:18:25] [Server thread/INFO]: juanchopepito2 joined the game
+[19:18:25] [Server thread/INFO]: juanchopepito2[/127.209.152.144:50899] logged in with entity id 19 at ([world]5680.971655876358, 63.0, 930.2775258117578)
