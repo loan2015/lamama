@@ -257,3 +257,4 @@
 [20:42:53] [Server thread/INFO]: Geruu has made the advancement [Monster Hunter]
 [20:58:46] [Server thread/INFO]: Villager Villager['||||||||||||||||||||'/18932, uuid='6c1c95d4-7b2b-43a0-a926-94d2e43754ae', l='ServerLevel[world]', x=-192.30, y=71.00, z=-690.70, cpos=[-13, -44], tl=58689, v=true] died, message: '|||||||||||||||||||| was slain by Zombie'
 [21:01:39] [Server thread/INFO]: Villager Villager['||||||||||||||||||||'/18976, uuid='414a734c-7e0f-4f52-8ea0-61451d9d26e5', l='ServerLevel[world]', x=-171.46, y=70.54, z=-749.26, cpos=[-11, -47], tl=62078, v=true] died, message: '|||||||||||||||||||| was slain by Zombie'
+[21:19:23] [Server thread/INFO]: Villager Villager['Mason'/18933, uuid='cebda056-97db-44d8-bcff-15d94b09004c', l='ServerLevel[world]', x=-297.54, y=81.00, z=-667.21, cpos=[-19, -42], tl=68274, v=true] died, message: 'Mason was slain by Zombie'
