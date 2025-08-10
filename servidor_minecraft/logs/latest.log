@@ -169,3 +169,16 @@
 [06:21:18] [Server thread/INFO]: juanchopepito2 has made the advancement [Spooky Scary Skeleton]
 [06:23:50] [Server thread/INFO]: juanchopepito2 has completed the challenge [Return to Sender]
 [06:26:12] [Server thread/INFO]: Geruu has made the advancement [Into Fire]
+[06:32:20] [Server thread/INFO]: Geruu lost connection: Disconnected
+[06:32:20] [Server thread/INFO]: Geruu left the game
+[06:33:07] [User Authenticator #2/INFO]: UUID of player gerumin3 is a3324957-3eb5-3682-b394-035cf734354d
+[06:33:08] [Server thread/INFO]: gerumin3 joined the game
+[06:33:08] [Server thread/INFO]: gerumin3[/127.82.55.12:55685] logged in with entity id 23959 at ([world]-181.65279700867714, 68.0, -732.6423558344812)
+[06:33:19] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
+[06:33:26] [Server thread/INFO]: gerumin3 lost connection: Disconnected
+[06:33:26] [Server thread/INFO]: gerumin3 ████ left the game
+[06:33:59] [User Authenticator #2/INFO]: UUID of player Geruu is 380a864f-1581-34e0-b4be-97e2449ac36e
+[06:34:00] [Server thread/INFO]: Geruu joined the game
+[06:34:00] [Server thread/INFO]: Geruu[/127.82.55.12:39725] logged in with entity id 24332 at ([world_nether]1406.3122743997385, 71.0, -275.69999998807907)
+[06:34:05] [Server thread/INFO]: Geruu issued server command: /tpo juanchopepito2
+[06:35:21] [Server thread/WARN]: juanchopepito2 moved wrongly!
