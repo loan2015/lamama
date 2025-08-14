@@ -262,3 +262,23 @@
 [07:00:24] [Server thread/INFO]: Geruu issued server command: /tpo juanchopepito2
 [07:03:33] [Server thread/INFO]: Geruu issued server command: /tpo juanchopepito2
 [07:05:05] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
+[07:06:05] [Async Chat Thread - #30/INFO]: [Not Secure] <juanchopepito2> 4:00
+[07:08:37] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
+[07:09:59] [Server thread/INFO]: juanchopepito2 lost connection: Disconnected
+[07:09:59] [Server thread/INFO]: juanchopepito2 ████▌ left the game
+[07:10:07] [User Authenticator #3/INFO]: UUID of player juanchopepito2 is 40389a6e-ea9b-3aba-9268-250987e03088
+[07:10:08] [Server thread/INFO]: juanchopepito2 joined the game
+[07:10:08] [Server thread/INFO]: juanchopepito2[/127.209.152.144:34663] logged in with entity id 82610 at ([world]630.6999999880791, 9.740749986886978, -1423.300000011921)
+[07:10:19] [Server thread/INFO]: Geruu fell from a high place
+[07:10:23] [Server thread/INFO]: Geruu issued server command: /tpo juanchopepito2
+[07:11:20] [Server thread/INFO]: Geruu lost connection: Disconnected
+[07:11:20] [Server thread/INFO]: Geruu left the game
+[07:12:06] [User Authenticator #4/INFO]: UUID of player gerumin3 is a3324957-3eb5-3682-b394-035cf734354d
+[07:12:07] [Server thread/INFO]: gerumin3 joined the game
+[07:12:07] [Server thread/INFO]: gerumin3[/127.82.55.12:54475] logged in with entity id 82900 at ([world]-164.30000001192093, 66.0, -724.3000000119209)
+[07:12:24] [Server thread/INFO]: gerumin3 lost connection: Disconnected
+[07:12:24] [Server thread/INFO]: gerumin3 left the game
+[07:13:02] [User Authenticator #4/INFO]: UUID of player Geruu is 380a864f-1581-34e0-b4be-97e2449ac36e
+[07:13:03] [Server thread/INFO]: Geruu joined the game
+[07:13:03] [Server thread/INFO]: Geruu[/127.82.55.12:34219] logged in with entity id 83223 at ([world]628.3000000119209, -6.0, -1433.300000011921)
+[07:14:58] [Server thread/INFO]: juanchopepito2 issued server command: /seed
