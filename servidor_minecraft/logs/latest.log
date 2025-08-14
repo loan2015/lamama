@@ -163,3 +163,8 @@
 [21:39:40] [Async Chat Thread - #0/INFO]: [Not Secure] <Geruu> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 [21:39:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Geruu> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 [21:51:15] [Async Chat Thread - #2/INFO]: [Not Secure] <juanchopepito2> zzz
+[21:52:31] [Server thread/INFO]: Geruu issued server command: /tpo juanchopepito2
+[21:56:22] [Server thread/INFO]: juanchopepito2 issued server command: /tpo gerumin3
+[21:56:25] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
+[22:00:00] [Async Chat Thread - #4/INFO]: [Not Secure] <Geruu> geru blows up
+[22:00:50] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
