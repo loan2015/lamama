@@ -1,186 +1,124 @@
-[05:15:24] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[05:15:24] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
-[05:15:24] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[05:15:25] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
-[05:15:25] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+[22:22:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[22:22:00] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
+[22:22:00] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:22:07] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[22:22:07] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
  - ClickTpa (1.7.7), Geyser-Spigot (2.8.2-SNAPSHOT), HealthBar-Reloaded (2.0.4.2), LuckPerms (5.5.0), SkinsRestorer (15.7.9), SmoothTimber (1.27.5), ViaBackwards (5.4.1), ViaVersion (5.4.1), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
-[05:15:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:15:33] [ServerMain/INFO]: Loaded 1370 recipes
-[05:15:33] [ServerMain/INFO]: Loaded 1481 advancements
-[05:15:33] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[05:15:33] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 274.9ms
-[05:15:33] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[05:15:33] [Server thread/INFO]: Loading properties
-[05:15:33] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[05:15:34] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[05:15:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[05:15:34] [Server thread/INFO]: Using 4 threads for Netty based IO
-[05:15:35] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[05:15:35] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[05:15:35] [Server thread/INFO]: Default game type: SURVIVAL
-[05:15:35] [Server thread/INFO]: Generating keypair
-[05:15:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:15:35] [Server thread/INFO]: Using epoll channel type
-[05:15:35] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[05:15:35] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[05:15:36] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[05:15:43] [Server thread/WARN]: Legacy plugin ClickTpa v1.7.7 does not specify an api-version.
-[05:15:43] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
-[05:15:43] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
-[05:15:44] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[05:15:44] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[05:15:44] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[05:15:44] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[05:15:45] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[05:15:46] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[05:15:46] [Server thread/INFO]: [floodgate] Took 777ms to boot Floodgate
-[05:15:46] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.1
-[05:15:46] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.5
-[05:15:46] [Server thread/INFO]: [HealthBar-Reloaded] Loading server plugin HealthBar-Reloaded v2.0.4.2
-[05:15:46] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[05:15:46] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[05:15:46] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[05:15:46] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
-[05:15:47] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.9
-[05:15:47] [Server thread/INFO]: [ClickTpa] Loading server plugin ClickTpa v1.7.7
-[05:15:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[05:15:47] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
-[05:15:47] [Server thread/INFO]:         __    
-[05:15:47] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.0
-[05:15:47] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[05:15:47] [Server thread/INFO]: 
-[05:15:47] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[05:15:47] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[05:15:48] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[05:15:48] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[05:15:48] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1265ms)
-[05:15:48] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.9
-[05:15:49] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[05:15:49] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[05:15:49] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[05:15:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:15:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:15:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:15:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:15:49] [Server thread/INFO]: Preparing level "world"
-[05:15:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:15:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:15:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[05:15:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[05:15:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[05:15:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:15:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:15:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.9
-[05:15:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: eb4ae0c
-[05:15:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[05:15:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:15:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[05:15:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[05:15:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:15:50] [Server thread/INFO]: Preparing spawn area: 0%
-[05:15:50] [Server thread/INFO]: Preparing spawn area: 6%
-[05:15:51] [Server thread/INFO]: Time elapsed: 921 ms
-[05:15:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[05:15:51] [Server thread/INFO]: Preparing spawn area: 0%
-[05:15:51] [Server thread/INFO]: Time elapsed: 264 ms
-[05:15:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[05:15:51] [Server thread/INFO]: Preparing spawn area: 0%
-[05:15:51] [Server thread/INFO]: Time elapsed: 169 ms
-[05:15:51] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
-[05:15:51] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
-[05:15:51] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[05:15:52] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.1
-[05:15:52] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.5
-[05:15:52] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.21.4 (Core v1_21x)
-[05:15:52] [Server thread/INFO]: [HealthBar-Reloaded] Enabling HealthBar-Reloaded v2.0.4.2
-[05:15:52] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[05:15:52] [Server thread/INFO]: [ClickTpa] Enabling ClickTpa v1.7.7*
-[05:15:52] [Server thread/INFO]: [ClickTpa] Vault not found - ClickTpa will not use economy functions.
-[05:15:52] [Server thread/INFO]: [ClickTpa] ClickTpa v1.7.7 has been loaded successfully!
-[05:15:52] [Server thread/INFO]: [ClickTpa] ---------------------------------------
-[05:15:52] [Server thread/INFO]: [ClickTpa] To any ClickTpa users who have a version before 1.7.7:
-[05:15:52] [Server thread/INFO]: [ClickTpa] There has been an update to the config; some messages have been removed.
-[05:15:52] [Server thread/INFO]: [ClickTpa] Therefore, if your config.yml is not updated, you will get errors.
-[05:15:52] [Server thread/INFO]: [ClickTpa] ---------------------------------------
-[05:15:52] [Server thread/INFO]: [spark] Starting background profiler...
-[05:15:53] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[05:15:53] [Server thread/INFO]: [Geyser-Spigot] 
-[05:15:53] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b887 (git-master-1f23d1d)
-[05:15:53] [Server thread/INFO]: [Geyser-Spigot] 
-[05:15:53] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[05:15:57] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2875
-[05:15:57] [Server thread/INFO]: [Geyser-Spigot] Done (4.32s)! Run /geyser help for help!
-[05:15:57] [Server thread/INFO]: Done preparing level "world" (7.992s)
-[05:15:57] [Server thread/INFO]: Running delayed init tasks
-[05:15:57] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[05:15:57] [Server thread/INFO]: Done (33.984s)! For help, type "help"
-[05:15:57] [ForkJoinPool.commonPool-worker-1/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.21.100. Download it here: https://geysermc.org/download
-[05:15:58] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
-[05:17:29] [User Authenticator #0/INFO]: UUID of player juanchopepito2 is 40389a6e-ea9b-3aba-9268-250987e03088
-[05:17:31] [Server thread/INFO]: juanchopepito2 joined the game
-[05:17:31] [Server thread/INFO]: juanchopepito2[/127.209.152.144:40987] logged in with entity id 55 at ([world]-1191.619262891692, 56.0, -1043.5714051316234)
-[05:20:47] [User Authenticator #1/INFO]: UUID of player Geruu is 380a864f-1581-34e0-b4be-97e2449ac36e
-[05:20:49] [Server thread/INFO]: Geruu joined the game
-[05:20:49] [Server thread/INFO]: Geruu[/127.82.55.12:39573] logged in with entity id 3609 at ([world]-750.8713735645375, 127.36080000519752, -1485.9973855219735)
-[05:26:51] [Server thread/INFO]: Geruu issued server command: /tpo juanchopepito2
-[05:47:19] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
-[05:52:26] [Server thread/INFO]: Geruu issued server command: /tpo juanchopepito2
-[06:06:06] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
-[06:08:34] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
-[06:25:08] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
-[06:32:36] [Server thread/INFO]: juanchopepito2 fell from a high place
-[06:34:30] [Server thread/INFO]: Geruu issued server command: /tpo juanchopepito2
-[06:41:46] [Server thread/INFO]: juanchopepito2 lost connection: Disconnected
-[06:41:46] [Server thread/INFO]: juanchopepito2 left the game
-[06:41:48] [Server thread/INFO]: Geruu lost connection: Disconnected
-[06:41:48] [Server thread/INFO]: Geruu left the game
-[06:42:00] [Server thread/INFO]: Stopping the server
-[06:42:00] [Server thread/INFO]: Stopping server
-[06:42:00] [Server thread/INFO]: [ClickTpa] Disabling ClickTpa v1.7.7
-[06:42:00] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.9
-[06:42:00] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.0
-[06:42:00] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[06:42:00] [Server thread/INFO]: [LuckPerms] Closing storage...
-[06:42:00] [Server thread/INFO]: [LuckPerms] Goodbye!
-[06:42:00] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
-[06:42:00] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[06:42:00] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[06:42:00] [Server thread/INFO]: [HealthBar-Reloaded] Disabling HealthBar-Reloaded v2.0.4.2
-[06:42:00] [Server thread/INFO]: HealthBar disabled: all the health bars have been removed.
-[06:42:00] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.5
-[06:42:00] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.1
-[06:42:00] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[06:42:00] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.1
-[06:42:00] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[06:42:00] [Server thread/INFO]: Saving players
-[06:42:00] [Server thread/INFO]: Saving worlds
-[06:42:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:42:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[06:42:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[06:42:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[06:42:00] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 107 entity chunks, 0 poi chunks in world 'world' in 0.03s
-[06:42:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[06:42:00] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[06:42:00] [WebSocketConnectReadThread-116/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[06:42:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[06:42:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[06:42:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[06:42:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[06:42:00] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[06:42:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[06:42:00] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[06:42:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[06:42:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[06:42:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[06:42:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[06:42:01] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 28 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[06:42:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[06:42:01] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[06:42:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:42:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:42:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:42:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[06:42:01] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[06:42:01] [Server thread/INFO]: All I/O tasks to complete
-[06:42:01] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[06:42:01] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[22:22:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:22:15] [ServerMain/INFO]: Loaded 1370 recipes
+[22:22:15] [ServerMain/INFO]: Loaded 1481 advancements
+[22:22:15] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[22:22:15] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 235.8ms
+[22:22:16] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[22:22:16] [Server thread/INFO]: Loading properties
+[22:22:16] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[22:22:16] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:22:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:22:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:22:17] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[22:22:17] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[22:22:17] [Server thread/INFO]: Default game type: SURVIVAL
+[22:22:17] [Server thread/INFO]: Generating keypair
+[22:22:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:22:17] [Server thread/INFO]: Using epoll channel type
+[22:22:17] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:22:17] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[22:22:18] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[22:22:25] [Server thread/WARN]: Legacy plugin ClickTpa v1.7.7 does not specify an api-version.
+[22:22:25] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
+[22:22:25] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
+[22:22:26] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[22:22:26] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[22:22:26] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[22:22:26] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[22:22:27] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[22:22:28] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[22:22:28] [Server thread/INFO]: [floodgate] Took 1,111ms to boot Floodgate
+[22:22:28] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.1
+[22:22:28] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.5
+[22:22:28] [Server thread/INFO]: [HealthBar-Reloaded] Loading server plugin HealthBar-Reloaded v2.0.4.2
+[22:22:28] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
+[22:22:28] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[22:22:28] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[22:22:28] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
+[22:22:29] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.9
+[22:22:29] [Server thread/INFO]: [ClickTpa] Loading server plugin ClickTpa v1.7.7
+[22:22:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:22:29] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
+[22:22:29] [Server thread/INFO]:         __    
+[22:22:29] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.0
+[22:22:29] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[22:22:29] [Server thread/INFO]: 
+[22:22:29] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[22:22:30] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[22:22:30] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[22:22:30] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[22:22:31] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1354ms)
+[22:22:31] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.9
+[22:22:32] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[22:22:32] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[22:22:32] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:22:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:22:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:22:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:22:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:22:32] [Server thread/INFO]: Preparing level "world"
+[22:22:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:22:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:22:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:22:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:22:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:22:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:22:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:22:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.9
+[22:22:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: eb4ae0c
+[22:22:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:22:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:22:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:22:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:22:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:22:33] [Server thread/INFO]: Preparing spawn area: 0%
+[22:22:33] [Server thread/INFO]: Preparing spawn area: 0%
+[22:22:34] [Server thread/INFO]: Preparing spawn area: 10%
+[22:22:34] [Server thread/INFO]: Time elapsed: 1062 ms
+[22:22:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:22:34] [Server thread/INFO]: Preparing spawn area: 0%
+[22:22:34] [Server thread/INFO]: Time elapsed: 425 ms
+[22:22:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:22:34] [Server thread/INFO]: Preparing spawn area: 0%
+[22:22:34] [Server thread/INFO]: Time elapsed: 129 ms
+[22:22:34] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
+[22:22:34] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
+[22:22:34] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[22:22:35] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.1
+[22:22:35] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.5
+[22:22:35] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.21.4 (Core v1_21x)
+[22:22:35] [Server thread/INFO]: [HealthBar-Reloaded] Enabling HealthBar-Reloaded v2.0.4.2
+[22:22:35] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
+[22:22:35] [Server thread/INFO]: [ClickTpa] Enabling ClickTpa v1.7.7*
+[22:22:35] [Server thread/INFO]: [ClickTpa] Vault not found - ClickTpa will not use economy functions.
+[22:22:35] [Server thread/INFO]: [ClickTpa] ClickTpa v1.7.7 has been loaded successfully!
+[22:22:35] [Server thread/INFO]: [ClickTpa] ---------------------------------------
+[22:22:35] [Server thread/INFO]: [ClickTpa] To any ClickTpa users who have a version before 1.7.7:
+[22:22:35] [Server thread/INFO]: [ClickTpa] There has been an update to the config; some messages have been removed.
+[22:22:35] [Server thread/INFO]: [ClickTpa] Therefore, if your config.yml is not updated, you will get errors.
+[22:22:35] [Server thread/INFO]: [ClickTpa] ---------------------------------------
+[22:22:35] [Server thread/INFO]: [spark] Starting background profiler...
+[22:22:36] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[22:22:36] [Server thread/INFO]: [Geyser-Spigot] 
+[22:22:36] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b887 (git-master-1f23d1d)
+[22:22:36] [Server thread/INFO]: [Geyser-Spigot] 
+[22:22:36] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[22:22:41] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2875
+[22:22:41] [Server thread/INFO]: [Geyser-Spigot] Done (4.372s)! Run /geyser help for help!
+[22:22:41] [ForkJoinPool.commonPool-worker-1/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.21.100. Download it here: https://geysermc.org/download
+[22:22:41] [Server thread/INFO]: Done preparing level "world" (8.943s)
+[22:22:41] [Server thread/INFO]: Running delayed init tasks
+[22:22:41] [Server thread/INFO]: Done (42.968s)! For help, type "help"
+[22:22:41] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[22:22:41] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
+[22:23:26] [User Authenticator #0/INFO]: UUID of player Geruu is 380a864f-1581-34e0-b4be-97e2449ac36e
+[22:23:27] [Server thread/INFO]: Geruu joined the game
+[22:23:27] [Server thread/INFO]: Geruu[/127.82.55.12:34857] logged in with entity id 51 at ([world]-139.4546036727176, 64.0, -655.4943808478591)
+[22:23:28] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 7f9c6fd1-141f-4ec8-9dfd-64e9adc7ac10, mapped to Cod['Cod'/75, uuid='7f9c6fd1-141f-4ec8-9dfd-64e9adc7ac10', l='ServerLevel[world]', x=-121.38, y=52.05, z=-592.26, cpos=[-8, -38], tl=0, v=true], can't add Cod['Cod'/100, uuid='7f9c6fd1-141f-4ec8-9dfd-64e9adc7ac10', l='ServerLevel[world]', x=-121.36, y=52.08, z=-591.75, cpos=[-8, -37], tl=0, v=false]
+[22:23:29] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 302ac152-f543-469b-8e93-1be0f3799835, mapped to Bat['Bat'/162, uuid='302ac152-f543-469b-8e93-1be0f3799835', l='ServerLevel[world]', x=-189.17, y=-3.04, z=-565.45, cpos=[-12, -36], tl=0, v=true], can't add Bat['Bat'/189, uuid='302ac152-f543-469b-8e93-1be0f3799835', l='ServerLevel[world]', x=-192.28, y=-2.16, z=-568.23, cpos=[-13, -36], tl=0, v=false]
