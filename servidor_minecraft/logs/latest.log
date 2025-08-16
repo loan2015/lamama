@@ -12,3 +12,8 @@
 [00:53:38] [User Authenticator #4/INFO]: UUID of player juanchopepito2 is 40389a6e-ea9b-3aba-9268-250987e03088
 [00:53:39] [Server thread/INFO]: juanchopepito2 joined the game
 [00:53:39] [Server thread/INFO]: juanchopepito2[/127.209.152.144:42223] logged in with entity id 39689 at ([world]-196.99001841051256, 71.0, -673.3000000119209)
+[01:08:14] [Server thread/INFO]: juanchopepito2 lost connection: Disconnected
+[01:08:14] [Server thread/INFO]: juanchopepito2 left the game
+[01:09:53] [User Authenticator #5/INFO]: UUID of player juanchopepito2 is 40389a6e-ea9b-3aba-9268-250987e03088
+[01:09:54] [Server thread/INFO]: juanchopepito2 joined the game
+[01:09:54] [Server thread/INFO]: juanchopepito2[/127.209.152.144:46281] logged in with entity id 44818 at ([world]-196.57570799241378, 72.0, -672.5411190429461)
