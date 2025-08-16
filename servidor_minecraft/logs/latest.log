@@ -170,3 +170,10 @@
 [23:25:52] [Server thread/INFO]: Geruu joined the game
 [23:25:52] [Server thread/INFO]: Geruu[/127.82.55.12:48701] logged in with entity id 12587 at ([world]-44.02905784699983, 63.0, -375.58345191084544)
 [23:32:14] [Server thread/WARN]: juanchopepito2 moved wrongly!
+[23:55:24] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
+[23:57:05] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
+[23:57:33] [Server thread/INFO]: Geruu lost connection: Disconnected
+[23:57:33] [Server thread/INFO]: Geruu left the game
+[23:57:44] [User Authenticator #3/INFO]: UUID of player Geruu is 380a864f-1581-34e0-b4be-97e2449ac36e
+[23:57:45] [Server thread/INFO]: Geruu joined the game
+[23:57:45] [Server thread/INFO]: Geruu[/127.82.55.12:56277] logged in with entity id 27538 at ([world]-45.69999998807907, 91.0, -364.58862305946997)
