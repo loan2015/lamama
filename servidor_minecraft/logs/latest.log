@@ -157,3 +157,5 @@
 [23:18:10] [Server thread/INFO]: juanchopepito2[/127.209.152.144:60435] logged in with entity id 38506 at ([world]-180.69999998807907, 71.0, -637.3204050098492)
 [23:20:07] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
 [23:25:24] [Server thread/WARN]: juanchopepito2 moved wrongly!
+[23:31:15] [Server thread/INFO]: Villager Villager['||||||||||||||||||||'/30916, uuid='bf4487ad-f47f-45b2-9caa-7887214c02e9', l='ServerLevel[world]', x=-178.44, y=66.00, z=-1381.57, cpos=[-12, -87], tl=61729, v=true] died, message: '|||||||||||||||||||| was shot by juanchopepito2'
+[23:35:14] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
