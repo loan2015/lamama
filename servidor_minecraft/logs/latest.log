@@ -147,3 +147,65 @@
 [21:28:25] [Async Chat Thread - #2/INFO]: [Not Secure] <Geruu> porque pensas mas
 [21:28:31] [Async Chat Thread - #2/INFO]: [Not Secure] <Geruu> viste
 [21:29:56] [Async Chat Thread - #4/INFO]: [Not Secure] <Geruu> libera a 4 chambeadores
+[21:30:40] [Async Chat Thread - #4/INFO]: [Not Secure] <juanchopepito2> zzz
+[21:30:41] [Async Chat Thread - #4/INFO]: [Not Secure] <Geruu> sep
+[21:30:47] [Async Chat Thread - #4/INFO]: [Not Secure] <Geruu> noooo
+[21:30:51] [Async Chat Thread - #4/INFO]: [Not Secure] <Geruu> es que sino no podes pensar
+[21:30:56] [Async Chat Thread - #4/INFO]: [Not Secure] <Geruu> entonces no puedo hablar
+[21:30:58] [Async Chat Thread - #4/INFO]: [Not Secure] <Geruu> viste
+[21:31:05] [Async Chat Thread - #4/INFO]: [Not Secure] <Geruu> claaro
+[21:31:21] [Async Chat Thread - #4/INFO]: [Not Secure] <Geruu> porque al nene le cuesta poner su nombre desde hace 20 añitos
+[21:32:42] [Server thread/INFO]: Geruu lost connection: Disconnected
+[21:32:42] [Server thread/INFO]: Geruu left the game
+[21:32:47] [Server thread/INFO]: juanchopepito2 lost connection: Disconnected
+[21:32:47] [Server thread/INFO]: juanchopepito2 left the game
+[21:32:57] [Server thread/INFO]: Stopping the server
+[21:32:57] [Server thread/INFO]: Stopping server
+[21:32:57] [Server thread/INFO]: [ClickTpa] Disabling ClickTpa v1.7.7
+[21:32:57] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.9
+[21:32:57] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.0
+[21:32:57] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[21:32:57] [Server thread/INFO]: [LuckPerms] Closing storage...
+[21:32:57] [Server thread/INFO]: [LuckPerms] Goodbye!
+[21:32:57] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
+[21:32:57] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[21:32:57] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[21:32:57] [Server thread/INFO]: [HealthBar-Reloaded] Disabling HealthBar-Reloaded v2.0.4.2
+[21:32:57] [Server thread/INFO]: HealthBar disabled: all the health bars have been removed.
+[21:32:57] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.5
+[21:32:57] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.1
+[21:32:57] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[21:32:57] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.1
+[21:32:57] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[21:32:57] [Server thread/INFO]: Saving players
+[21:32:57] [Server thread/INFO]: Saving worlds
+[21:32:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:32:57] [WebSocketConnectReadThread-117/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 32 entity chunks, 0 poi chunks in world 'world' in 0.03s
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[21:32:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 9 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[21:32:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[21:32:57] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[21:32:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:32:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:32:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:32:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:32:57] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[21:32:57] [Server thread/INFO]: All I/O tasks to complete
+[21:32:57] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[21:32:57] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
