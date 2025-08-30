@@ -127,3 +127,8 @@
 [20:41:58] [User Authenticator #0/INFO]: UUID of player juanchopepito2 is 40389a6e-ea9b-3aba-9268-250987e03088
 [20:41:59] [Server thread/INFO]: juanchopepito2 joined the game
 [20:41:59] [Server thread/INFO]: juanchopepito2[/127.209.152.144:54581] logged in with entity id 25 at ([world]-179.55888882179593, 63.9375, -1345.0462954499064)
+[21:01:48] [User Authenticator #1/INFO]: UUID of player Geruu is 380a864f-1581-34e0-b4be-97e2449ac36e
+[21:01:50] [Server thread/INFO]: Geruu joined the game
+[21:01:50] [Server thread/INFO]: Geruu[/127.82.55.12:42661] logged in with entity id 9713 at ([world]-125.77746765879537, 63.0, -616.0941890254425)
+[21:02:43] [Server thread/INFO]: Geruu issued server command: /tpo juanchopepito2
+[21:05:01] [Server thread/INFO]: Geruu issued server command: /tpo juanchopepito2
