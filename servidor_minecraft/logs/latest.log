@@ -132,3 +132,8 @@
 [21:01:50] [Server thread/INFO]: Geruu[/127.82.55.12:42661] logged in with entity id 9713 at ([world]-125.77746765879537, 63.0, -616.0941890254425)
 [21:02:43] [Server thread/INFO]: Geruu issued server command: /tpo juanchopepito2
 [21:05:01] [Server thread/INFO]: Geruu issued server command: /tpo juanchopepito2
+[21:09:58] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
+[21:13:23] [Server thread/INFO]: juanchopepito2 issued server command: /tpo Geruu
+[21:17:36] [Server thread/INFO]: Geruu issued server command: /tpo juanchopepito2
+[21:17:53] [Server thread/INFO]: Villager Villager['||||||||||||||||||||'/7728, uuid='049dfea5-f556-4713-b2ba-793c1dc1c2e0', l='ServerLevel[world]', x=-195.30, y=62.00, z=-1346.70, cpos=[-13, -85], tl=25035, v=true] died, message: '|||||||||||||||||||| was slain by Zombie'
+[21:17:56] [Server thread/INFO]: Villager Villager['||||||||||||||||||||'/7726, uuid='9cf17c85-37e9-4b4a-a745-3677e0e26437', l='ServerLevel[world]', x=-195.70, y=62.00, z=-1346.70, cpos=[-13, -85], tl=25095, v=true] died, message: '|||||||||||||||||||| was slain by Zombie'
